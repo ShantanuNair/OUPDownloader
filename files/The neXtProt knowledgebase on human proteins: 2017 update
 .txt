@@ -1,1 +1,0 @@
-The neXtProt human protein knowledgebase (https://www.nextprot.org) continues to add new content and tools, with a focus on proteomics and genetic variation data. neXtProt now has proteomics data for over 85% of the human proteins, as well as new tools tailored to the proteomics community.
