@@ -6,7 +6,8 @@ import os
 import errno
 import json
 from thread import start_new_thread
-
+import time
+import random
 
 desktop_agents = ['Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36',
                  'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36',
@@ -24,6 +25,7 @@ def random_headers():
 
 
 def getDoi(year, issue, page):
+  time.sleep(random.randint(2,5))
   foldername = 'year' + year
   response = requests.post("https://wrapapi.com/use/sjn/testoup/oup/0.0.7", json={
     "year": year,
