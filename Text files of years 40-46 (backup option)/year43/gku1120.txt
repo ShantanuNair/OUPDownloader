@@ -1,0 +1,47 @@
+TITLE: The DDBJ Japanese Genotype-phenotype Archive for genetic and phenotypic human data
+ 
+The DNA Data Bank of Japan Center (DDBJ Center; http://www.ddbj.nig.ac.jp) maintains and provides public archival, retrieval and analytical services for biological information. Since October 2013, DDBJ Center has operated the Japanese Genotype-phenotype Archive (JGA) in collaboration with our partner institute, the National Bioscience Database Center (NBDC) of the Japan Science and Technology Agency. DDBJ Center provides the JGA database system which securely stores genotype and phenotype data collected from individuals whose consent agreements authorize data release only for specific research use. NBDC has established guidelines and policies for sharing human-derived data and reviews data submission and usage requests from researchers. In addition to the JGA project, DDBJ Center develops Semantic Web technologies for data integration and sharing in collaboration with the Database Center for Life Science. This paper describes the overview of the JGA project, updates to the DDBJ databases, and services for data retrieval, analysis and integration.
+
+AUTHORS:
+
+Yuichi Kodama
+Jun Mashima
+Takehide Kosuge
+Toshiaki Katayama
+Takatomo Fujisawa
+Eli Kaminuma
+Osamu Ogasawara
+Kousaku Okubo
+Toshihisa Takagi
+Yasukazu Nakamura
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

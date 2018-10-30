@@ -1,0 +1,22 @@
+TITLE: Lnc2Cancer: a manually curated database of experimentally supported lncRNAs associated with various human cancers
+ 
+Lnc2Cancer (http://www.bio-bigdata.net/lnc2cancer) is a manually curated database of cancer-associated long non-coding RNAs (lncRNAs) with experimental support that aims to provide a high-quality and integrated resource for exploring lncRNA deregulation in various human cancers. LncRNAs represent a large category of functional RNA molecules that play a significant role in human cancers. A curated collection and summary of deregulated lncRNAs in cancer is essential to thoroughly understand the mechanisms and functions of lncRNAs. Here, we developed the Lnc2Cancer database, which contains 1057 manually curated associations between 531 lncRNAs and 86 human cancers. Each association includes lncRNA and cancer name, the lncRNA expression pattern, experimental techniques, a brief functional description, the original reference and additional annotation information. Lnc2Cancer provides a user-friendly interface to conveniently browse, retrieve and download data. Lnc2Cancer also offers a submission page for researchers to submit newly validated lncRNA-cancer associations. With the rapidly increasing interest in lncRNAs, Lnc2Cancer will significantly improve our understanding of lncRNA deregulation in cancer and has the potential to be a timely and valuable resource.
+
+AUTHORS:
+
+Shangwei Ning
+Jizhou Zhang
+Peng Wang
+Hui Zhi
+Jianjian Wang
+Yue Liu
+Yue Gao
+Maoni Guo
+Ming Yue
+Lihua Wang
+Xia Li
+
+KEYWORDS:
+
+cancer
+rna

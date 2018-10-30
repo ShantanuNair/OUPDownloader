@@ -1,0 +1,35 @@
+TITLE: Expanded national database collection and data coverage in the FINDbase worldwide database for clinically relevant genomic variation allele frequencies
+ 
+FINDbase (http://www.findbase.org) is a comprehensive data repository that records the prevalence of clinically relevant genomic variants in various populations worldwide, such as pathogenic variants leading mostly to monogenic disorders and pharmacogenomics biomarkers. The database also records the incidence of rare genetic diseases in various populations, all in well-distinct data modules. Here, we report extensive data content updates in all data modules, with direct implications to clinical pharmacogenomics. Also, we report significant new developments in FINDbase, namely (i) the release of a new version of the ETHNOS software that catalyzes development curation of national/ethnic genetic databases, (ii) the migration of all FINDbase data content into 90 distinct national/ethnic mutation databases, all built around Microsoft's PivotViewer (http://www.getpivot.com) software (iii) new data visualization tools and (iv) the interrelation of FINDbase with DruGeVar database with direct implications in clinical pharmacogenomics. The abovementioned updates further enhance the impact of FINDbase, as a key resource for Genomic Medicine applications.
+
+AUTHORS:
+
+Emmanouil Viennas
+Angeliki Komianou
+Clint Mizzi
+Maja Stojiljkovic
+Christina Mitropoulou
+Juha Muilu
+Mauno Vihinen
+Panagiota Grypioti
+Styliani Papadaki
+Cristiana Pavlidis
+Branka Zukic
+Theodora Katsila
+Peter J. van der Spek
+Sonja Pavlovic
+Giannis Tzimas
+George P. Patrinos
+
+KEYWORDS:
+
+mutation
+pharmacogenomics
+genetic disorder
+biological markers
+genetic databases
+gene frequency
+genome
+software
+genomic medicine
+mendelian disorders

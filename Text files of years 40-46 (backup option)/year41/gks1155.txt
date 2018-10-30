@@ -1,0 +1,25 @@
+TITLE: Human Ageing Genomic Resources: Integrated databases and tools for the biology and genetics of ageing
+ 
+The Human Ageing Genomic Resources (HAGR, http://genomics.senescence.info) is a freely available online collection of research databases and tools for the biology and genetics of ageing. HAGR features now several databases with high-quality manually curated data: (i) GenAge, a database of genes associated with ageing in humans and model organisms; (ii) AnAge, an extensive collection of longevity records and complementary traits for >4000 vertebrate species; and (iii) GenDR, a newly incorporated database, containing both gene mutations that interfere with dietary restriction-mediated lifespan extension and consistent gene expression changes induced by dietary restriction. Since its creation about 10 years ago, major efforts have been undertaken to maintain the quality of data in HAGR, while further continuing to develop, improve and extend it. This article briefly describes the content of HAGR and details the major updates since its previous publications, in terms of both structure and content. The completely redesigned interface, more intuitive and more integrative of HAGR resources, is also presented. Altogether, we hope that through its improvements, the current version of HAGR will continue to provide users with the most comprehensive and accessible resources available today in the field of biogerontology.
+
+AUTHORS:
+
+Robi Tacutu
+Thomas Craig
+Arie Budovsky
+Daniel Wuttke
+Gilad Lehmann
+Dmitri Taranukha
+Joana Costa
+Vadim E. Fraifeld
+João Pedro de Magalhães
+
+KEYWORDS:
+
+aging
+genes
+genome
+genomics
+longevity
+genetics
+life span

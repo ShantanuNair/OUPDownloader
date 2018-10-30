@@ -1,0 +1,17 @@
+TITLE: PASS2 database for the structure-based sequence alignment of distantly related SCOP domain superfamilies: update to version 5 and added features
+ 
+Structure-based sequence alignment is an essential step in assessing and analysing the relationship of distantly related proteins. PASS2 is a database that records such alignments for protein domain superfamilies and has been constantly updated periodically. This update of the PASS2 version, named as PASS2.5, directly corresponds to the SCOPe 2.04 release. All SCOPe structural domains that share less than 40% sequence identity, as defined by the ASTRAL compendium of protein structures, are included. The current version includes 1977 superfamilies and has been assembled utilizing the structure-based sequence alignment protocol. Such an alignment is obtained initially through MATT, followed by a refinement through the COMPARER program. The JOY program has been used for structural annotations of such alignments. In this update, we have automated the protocol and focused on inclusion of new features such as mapping of GO terms, absolutely conserved residues among the domains in a superfamily and inclusion of PDBs, that are absent in SCOPe 2.04, using the HMM profiles from the alignments of the superfamily members and are provided as a separate list. We have also implemented a more user-friendly manner of data presentation and options for downloading more features. PASS2.5 version is available at http://caps.ncbs.res.in/pass2/.
+
+AUTHORS:
+
+Arumugam Gandhimathi
+Pritha Ghosh
+Sridhar Hariharaputran
+Oommen K. Mathew
+R. Sowdhamini
+
+KEYWORDS:
+
+happiness
+sequence alignment
+protein domains

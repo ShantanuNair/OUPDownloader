@@ -1,0 +1,16 @@
+TITLE: NCG 5.0: updates of a manually curated repository of cancer genes and associated properties from cancer mutational screenings
+ 
+The Network of Cancer Genes (NCG, http://ncg.kcl.ac.uk/) is a manually curated repository of cancer genes derived from the scientific literature. Due to the increasing amount of cancer genomic data, we have introduced a more robust procedure to extract cancer genes from published cancer mutational screenings and two curators independently reviewed each publication. NCG release 5.0 (August 2015) collects 1571 cancer genes from 175 published studies that describe 188 mutational screenings of 13 315 cancer samples from 49 cancer types and 24 primary sites. In addition to collecting cancer genes, NCG also provides information on the experimental validation that supports the role of these genes in cancer and annotates their properties (duplicability, evolutionary origin, expression profile, function and interactions with proteins and miRNAs).
+
+AUTHORS:
+
+Omer An
+Giovanni M. Dall'Olio
+Thanos P. Mourikis
+Francesca D. Ciccarelli
+
+KEYWORDS:
+
+cancer
+genes
+oncogenes

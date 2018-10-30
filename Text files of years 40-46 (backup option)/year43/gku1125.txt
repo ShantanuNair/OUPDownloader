@@ -1,0 +1,56 @@
+TITLE: MiCroKiTS 4.0: a database of midbody, centrosome, kinetochore, telomere and spindle
+ 
+We reported an updated database of MiCroKiTS 4.0 (http://microkit.biocuckoo.org) for proteins temporally and spatially localized in distinct subcellular positions including midbody, centrosome, kinetochore, telomere and mitotic spindle during cell division/mitosis. The database was updated from our previously developed database of MiCroKit 3.0, which contained 1489 proteins mostly forming super-complexes at midbody, centrosome and kinetochore from seven eukaryotes. Since the telomere and spindle apparatus are critical for cell division, the proteins localized at the two positions were also integrated. From the scientific literature, we curated 1872 experimentally identified proteins which at least locate in one of the five positions from eight species. Then the ortholog detection was performed to identify potential MiCroKiTS proteins from 144 eukaryotic organisms, which contains 66, 45 and 33 species of animals, fungi and plants, respectively. In total, 87 983 unique proteins with corresponding localization information were integrated into the database. The primary references of experimentally identified localizations were provided and the fluorescence microscope figures for the localizations of human proteins were shown. The orthologous relations between predicted and experimental localizations were also present. Taken together, we anticipate the database can serve as a useful resource for further analyzing the molecular mechanisms during cell division.
+
+AUTHORS:
+
+Zhengnan Huang
+Lili Ma
+Yongbo Wang
+Zhicheng Pan
+Jian Ren
+Zexian Liu
+Yu Xue
+
+KEYWORDS:
+
+cell growth
+centrosome
+eukaryotic cells
+fluorescence
+kinetochores
+mitosis
+mitotic spindle apparatus
+plants
+telomere
+fungus
+microscopes
+complex
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

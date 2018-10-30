@@ -1,0 +1,48 @@
+TITLE: The immune epitope database (IEDB) 3.0
+ 
+The IEDB, www.iedb.org, contains information on immune epitopes—the molecular targets of adaptive immune responses—curated from the published literature and submitted by National Institutes of Health funded epitope discovery efforts. From 2004 to 2012 the IEDB curation of journal articles published since 1960 has caught up to the present day, with >95% of relevant published literature manually curated amounting to more than 15 000 journal articles and more than 704 000 experiments to date. The revised curation target since 2012 has been to make recent research findings quickly available in the IEDB and thereby ensure that it continues to be an up-to-date resource. Having gathered a comprehensive dataset in the IEDB, a complete redesign of the query and reporting interface has been performed in the IEDB 3.0 release to improve how end users can access this information in an intuitive and biologically accurate manner. We here present this most recent release of the IEDB and describe the user testing procedures as well as the use of external ontologies that have enabled it.
+
+AUTHORS:
+
+Randi Vita
+James A. Overton
+Jason A. Greenbaum
+Julia Ponomarenko
+Jason D. Clark
+Jason R. Cantrell
+Daniel K. Wheeler
+Joseph L. Gabbard
+Deborah Hix
+Alessandro Sette
+Bjoern Peters
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

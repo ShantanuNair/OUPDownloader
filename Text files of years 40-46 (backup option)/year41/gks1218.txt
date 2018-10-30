@@ -1,0 +1,21 @@
+TITLE: KIDFamMap: a database of kinase-inhibitor-disease family maps for kinase inhibitor selectivity and binding mechanisms
+ 
+Kinases play central roles in signaling pathways and are promising therapeutic targets for many diseases. Designing selective kinase inhibitors is an emergent and challenging task, because kinases share an evolutionary conserved ATP-binding site. KIDFamMap (http://gemdock.life.nctu.edu.tw/KIDFamMap/) is the first database to explore kinase-inhibitor families (KIFs) and kinase-inhibitor-disease (KID) relationships for kinase inhibitor selectivity and mechanisms. This database includes 1208 KIFs, 962 KIDs, 55 603 kinase-inhibitor interactions (KIIs), 35 788 kinase inhibitors, 399 human protein kinases, 339 diseases and 638 disease allelic variants. Here, a KIF can be defined as follows: (i) the kinases in the KIF with significant sequence similarity, (ii) the inhibitors in the KIF with significant topology similarity and (iii) the KIIs in the KIF with significant interaction similarity. The KIIs within a KIF are often conserved on some consensus KIDFamMap anchors, which represent conserved interactions between the kinase subsites and consensus moieties of their inhibitors. Our experimental results reveal that the members of a KIF often possess similar inhibition profiles. The KIDFamMap anchors can reflect kinase conformations types, kinase functions and kinase inhibitor selectivity. We believe that KIDFamMap provides biological insights into kinase inhibitor selectivity and binding mechanisms.
+
+AUTHORS:
+
+Yi-Yuan Chiu
+Chih-Ta Lin
+Jhang-Wei Huang
+Kai-Cheng Hsu
+Jen-Hu Tseng
+Syuan-Ren You
+Jinn-Moon Yang
+
+KEYWORDS:
+
+phosphotransferases
+protein kinase
+kinase inhibitors
+maps
+consensus

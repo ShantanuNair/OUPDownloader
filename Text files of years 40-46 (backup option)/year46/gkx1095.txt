@@ -1,0 +1,24 @@
+TITLE: Database resources of the National Center for Biotechnology Information
+ 
+The National Center for Biotechnology Information (NCBI) provides a large suite of online resources for biological information and data, including the GenBank® nucleic acid sequence database and the PubMed database of citations and abstracts for published life science journals. The Entrez system provides search and retrieval operations for most of these data from 39 distinct databases. The E-utilities serve as the programming interface for the Entrez system. Augmenting many of the Web applications are custom implementations of the BLAST program optimized to search specialized data sets. New resources released in the past year include PubMed Data Management, RefSeq Functional Elements, genome data download, variation services API, Magic-BLAST, QuickBLASTp, and Identical Protein Groups. Resources that were updated in the past year include the genome data viewer, a human genome resources page, Gene, virus variation, OSIRIS, and PubChem. All of these resources can be accessed through the NCBI home page at www.ncbi.nlm.nih.gov.
+
+AUTHORS:
+
+NCBI Resource Coordinators 
+
+KEYWORDS:
+
+base sequence
+biological sciences
+biotechnology
+genes
+genome
+genome, human
+internet
+united states national institutes of health
+national library of medicine (u.s.)
+viruses
+data management
+genbank
+basic local alignment search tool
+datasets

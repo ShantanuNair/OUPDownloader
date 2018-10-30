@@ -1,0 +1,55 @@
+TITLE: The complex portal - an encyclopaedia of macromolecular complexes
+ 
+The IntAct molecular interaction database has created a new, free, open-source, manually curated resource, the Complex Portal (www.ebi.ac.uk/intact/complex), through which protein complexes from major model organisms are being collated and made available for search, viewing and download. It has been built in close collaboration with other bioinformatics services and populated with data from ChEMBL, MatrixDB, PDBe, Reactome and UniProtKB. Each entry contains information about the participating molecules (including small molecules and nucleic acids), their stoichiometry, topology and structural assembly. Complexes are annotated with details about their function, properties and complex-specific Gene Ontology (GO) terms. Consistent nomenclature is used throughout the resource with systematic names, recommended names and a list of synonyms all provided. The use of the Evidence Code Ontology allows us to indicate for which entries direct experimental evidence is available or if the complex has been inferred based on homology or orthology. The data are searchable using standard identifiers, such as UniProt, ChEBI and GO IDs, protein, gene and complex names or synonyms. This reference resource will be maintained and grow to encompass an increasing number of organisms. Input from groups and individuals with specific areas of expertise is welcome.
+
+AUTHORS:
+
+Birgit H.M. Meldal
+Oscar Forner-Martinez
+Maria C. Costanzo
+Jose Dana
+Janos Demeter
+Marine Dumousseau
+Selina S. Dwight
+Anna Gaulton
+Luana Licata
+Anna N. Melidoni
+Sylvie Ricard-Blum
+Bernd Roechert
+Marek S. Skyzypek
+Manu Tiwari
+Sameer Velankar
+Edith D. Wong
+Henning Hermjakob
+Sandra Orchard
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

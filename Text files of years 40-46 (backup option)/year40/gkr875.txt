@@ -1,0 +1,33 @@
+TITLE: The Aspergillus Genome Database (AspGD): recent developments in comprehensive multispecies curation, comparative genomics and community resources
+ 
+The Aspergillus Genome Database (AspGD; http://www.aspgd.org) is a freely available, web-based resource for researchers studying fungi of the genus Aspergillus, which includes organisms of clinical, agricultural and industrial importance. AspGD curators have now completed comprehensive review of the entire published literature about Aspergillus nidulans and Aspergillus fumigatus, and this annotation is provided with streamlined, ortholog-based navigation of the multispecies information. AspGD facilitates comparative genomics by providing a full-featured genomics viewer, as well as matched and standardized sets of genomic information for the sequenced aspergilli. AspGD also provides resources to foster interaction and dissemination of community information and resources. We welcome and encourage feedback at aspergillus-curator@lists.stanford.edu.
+
+AUTHORS:
+
+Martha B. Arnaud
+Gustavo C. Cerqueira
+Diane O. Inglis
+Marek S. Skrzypek
+Jonathan Binkley
+Marcus C. Chibucos
+Jonathan Crabtree
+Clinton Howarth
+Joshua Orvis
+Prachi Shah
+Farrell Wymore
+Gail Binkley
+Stuart R. Miyasato
+Matt Simison
+Gavin Sherlock
+Jennifer R. Wortman
+
+KEYWORDS:
+
+aspergillus
+aspergillus fumigatus
+aspergillus nidulans
+genes
+genome
+genomics
+internet
+community

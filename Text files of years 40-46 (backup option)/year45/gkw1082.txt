@@ -1,0 +1,15 @@
+TITLE: pathDIP: an annotated resource for known and predicted human gene-pathway associations and pathway enrichment analysis
+ 
+Molecular pathway data are essential in current computational and systems biology research. While there are many primary and integrated pathway databases, several challenges remain, including low proteome coverage (57%), low overlap across different databases, unavailability of direct information about underlying physical connectivity of pathway members, and high fraction of protein-coding genes without any pathway annotations, i.e. ‘pathway orphans’. In order to address all these challenges, we developed pathDIP, which integrates data from 20 source pathway databases, ‘core pathways’, with physical protein–protein interactions to predict biologically relevant protein–pathway associations, referred to as ‘extended pathways’. Cross-validation determined 71% recovery rate of our predictions. Data integration and predictions increase coverage of pathway annotations for protein-coding genes to 86%, and provide novel annotations for 5732 pathway orphans. PathDIP (http://ophid.utoronto.ca/pathdip) annotates 17 070 protein-coding genes with 4678 pathways, and provides multiple query, analysis and output options.
+
+AUTHORS:
+
+Sara Rahmati
+Mark Abovsky
+Chiara Pastrello
+Igor Jurisica
+
+KEYWORDS:
+
+genes
+orphan child

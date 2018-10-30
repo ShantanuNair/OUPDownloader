@@ -1,0 +1,36 @@
+TITLE: The neXtProt knowledgebase on human proteins: 2017 update
+ 
+The neXtProt human protein knowledgebase (https://www.nextprot.org) continues to add new content and tools, with a focus on proteomics and genetic variation data. neXtProt now has proteomics data for over 85% of the human proteins, as well as new tools tailored to the proteomics community.
+
+AUTHORS:
+
+Pascale Gaudet
+Pierre-André Michel
+Monique Zahn-Zabal
+Aurore Britan
+Isabelle Cusin
+Marcin Domagalski
+Paula D. Duek
+Alain Gateau
+Anne Gleizes
+Valérie Hinard
+Valentine Rech de Laval
+JinJin Lin
+Frederic Nikitin
+Mathieu Schaeffer
+Daniel Teixeira
+Lydie Lane
+Amos Bairoch
+
+KEYWORDS:
+
+phenotype
+genes
+neoplastic syndromes, hereditary
+user-computer interface
+genetics
+proteomics
+channelopathy
+familial cancer
+community
+knowledge bases

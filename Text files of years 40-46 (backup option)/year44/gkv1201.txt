@@ -1,0 +1,22 @@
+TITLE: The Degradome database: expanding roles of mammalian proteases in life and disease
+ 
+Since the definition of the degradome as the complete repertoire of proteases in a given organism, the combined effort of numerous laboratories has greatly expanded our knowledge of its roles in biology and pathology. Once the genomic sequences of several important model organisms were made available, we presented the Degradome database containing the curated sets of known protease genes in human, chimpanzee, mouse and rat. Here, we describe the updated Degradome database, featuring 81 new protease genes and 7 new protease families. Notably, in this short time span, the number of known hereditary diseases caused by mutations in protease genes has increased from 77 to 119. This increase reflects the growing interest on the roles of the degradome in multiple diseases, including cancer and ageing. Finally, we have leveraged the widespread adoption of new webtools to provide interactive graphic views that show information about proteases in the global context of the degradome. The Degradome database can be accessed through its web interface at http://degradome.uniovi.es.
+
+AUTHORS:
+
+José G. Pérez-Silva
+Yaiza Español
+Gloria Velasco
+Víctor Quesada
+
+KEYWORDS:
+
+genetic disorder
+endopeptidases
+genes
+genome
+mammals
+pan troglodytes
+mice
+rats
+proteolytic enzymes

@@ -1,0 +1,36 @@
+TITLE: ENCODE data at the ENCODE portal
+ 
+The Encyclopedia of DNA Elements (ENCODE) Project is in its third phase of creating a comprehensive catalog of functional elements in the human genome. This phase of the project includes an expansion of assays that measure diverse RNA populations, identify proteins that interact with RNA and DNA, probe regions of DNA hypersensitivity, and measure levels of DNA methylation in a wide range of cell and tissue types to identify putative regulatory elements. To date, results for almost 5000 experiments have been released for use by the scientific community. These data are available for searching, visualization and download at the new ENCODE Portal (www.encodeproject.org). The revamped ENCODE Portal provides new ways to browse and search the ENCODE data based on the metadata that describe the assays as well as summaries of the assays that focus on data provenance. In addition, it is a flexible platform that allows integration of genomic data from multiple projects. The portal experience was designed to improve access to ENCODE data by relying on metadata that allow reusability and reproducibility of the experiments.
+
+AUTHORS:
+
+Cricket A. Sloan
+Esther T. Chan
+Jean M. Davidson
+Venkat S. Malladi
+J. Seth Strattan
+Benjamin C. Hitz
+Idan Gabdank
+Aditi K. Narayanan
+Marcus Ho
+Brian T. Lee
+Laurence D. Rowe
+Timothy R. Dreszer
+Greg Roe
+Nikhil R. Podduturi
+Forrest Tanaka
+Eurie L. Hong
+J. Michael Cherry
+
+KEYWORDS:
+
+metadata
+hypersensitivity
+dna
+dna methylation
+dna probes
+genome
+genome, human
+rna
+community
+encode consortium

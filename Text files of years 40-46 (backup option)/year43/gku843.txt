@@ -1,0 +1,48 @@
+TITLE: The Digital Ageing Atlas: integrating the diversity of age-related changes into a unified resource
+ 
+Multiple studies characterizing the human ageing phenotype have been conducted for decades. However, there is no centralized resource in which data on multiple age-related changes are collated. Currently, researchers must consult several sources, including primary publications, in order to obtain age-related data at various levels. To address this and facilitate integrative, system-level studies of ageing we developed the Digital Ageing Atlas (DAA). The DAA is a one-stop collection of human age-related data covering different biological levels (molecular, cellular, physiological, psychological and pathological) that is freely available online (http://ageing-map.org/). Each of the >3000 age-related changes is associated with a specific tissue and has its own page displaying a variety of information, including at least one reference. Age-related changes can also be linked to each other in hierarchical trees to represent different types of relationships. In addition, we developed an intuitive and user-friendly interface that allows searching, browsing and retrieving information in an integrated and interactive fashion. Overall, the DAA offers a new approach to systemizing ageing resources, providing a manually-curated and readily accessible source of age-related changes.
+
+AUTHORS:
+
+Thomas Craig
+Chris Smelick
+Robi Tacutu
+Daniel Wuttke
+Shona H. Wood
+Henry Stanley
+Georges Janssens
+Ekaterina Savitskaya
+Alexey Moskalev
+Robert Arking
+João Pedro de Magalhães
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

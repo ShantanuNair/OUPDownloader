@@ -1,0 +1,30 @@
+TITLE: IPD-MHC 2.0: an improved inter-species database for the study of the major histocompatibility complex
+ 
+The IPD-MHC Database project (http://www.ebi.ac.uk/ipd/mhc/) collects and expertly curates sequences of the major histocompatibility complex from non-human species and provides the infrastructure and tools to enable accurate analysis. Since the first release of the database in 2003, IPD-MHC has grown and currently hosts a number of specific sections, with more than 7000 alleles from 70 species, including non-human primates, canines, felines, equids, ovids, suids, bovins, salmonids and murids. These sequences are expertly curated and made publicly available through an open access website. The IPD-MHC Database is a key resource in its field, and this has led to an average of 1500 unique visitors and more than 5000 viewed pages per month. As the database has grown in size and complexity, it has created a number of challenges in maintaining and organizing information, particularly the need to standardize nomenclature and taxonomic classification, while incorporating new allele submissions. Here, we describe the latest database release, the IPD-MHC 2.0 and discuss planned developments. This release incorporates sequence updates and new tools that enhance database queries and improve the submission procedure by utilizing common tools that are able to handle the varied requirements of each MHC-group.
+
+AUTHORS:
+
+Giuseppe Maccari
+James Robinson
+Keith Ballingall
+Lisbeth A. Guethlein
+Unni Grimholt
+Jim Kaufman
+Chak-Sum Ho
+Natasja G. de Groot
+Paul Flicek
+Ronald E. Bontrop
+John A. Hammond
+Steven G. E. Marsh
+
+KEYWORDS:
+
+alleles
+cats
+dog, domestic
+major histocompatibility complex
+muridae
+primates
+salmonidae
+taxonomic classification
+host (organism)

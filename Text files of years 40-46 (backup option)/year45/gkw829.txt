@@ -1,0 +1,19 @@
+TITLE: The international Genome sample resource (IGSR): A worldwide collection of genome variation incorporating the 1000 Genomes Project data
+ 
+The International Genome Sample Resource (IGSR; http://www.internationalgenome.org) expands in data type and population diversity the resources from the 1000 Genomes Project. IGSR represents the largest open collection of human variation data and provides easy access to these resources. IGSR was established in 2015 to maintain and extend the 1000 Genomes Project data, which has been widely used as a reference set of human variation and by researchers developing analysis methods. IGSR has mapped all of the 1000 Genomes sequence to the newest human reference (GRCh38), and will release updated variant calls to ensure maximal usefulness of the existing data. IGSR is collecting new structural variation data on the 1000 Genomes samples from long read sequencing and other technologies, and will collect relevant functional data into a single comprehensive resource. IGSR is extending coverage with new populations sequenced by collaborating groups. Here, we present the new data and analysis that IGSR has made available. We have also introduced a new data portal that increases discoverability of our data—previously only browseable through our FTP site—by focusing on particular samples, populations or data sets of interest.
+
+AUTHORS:
+
+Laura Clarke
+Susan Fairley
+Xiangqun Zheng-Bradley
+Ian Streeter
+Emily Perry
+Ernesto Lowy
+Anne-Marie Tassé
+Paul Flicek
+
+KEYWORDS:
+
+genome
+datasets

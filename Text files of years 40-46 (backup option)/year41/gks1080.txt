@@ -1,0 +1,17 @@
+TITLE: dcGO: database of domain-centric ontologies on functions, phenotypes, diseases and more
+ 
+We present ‘dcGO’ (http://supfam.org/SUPERFAMILY/dcGO), a comprehensive ontology database for protein domains. Domains are often the functional units of proteins, thus instead of associating ontological terms only with full-length proteins, it sometimes makes more sense to associate terms with individual domains. Domain-centric GO, ‘dcGO’, provides associations between ontological terms and protein domains at the superfamily and family levels. Some functional units consist of more than one domain acting together or acting at an interface between domains; therefore, ontological terms associated with pairs of domains, triplets and longer supra-domains are also provided. At the time of writing the ontologies in dcGO include the Gene Ontology (GO); Enzyme Commission (EC) numbers; pathways from UniPathway; human phenotype ontology and phenotype ontologies from five model organisms, including plants; anatomy ontologies from three organisms; human disease ontology and drugs from DrugBank. All ontological terms have probabilistic scores for their associations. In addition to associations to domains and supra-domains, the ontological terms have been transferred to proteins, through homology, providing annotations of >80 million sequences covering 2414 complete genomes, hundreds of meta-genomes, thousands of viruses and so forth. The dcGO database is updated fortnightly, and its website provides downloads, search, browse, phylogenetic context and other data-mining facilities.
+
+AUTHORS:
+
+Hai Fang
+Julian Gough
+
+KEYWORDS:
+
+phenotype
+genes
+genome
+plants
+enzymes
+protein domains

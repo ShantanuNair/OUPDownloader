@@ -1,0 +1,17 @@
+TITLE: ProOpDB: Prokaryotic Operon DataBase
+ 
+The Prokaryotic Operon DataBase (ProOpDB, http://operons.ibt.unam.mx/OperonPredictor) constitutes one of the most precise and complete repositories of operon predictions now available. Using our novel and highly accurate operon identification algorithm, we have predicted the operon structures of more than 1200 prokaryotic genomes. ProOpDB offers diverse alternatives by which a set of operon predictions can be retrieved including: (i) organism name, (ii) metabolic pathways, as defined by the KEGG database, (iii) gene orthology, as defined by the COG database, (iv) conserved protein domains, as defined by the Pfam database, (v) reference gene and (vi) reference operon, among others. In order to limit the operon output to non-redundant organisms, ProOpDB offers an efficient method to select the most representative organisms based on a precompiled phylogenetic distances matrix. In addition, the ProOpDB operon predictions are used directly as the input data of our Gene Context Tool to visualize their genomic context and retrieve the sequence of their corresponding 5′ regulatory regions, as well as the nucleotide or amino acid sequences of their genes.
+
+AUTHORS:
+
+Blanca Taboada
+Ricardo Ciria
+Cristian E. Martinez-Guerrero
+Enrique Merino
+
+KEYWORDS:
+
+genes
+genome
+nucleotides
+operon

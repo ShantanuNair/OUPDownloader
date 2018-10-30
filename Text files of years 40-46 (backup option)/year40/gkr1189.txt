@@ -1,0 +1,28 @@
+TITLE: Minimotif Miner 3.0: database expansion and significantly improved reduction of false-positive predictions from consensus sequences
+ 
+Minimotif Miner (MnM available at http://minimotifminer.org or http://mnm.engr.uconn.edu) is an online database for identifying new minimotifs in protein queries. Minimotifs are short contiguous peptide sequences that have a known function in at least one protein. Here we report the third release of the MnM database which has now grown 60-fold to approximately 300 000 minimotifs. Since short minimotifs are by their nature not very complex we also summarize a new set of false-positive filters and linear regression scoring that vastly enhance minimotif prediction accuracy on a test data set. This online database can be used to predict new functions in proteins and causes of disease.
+
+AUTHORS:
+
+Tian Mi
+Jerlin Camilus Merlin
+Sandeep Deverasetty
+Michael R. Gryk
+Travis J. Bill
+Andrew W. Brooks
+Logan Y. Lee
+Viraj Rathnayake
+Christian A. Ross
+David P. Sargeant
+Christy L. Strong
+Paula Watts
+Sanguthevar Rajasekaran
+Martin R. Schiller
+
+KEYWORDS:
+
+consensus sequence
+peptides
+false-positive results
+filters
+datasets

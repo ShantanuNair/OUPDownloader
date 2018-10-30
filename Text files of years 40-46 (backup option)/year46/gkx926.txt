@@ -1,0 +1,26 @@
+TITLE: DNA Data Bank of Japan: 30th anniversary
+ 
+The DNA Data Bank of Japan (DDBJ) Center (http://www.ddbj.nig.ac.jp) has been providing public data services for 30 years since 1987. We are collecting nucleotide sequence data and associated biological information from researchers as a member of the International Nucleotide Sequence Database Collaboration (INSDC), in collaboration with the US National Center for Biotechnology Information and the European Bioinformatics Institute. The DDBJ Center also services the Japanese Genotype-phenotype Archive (JGA) with the National Bioscience Database Center to collect genotype and phenotype data of human individuals. Here, we outline our database activities for INSDC and JGA over the past year, and introduce submission, retrieval and analysis services running on our supercomputer system and their recent developments. Furthermore, we highlight our responses to the amended Japanese rules for the protection of personal information and the launch of the DDBJ Group Cloud service for sharing pre-publication data among research groups.
+
+AUTHORS:
+
+Yuichi Kodama
+Jun Mashima
+Takehide Kosuge
+Eli Kaminuma
+Osamu Ogasawara
+Kousaku Okubo
+Yasukazu Nakamura
+Toshihisa Takagi
+
+KEYWORDS:
+
+phenotype
+base sequence
+biotechnology
+dna
+genotype
+japanese
+personally identifiable information
+cloud computing
+bioinformatics

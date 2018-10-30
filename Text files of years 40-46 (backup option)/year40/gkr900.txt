@@ -1,0 +1,23 @@
+TITLE: Crystallography Open Database (COD): an open-access collection of crystal structures and platform for world-wide collaboration
+ 
+Using an open-access distribution model, the Crystallography Open Database (COD, http://www.crystallography.net) collects all known ‘small molecule / small to medium sized unit cell’ crystal structures and makes them available freely on the Internet. As of today, the COD has aggregated ∼150 000 structures, offering basic search capabilities and the possibility to download the whole database, or parts thereof using a variety of standard open communication protocols. A newly developed website provides capabilities for all registered users to deposit published and so far unpublished structures as personal communications or pre-publication depositions. Such a setup enables extension of the COD database by many users simultaneously. This increases the possibilities for growth of the COD database, and is the first step towards establishing a world wide Internet-based collaborative platform dedicated to the collection and curation of structural knowledge.
+
+AUTHORS:
+
+Saulius Gražulis
+Adriana Daškevič
+Andrius Merkys
+Daniel Chateigner
+Luca Lutterotti
+Miguel Quirós
+Nadezhda R. Serebryanaya
+Peter Moeck
+Robert T. Downs
+Armel Le Bail
+
+KEYWORDS:
+
+crystallography
+internet
+small molecule
+crystal structure

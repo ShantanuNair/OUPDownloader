@@ -1,0 +1,52 @@
+TITLE: lncRNAdb v2.0: expanding the reference database for functional long noncoding RNAs
+ 
+Despite the prevalence of long noncoding RNA (lncRNA) genes in eukaryotic genomes, only a small proportion have been examined for biological function. lncRNAdb, available at http://lncrnadb.org, provides users with a comprehensive, manually curated reference database of 287 eukaryotic lncRNAs that have been described independently in the scientific literature. In addition to capturing a great proportion of the recent literature describing functions for individual lncRNAs, lncRNAdb now offers an improved user interface enabling greater accessibility to sequence information, expression data and the literature. The new features in lncRNAdb include the integration of Illumina Body Atlas expression profiles, nucleotide sequence information, a BLAST search tool and easy export of content via direct download or a REST API. lncRNAdb is now endorsed by RNAcentral and is in compliance with the International Nucleotide Sequence Database Collaboration.
+
+AUTHORS:
+
+Xiu Cheng Quek
+Daniel W. Thomson
+Jesper L.V. Maag
+Nenad Bartonicek
+Bethany Signal
+Michael B. Clark
+Brian S. Gloss
+Marcel E. Dinger
+
+KEYWORDS:
+
+base sequence
+genes
+genome
+rna, untranslated
+user-computer interface
+rna
+basic local alignment search tool
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

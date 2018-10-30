@@ -1,0 +1,39 @@
+TITLE: Major submissions tool developments at the European nucleotide archive
+ 
+The European Nucleotide Archive (ENA; http://www.ebi.ac.uk/ena), Europe's primary nucleotide sequence resource, captures and presents globally comprehensive nucleic acid sequence and associated information. Covering the spectrum from raw data to assembled and functionally annotated genomes, the ENA has witnessed a dramatic growth resulting from advances in sequencing technology and ever broadening application of the methodology. During 2011, we have continued to operate and extend the broad range of ENA services. In particular, we have released major new functionality in our interactive web submission system, Webin, through developments in template-based submissions for annotated sequences and support for raw next-generation sequence read submissions.
+
+AUTHORS:
+
+Clara Amid
+Ewan Birney
+Lawrence Bower
+Ana Cerdeño-Tárraga
+Ying Cheng
+Iain Cleland
+Nadeem Faruque
+Richard Gibson
+Neil Goodgame
+Christopher Hunter
+Mikyung Jang
+Rasko Leinonen
+Xin Liu
+Arnaud Oisel
+Nima Pakseresht
+Sheila Plaister
+Rajesh Radhakrishnan
+Kethi Reddy
+Stephane Rivière
+Marc Rossello
+Alexander Senf
+Dimitriy Smirnov
+Petra Ten Hoopen
+Daniel Vaughan
+Robert Vaughan
+Vadim Zalunin
+Guy Cochrane
+
+KEYWORDS:
+
+base sequence
+genome
+nucleotides

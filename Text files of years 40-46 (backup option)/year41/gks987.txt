@@ -1,0 +1,13 @@
+TITLE: Glycan fragment database: a database of PDB-based glycan 3D structures
+ 
+The glycan fragment database (GFDB), freely available at http://www.glycanstructure.org, is a database of the glycosidic torsion angles derived from the glycan structures in the Protein Data Bank (PDB). Analogous to protein structure, the structure of an oligosaccharide chain in a glycoprotein, referred to as a glycan, can be characterized by the torsion angles of glycosidic linkages between relatively rigid carbohydrate monomeric units. Knowledge of accessible conformations of biologically relevant glycans is essential in understanding their biological roles. The GFDB provides an intuitive glycan sequence search tool that allows the user to search complex glycan structures. After a glycan search is complete, each glycosidic torsion angle distribution is displayed in terms of the exact match and the fragment match. The exact match results are from the PDB entries that contain the glycan sequence identical to the query sequence. The fragment match results are from the entries with the glycan sequence whose substructure (fragment) or entire sequence is matched to the query sequence, such that the fragment results implicitly include the influences from the nearby carbohydrate residues. In addition, clustering analysis based on the torsion angle distribution can be performed to obtain the representative structures among the searched glycan structures.
+
+AUTHORS:
+
+Sunhwan Jo
+Wonpil Im
+
+KEYWORDS:
+
+carbohydrates
+polysaccharides

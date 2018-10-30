@@ -1,0 +1,23 @@
+TITLE: Dr.VIS: a database of human disease-related viral integration sites
+ 
+Viral integration plays an important role in the development of malignant diseases. Viruses differ in preferred integration site and flanking sequence. Viral integration sites (VIS) have been found next to oncogenes and common fragile sites. Understanding the typical DNA features near VIS is useful for the identification of potential oncogenes, prediction of malignant disease development and assessing the probability of malignant transformation in gene therapy. Therefore, we have built a database of human disease-related VIS (Dr.VIS, http://www.scbit.org/dbmi/drvis) to collect and maintain human disease-related VIS data, including characteristics of the malignant disease, chromosome region, genomic position and viral–host junction sequence. The current build of Dr.VIS covers about 600 natural VIS of 5 oncogenic viruses representing 11 diseases. Among them, about 200 VIS have viral–host junction sequence.
+
+AUTHORS:
+
+Xin Zhao
+Qi Liu
+Qingqing Cai
+Yanyun Li
+Congjian Xu
+Yixue Li
+Zuofeng Li
+Xiaoyan Zhang
+
+KEYWORDS:
+
+cancer
+chromosomes
+genome
+virus integration
+viruses
+vaccine information sheets

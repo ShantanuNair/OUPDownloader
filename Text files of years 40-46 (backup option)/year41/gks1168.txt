@@ -1,0 +1,27 @@
+TITLE: miRGator v3.0: a microRNA portal for deep sequencing, expression profiling and mRNA targeting
+ 
+Biogenesis and molecular function are two key subjects in the field of microRNA (miRNA) research. Deep sequencing has become the principal technique in cataloging of miRNA repertoire and generating expression profiles in an unbiased manner. Here, we describe the miRGator v3.0 update (http://mirgator.kobic.re.kr) that compiled the deep sequencing miRNA data available in public and implemented several novel tools to facilitate exploration of massive data. The miR-seq browser supports users to examine short read alignment with the secondary structure and read count information available in concurrent windows. Features such as sequence editing, sorting, ordering, import and export of user data would be of great utility for studying iso-miRs, miRNA editing and modifications. miRNA–target relation is essential for understanding miRNA function. Coexpression analysis of miRNA and target mRNAs, based on miRNA-seq and RNA-seq data from the same sample, is visualized in the heat-map and network views where users can investigate the inverse correlation of gene expression and target relations, compiled from various databases of predicted and validated targets. By keeping datasets and analytic tools up-to-date, miRGator should continue to serve as an integrated resource for biogenesis and functional investigation of miRNAs.
+
+AUTHORS:
+
+Sooyoung Cho
+Insu Jang
+Yukyung Jun
+Suhyeon Yoon
+Minjeong Ko
+Yeajee Kwon
+Ikjung Choi
+Hyeshik Chang
+Daeun Ryu
+Byungwook Lee
+V. Narry Kim
+Wankyu Kim
+Sanghyuk Lee
+
+KEYWORDS:
+
+gene expression profiling
+rna, messenger
+micrornas
+massively-parallel genome sequencing
+datasets

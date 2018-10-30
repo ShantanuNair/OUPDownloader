@@ -1,0 +1,30 @@
+TITLE: PlanMine – a mineable resource of planarian biology and biodiversity
+ 
+Planarian flatworms are in the midst of a renaissance as a model system for regeneration and stem cells. Besides two well-studied model species, hundreds of species exist worldwide that present a fascinating diversity of regenerative abilities, tissue turnover rates, reproductive strategies and other life history traits. PlanMine (http://planmine.mpi-cbg.de/) aims to accomplish two primary missions: First, to provide an easily accessible platform for sharing, comparing and value-added mining of planarian sequence data. Second, to catalyze the comparative analysis of the phenotypic diversity amongst planarian species. Currently, PlanMine houses transcriptomes independently assembled by our lab and community contributors. Detailed assembly/annotation statistics, a custom-developed BLAST viewer and easy export options enable comparisons at the contig and assembly level. Consistent annotation of all transcriptomes by an automated pipeline, the integration of published gene expression information and inter-relational query tools provide opportunities for mining planarian gene sequences and functions. For inter-species comparisons, we include transcriptomes of, so far, six planarian species, along with images, expert-curated information on their biology and pre-calculated cross-species sequence homologies. PlanMine is based on the popular InterMine system in order to make the rich biology of planarians accessible to the general life sciences research community.
+
+AUTHORS:
+
+Holger Brandl
+HongKee Moon
+Miquel Vila-Farré
+Shang-Yun Liu
+Ian Henry
+Jochen C. Rink
+
+KEYWORDS:
+
+phenotype
+gene expression
+stem cells
+biological sciences
+genes
+laboratory
+mining
+biological models
+planarians
+platyhelminthes
+reproductive physiological process
+sequence homology
+community
+basic local alignment search tool
+life history traits

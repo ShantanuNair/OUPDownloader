@@ -1,0 +1,30 @@
+TITLE: LNCipedia: a database for annotated human lncRNA transcript sequences and structures
+ 
+Here, we present LNCipedia (http://www.lncipedia.org), a novel database for human long non-coding RNA (lncRNA) transcripts and genes. LncRNAs constitute a large and diverse class of non-coding RNA genes. Although several lncRNAs have been functionally annotated, the majority remains to be characterized. Different high-throughput methods to identify new lncRNAs (including RNA sequencing and annotation of chromatin-state maps) have been applied in various studies resulting in multiple unrelated lncRNA data sets. LNCipedia offers 21 488 annotated human lncRNA transcripts obtained from different sources. In addition to basic transcript information and gene structure, several statistics are determined for each entry in the database, such as secondary structure information, protein coding potential and microRNA binding sites. Our analyses suggest that, much like microRNAs, many lncRNAs have a significant secondary structure, in-line with their presumed association with proteins or protein complexes. Available literature on specific lncRNAs is linked, and users or authors can submit articles through a web interface. Protein coding potential is assessed by two different prediction algorithms: Coding Potential Calculator and HMMER. In addition, a novel strategy has been integrated for detecting potentially coding lncRNAs by automatically re-analysing the large body of publicly available mass spectrometry data in the PRIDE database. LNCipedia is publicly available and allows users to query and download lncRNA sequences and structures based on different search criteria. The database may serve as a resource to initiate small- and large-scale lncRNA studies. As an example, the LNCipedia content was used to develop a custom microarray for expression profiling of all available lncRNAs.
+
+AUTHORS:
+
+Pieter-Jan Volders
+Kenny Helsens
+Xiaowei Wang
+Björn Menten
+Lennart Martens
+Kris Gevaert
+Jo Vandesompele
+Pieter Mestdagh
+
+KEYWORDS:
+
+binding sites
+chromatin
+gene expression profiling
+genes
+protein structure, secondary
+sequence analysis, rna
+mass spectrometry
+rna
+gene organization
+micrornas
+maps
+complex
+datasets

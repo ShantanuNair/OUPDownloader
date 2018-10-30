@@ -1,0 +1,21 @@
+TITLE: PlantTFDB 4.0: toward a central hub for transcription factors and regulatory interactions in plants
+ 
+With the goal of providing a comprehensive, high-quality resource for both plant transcription factors (TFs) and their regulatory interactions with target genes, we upgraded plant TF database PlantTFDB to version 4.0 (http://planttfdb.cbi.pku.edu.cn/). In the new version, we identified 320 370 TFs from 165 species, presenting a more comprehensive genomic TF repertoires of green plants. Besides updating the pre-existing abundant functional and evolutionary annotation for identified TFs, we generated three new types of annotation which provide more directly clues to investigate functional mechanisms underlying: (i) a set of high-quality, non-redundant TF binding motifs derived from experiments; (ii) multiple types of regulatory elements identified from high-throughput sequencing data; (iii) regulatory interactions curated from literature and inferred by combining TF binding motifs and regulatory elements. In addition, we upgraded previous TF prediction server, and set up four novel tools for regulation prediction and functional enrichment analyses. Finally, we set up a novel companion portal PlantRegMap (http://plantregmap.cbi.pku.edu.cn) for users to access the regulation resource and analysis tools conveniently.
+
+AUTHORS:
+
+Jinpu Jin
+Feng Tian
+De-Chang Yang
+Yu-Qi Meng
+Lei Kong
+Jingchu Luo
+Ge Gao
+
+KEYWORDS:
+
+genome
+phenylketonurias
+plants
+transcription factor
+candidate disease gene

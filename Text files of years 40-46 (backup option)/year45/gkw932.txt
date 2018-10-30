@@ -1,0 +1,29 @@
+TITLE: Plant Reactome: a resource for plant pathways and comparative analysis
+ 
+Plant Reactome (http://plantreactome.gramene.org/) is a free, open-source, curated plant pathway database portal, provided as part of the Gramene project. The database provides intuitive bioinformatics tools for the visualization, analysis and interpretation of pathway knowledge to support genome annotation, genome analysis, modeling, systems biology, basic research and education. Plant Reactome employs the structural framework of a plant cell to show metabolic, transport, genetic, developmental and signaling pathways. We manually curate molecular details of pathways in these domains for reference species Oryza sativa (rice) supported by published literature and annotation of well-characterized genes. Two hundred twenty-two rice pathways, 1025 reactions associated with 1173 proteins, 907 small molecules and 256 literature references have been curated to date. These reference annotations were used to project pathways for 62 model, crop and evolutionarily significant plant species based on gene homology. Database users can search and browse various components of the database, visualize curated baseline expression of pathway-associated genes provided by the Expression Atlas and upload and analyze their Omics datasets. The database also offers data access via Application Programming Interfaces (APIs) and in various standardized pathway formats, such as SBML and BioPAX.
+
+AUTHORS:
+
+Sushma Naithani
+Justin Preece
+Peter D'Eustachio
+Parul Gupta
+Vindhya Amarasinghe
+Palitha D. Dharmawardhana
+Guanming Wu
+Antonio Fabregat
+Justin L. Elser
+Joel Weiser
+Maria Keays
+Alfonso Munoz-Pomer Fuentes
+Robert Petryszak
+Lincoln D. Stein
+Doreen Ware
+Pankaj Jaiswal
+
+KEYWORDS:
+
+genes
+genome
+plants
+rice

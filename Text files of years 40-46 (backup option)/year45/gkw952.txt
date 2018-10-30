@@ -1,0 +1,21 @@
+TITLE: BRENDA in 2017: new perspectives and new tools in BRENDA
+ 
+The BRENDA enzyme database (www.brenda-enzymes.org) has developed into the main enzyme and enzyme-ligand information system in its 30 years of existence. The information is manually extracted from primary literature and extended by text mining procedures, integration of external data and prediction algorithms. Approximately 3 million data from 83 000 enzymes and 137 000 literature references constitute the manually annotated core. Text mining procedures extend these data with information on occurrence, enzyme-disease relationships and kinetic data. Prediction algorithms contribute locations and genome annotations. External data and links complete the data with sequences and 3D structures. A total of 206 000 enzyme ligands provide functional and structural data. BRENDA offers a complex query tool engine allowing the users an efficient access to the data via different search methods and explorers. The new design of the BRENDA entry page and the enzyme summary pages improves the user access and the performance. New interactive and intuitive BRENDA pathway maps give an overview on biochemical processes and facilitate the visualization of enzyme, ligand and organism information in the biochemical context. SCOPe and CATH, databases for protein structure classification, are included. New online and video tutorials provide online training for the users. BRENDA is freely available for academic users.
+
+AUTHORS:
+
+Sandra Placzek
+Ida Schomburg
+Antje Chang
+Lisa Jeske
+Marcus Ulbrich
+Jana Tillack
+Dietmar Schomburg
+
+KEYWORDS:
+
+genome
+ligands
+mining
+enzymes
+maps

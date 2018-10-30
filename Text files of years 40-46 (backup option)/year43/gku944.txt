@@ -1,0 +1,93 @@
+TITLE: TrypanoCyc: a community-led biochemical pathways database for Trypanosoma brucei
+ 
+The metabolic network of a cell represents the catabolic and anabolic reactions that interconvert small molecules (metabolites) through the activity of enzymes, transporters and non-catalyzed chemical reactions. Our understanding of individual metabolic networks is increasing as we learn more about the enzymes that are active in particular cells under particular conditions and as technologies advance to allow detailed measurements of the cellular metabolome. Metabolic network databases are of increasing importance in allowing us to contextualise data sets emerging from transcriptomic, proteomic and metabolomic experiments. Here we present a dynamic database, TrypanoCyc (http://www.metexplore.fr/trypanocyc/), which describes the generic and condition-specific metabolic network of Trypanosoma brucei, a parasitic protozoan responsible for human and animal African trypanosomiasis. In addition to enabling navigation through the BioCyc-based TrypanoCyc interface, we have also implemented a network-based representation of the information through MetExplore, yielding a novel environment in which to visualise the metabolism of this important parasite.
+
+AUTHORS:
+
+Sanu Shameer
+Flora J. Logan-Klumpler
+Florence Vinson
+Ludovic Cottret
+Benjamin Merlet
+Fiona Achcar
+Michael Boshart
+Matthew Berriman
+Rainer Breitling
+Frédéric Bringaud
+Peter Bütikofer
+Amy M. Cattanach
+Bridget Bannerman-Chukualim
+Darren J. Creek
+Kathryn Crouch
+Harry P. de Koning
+Hubert Denise
+Charles Ebikeme
+Alan H. Fairlamb
+Michael A. J. Ferguson
+Michael L. Ginger
+Christiane Hertz-Fowler
+Eduard J. Kerkhoven
+Pascal Mäser
+Paul A. M. Michels
+Archana Nayak
+David W. Nes
+Derek P. Nolan
+Christian Olsen
+Fatima Silva-Franco
+Terry K. Smith
+Martin C. Taylor
+Aloysius G. M. Tielens
+Michael D. Urbaniak
+Jaap J. van Hellemond
+Isabel M. Vincent
+Shane R. Wilkinson
+Susan Wyllie
+Fred R. Opperdoes
+Michael P. Barrett
+Fabien Jourdan
+
+KEYWORDS:
+
+metabolism
+membrane transport proteins
+parasites
+technology
+trypanosoma brucei brucei
+african trypanosomiasis
+enzymes
+protozoa
+metabolites
+community
+biochemical pathways
+metabolomics
+molecule
+datasets
+chemical reactions
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

@@ -1,0 +1,18 @@
+TITLE: FlyBase 101 – the basics of navigating FlyBase
+ 
+FlyBase (http://flybase.org) is the leading database and web portal for genetic and genomic information on the fruit fly Drosophila melanogaster and related fly species. Whether you use the fruit fly as an experimental system or want to apply Drosophila biological knowledge to another field of study, FlyBase can help you successfully navigate the wealth of available Drosophila data. Here, we review the FlyBase web site with novice and less-experienced users of FlyBase in mind and point out recent developments stemming from the availability of genome-wide data from the modENCODE project. The first section of this paper explains the organization of the web site and describes the report pages available on FlyBase, focusing on the most popular, the Gene Report. The next section introduces some of the search tools available on FlyBase, in particular, our heavily used and recently redesigned search tool QuickSearch, found on the FlyBase homepage. The final section concerns genomic data, including recent modENCODE (http://www.modencode.org) data, available through our Genome Browser, GBrowse.
+
+AUTHORS:
+
+Peter McQuilton
+Susan E. St. Pierre
+Jim Thurmond
+the FlyBase Consortium
+
+KEYWORDS:
+
+drosophila
+drosophila melanogaster
+genes
+genome
+genetics

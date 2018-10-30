@@ -1,0 +1,24 @@
+TITLE: DriverDBv2: a database for human cancer driver gene research
+ 
+We previously presented DriverDB, a database that incorporates ∼6000 cases of exome-seq data, in addition to annotation databases and published bioinformatics algorithms dedicated to driver gene/mutation identification. The database provides two points of view, ‘Cancer’ and ‘Gene’, to help researchers visualize the relationships between cancers and driver genes/mutations. In the updated DriverDBv2 database (http://ngs.ym.edu.tw/driverdb) presented herein, we incorporated >9500 cancer-related RNA-seq datasets and >7000 more exome-seq datasets from The Cancer Genome Atlas (TCGA), International Cancer Genome Consortium (ICGC), and published papers. Seven additional computational algorithms (meaning that the updated database contains 15 in total), which were developed for driver gene identification, are incorporated into our analysis pipeline, and the results are provided in the ‘Cancer’ section. Furthermore, there are two main new features, ‘Expression’ and ‘Hotspot’, in the ‘Gene’ section. ‘Expression’ displays two expression profiles of a gene in terms of sample types and mutation types, respectively. ‘Hotspot’ indicates the hotspot mutation regions of a gene according to the results provided by four bioinformatics tools. A new function, ‘Gene Set’, allows users to investigate the relationships among mutations, expression levels and clinical data for a set of genes, a specific dataset and clinical features.
+
+AUTHORS:
+
+I-Fang Chung
+Chen-Yang Chen
+Shih-Chieh Su
+Chia-Yang Li
+Kou-Juey Wu
+Hsei-Wei Wang
+Wei-Chung Cheng
+
+KEYWORDS:
+
+mutation
+cancer
+genes
+rna
+exome
+the cancer genome atlas project
+datasets
+bioinformatics

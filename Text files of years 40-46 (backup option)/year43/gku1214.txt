@@ -1,0 +1,52 @@
+TITLE: The RCSB Protein Data Bank: views of structural biology for basic and applied research and education
+ 
+The RCSB Protein Data Bank (RCSB PDB, http://www.rcsb.org) provides access to 3D structures of biological macromolecules and is one of the leading resources in biology and biomedicine worldwide. Our efforts over the past 2 years focused on enabling a deeper understanding of structural biology and providing new structural views of biology that support both basic and applied research and education. Herein, we describe recently introduced data annotations including integration with external biological resources, such as gene and drug databases, new visualization tools and improved support for the mobile web. We also describe access to data files, web services and open access software components to enable software developers to more effectively mine the PDB archive and related annotations. Our efforts are aimed at expanding the role of 3D structure in understanding biology and medicine.
+
+AUTHORS:
+
+Peter W. Rose
+Andreas Prlić
+Chunxiao Bi
+Wolfgang F. Bluhm
+Cole H. Christie
+Shuchismita Dutta
+Rachel Kramer Green
+David S. Goodsell
+John D. Westbrook
+Jesse Woo
+Jasmine Young
+Christine Zardecki
+Helen M. Berman
+Philip E. Bourne
+Stephen K. Burley
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

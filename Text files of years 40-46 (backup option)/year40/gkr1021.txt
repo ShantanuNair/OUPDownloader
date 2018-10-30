@@ -1,0 +1,27 @@
+TITLE: STAP Refinement of the NMR database: a database of 2405 refined solution NMR structures
+ 
+According to several studies, some nuclear magnetic resonance (NMR) structures are of lower quality, less reliable and less suitable for structural analysis than high-resolution X-ray crystallographic structures. We present a public database of 2405 refined NMR solution structures [statistical torsion angle potentials (STAP) refinement of the NMR database, http://psb.kobic.re.kr/STAP/refinement] from the Protein Data Bank (PDB). A simulated annealing protocol was employed to obtain refined structures with target potentials, including the newly developed STAP. The refined database was extensively analysed using various quality indicators from several assessment programs to determine the nuclear Overhauser effect (NOE) completeness, Ramachandran appearance, χ1-χ2 rotamer normality, various parameters for protein stability and other indicators. Most quality indicators are improved in our protocol mainly due to the inclusion of the newly developed knowledge-based potentials. This database can be used by the NMR structure community for further development of research and validation tools, structure-related studies and modelling in many fields of research.
+
+AUTHORS:
+
+Joshua SungWoo Yang
+Ji-han Kim
+Sangho Oh
+Gukjeong Han
+Sanghyuk Lee
+Jinhyuk Lee
+
+KEYWORDS:
+
+nuclear magnetic resonance
+diagnostic radiologic examination
+roentgen rays
+crystallography
+krypton
+molecular conformation
+quality indicators
+hypersensitivity syndrome, drug-induced
+community
+normality
+healthcare quality assessment
+protein data bank

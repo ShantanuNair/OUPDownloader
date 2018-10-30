@@ -1,0 +1,39 @@
+TITLE: ClinVar: public archive of interpretations of clinically relevant variants
+ 
+ClinVar (https://www.ncbi.nlm.nih.gov/clinvar/) at the National Center for Biotechnology Information (NCBI) is a freely available archive for interpretations of clinical significance of variants for reported conditions. The database includes germline and somatic variants of any size, type or genomic location. Interpretations are submitted by clinical testing laboratories, research laboratories, locus-specific databases, OMIM®, GeneReviews™, UniProt, expert panels and practice guidelines. In NCBI's Variation submission portal, submitters upload batch submissions or use the Submission Wizard for single submissions. Each submitted interpretation is assigned an accession number prefixed with SCV. ClinVar staff review validation reports with data types such as HGVS (Human Genome Variation Society) expressions; however, clinical significance is reported directly from submitters. Interpretations are aggregated by variant-condition combination and assigned an accession number prefixed with RCV. Clinical significance is calculated for the aggregate record, indicating consensus or conflict in the submitted interpretations. ClinVar uses data standards, such as HGVS nomenclature for variants and MedGen identifiers for conditions. The data are available on the web as variant-specific views; the entire data set can be downloaded via ftp. Programmatic access for ClinVar records is available through NCBI's E-utilities. Future development includes providing a variant-centric XML archive and a web page for details of SCV submissions.
+
+AUTHORS:
+
+Melissa J. Landrum
+Jennifer M. Lee
+Mark Benson
+Garth Brown
+Chen Chao
+Shanmuga Chitipiralla
+Baoshan Gu
+Jennifer Hart
+Douglas Hoffman
+Jeffrey Hoover
+Wonhee Jang
+Kenneth Katz
+Michael Ovetsky
+George Riley
+Amanjeev Sethi
+Ray Tully
+Ricardo Villamarin-Salomon
+Wendy Rubinstein
+Donna R. Maglott
+
+KEYWORDS:
+
+biotechnology
+genome
+genome, human
+internet
+laboratory
+united states national institutes of health
+national library of medicine (u.s.)
+practice guidelines
+xml
+consensus
+datasets

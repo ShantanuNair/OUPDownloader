@@ -1,0 +1,19 @@
+TITLE: YeTFaSCo: a database of evaluated yeast transcription factor sequence specificities
+ 
+The yeast Saccharomyces cerevisiae is a prevalent system for the analysis of transcriptional networks. As a result, multiple DNA-binding sequence specificities (motifs) have been derived for most yeast transcription factors (TFs). However, motifs from different studies are often inconsistent with each other, making subsequent analyses complicated and confusing. Here, we have created YeTFaSCo (The Yeast Transcription Factor Specificity Compendium, http://yetfasco.ccbr.utoronto.ca/), an extensive collection of S. cerevisiae TF specificities. YeTFaSCo differs from related databases by being more comprehensive (including 1709 motifs for 256 proteins or protein complexes), and by evaluating the motifs using multiple objective quality metrics. The metrics include correlation between motif matches and ChIP-chip data, gene expression patterns, and GO terms, as well as motif agreement between different studies. YeTFaSCo also features an index of ‘expert-curated’ motifs, each associated with a confidence assessment. In addition, the database website features tools for motif analysis, including a sequence scanning function and precomputed genome-browser tracks of motif occurrences across the entire yeast genome. Users can also search the database for motifs that are similar to a query motif.
+
+AUTHORS:
+
+Carl G. de Boer
+Timothy R. Hughes
+
+KEYWORDS:
+
+gene expression
+transcription, genetic
+dna
+genome
+saccharomyces cerevisiae
+yeasts
+transcription factor
+complex

@@ -1,0 +1,32 @@
+TITLE: HemaExplorer: a database of mRNA expression profiles in normal and malignant haematopoiesis
+ 
+The HemaExplorer (http://servers.binf.ku.dk/hemaexplorer) is a curated database of processed mRNA Gene expression profiles (GEPs) that provides an easy display of gene expression in haematopoietic cells. HemaExplorer contains GEPs derived from mouse/human haematopoietic stem and progenitor cells as well as from more differentiated cell types. Moreover, data from distinct subtypes of human acute myeloid leukemia is included in the database allowing researchers to directly compare gene expression of leukemic cells with those of their closest normal counterpart. Normalization and batch correction lead to full integrity of the data in the database. The HemaExplorer has comprehensive visualization interface that can make it useful as a daily tool for biologists and cancer researchers to assess the expression patterns of genes encountered in research or literature. HemaExplorer is relevant for all research within the fields of leukemia, immunology, cell differentiation and the biology of the haematopoietic system.
+
+AUTHORS:
+
+Frederik Otzen Bagger
+Nicolas Rapin
+Kim Theilgaard-Mönch
+Bogumil Kaczkowski
+Lina A. Thoren
+Johan Jendholm
+Ole Winther
+Bo T. Porse
+
+KEYWORDS:
+
+leukemia, myelocytic, acute
+gene expression
+cancer
+cell differentiation
+stem cells
+gene expression profiling
+genes
+hematopoiesis
+hematopoietic system
+leukemia
+rna, messenger
+mice
+leukemic cells
+immunology
+personal integrity

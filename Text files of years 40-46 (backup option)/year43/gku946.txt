@@ -1,0 +1,45 @@
+TITLE: EzCatDB: the enzyme reaction database, 2015 update
+ 
+The EzCatDB database (http://ezcatdb.cbrc.jp/EzCatDB/) has emphasized manual classification of enzyme reactions from the viewpoints of enzyme active-site structures and their catalytic mechanisms based on literature information, amino acid sequences of enzymes (UniProtKB) and the corresponding tertiary structures from the Protein Data Bank (PDB). Reaction types such as hydrolysis, transfer, addition, elimination, isomerization, hydride transfer and electron transfer have been included in the reaction classification, RLCP. This database includes information related to ligand molecules on the enzyme structures in the PDB data, classified in terms of cofactors, substrates, products and intermediates, which are also necessary to elucidate the catalytic mechanisms. Recently, the database system was updated. The 3D structures of active sites for each PDB entry can be viewed using Jmol or Rasmol software. Moreover, sequence search systems of two types were developed for the EzCatDB database: EzCat-BLAST and EzCat-FORTE. EzCat-BLAST is suitable for quick searches, adopting the BLAST algorithm, whereas EzCat-FORTE is more suitable for detecting remote homologues, adopting the algorithm for FORTE protein structure prediction software. Another system, EzMetAct, is also available to searching for major active-site structures in EzCatDB, for which PDB-formatted queries can be searched.
+
+AUTHORS:
+
+Nozomi Nagano
+Naoko Nakayama
+Kazuyoshi Ikeda
+Masaru Fukuie
+Kiyonobu Yokota
+Takuo Doi
+Tsuyoshi Kato
+Kentaro Tomii
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

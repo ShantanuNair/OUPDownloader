@@ -1,0 +1,60 @@
+TITLE: EHFPI: a database and analysis resource of essential host factors for pathogenic infection
+ 
+High-throughput screening and computational technology has greatly changed the face of microbiology in better understanding pathogen–host interactions. Genome-wide RNA interference (RNAi) screens have given rise to a new class of host genes designated as Essential Host Factors (EHFs), whose knockdown effects significantly influence pathogenic infections. Therefore, we present the first release of a manually-curated bioinformatics database and analysis resource EHFPI (Essential Host Factors for Pathogenic Infection, http://biotech.bmi.ac.cn/ehfpi). EHFPI captures detailed article, screen, pathogen and phenotype annotation information for a total of 4634 EHF genes of 25 clinically important pathogenic species. Notably, EHFPI also provides six powerful and data-integrative analysis tools, i.e. EHF Overlap Analysis, EHF-pathogen Network Analysis, Gene Enrichment Analysis, Pathogen Interacting Proteins (PIPs) Analysis, Drug Target Analysis and GWAS Candidate Gene Analysis, which advance the comprehensive understanding of the biological roles of EHF genes, as in diverse perspectives of protein–protein interaction network, drug targets and diseases/traits. The EHFPI web interface provides appropriate tools that allow efficient query of EHF data and visualization of custom-made analysis results. EHFPI data and tools shall keep available without charge and serve the microbiology, biomedicine and pharmaceutics research communities, to finally facilitate the development of diagnostics, prophylactics and therapeutics for human pathogens.
+
+AUTHORS:
+
+Yang Liu
+Dafei Xie
+Lu Han
+Hui Bai
+Fei Li
+Shengqi Wang
+Xiaochen Bo
+
+KEYWORDS:
+
+phenotype
+drug delivery systems
+genes
+genome
+infection
+microbiology
+pathogenic organism
+host factor
+rna interference
+pathogenicity
+candidate disease gene
+genome-wide association study
+prognosis in palliative care study
+host (organism)
+preschool imitation and praxis scale
+bioinformatics
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

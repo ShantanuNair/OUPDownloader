@@ -1,0 +1,75 @@
+TITLE: Ensembl 2013
+ 
+The Ensembl project (http://www.ensembl.org) provides genome information for sequenced chordate genomes with a particular focus on human, mouse, zebrafish and rat. Our resources include evidenced-based gene sets for all supported species; large-scale whole genome multiple species alignments across vertebrates and clade-specific alignments for eutherian mammals, primates, birds and fish; variation data resources for 17 species and regulation annotations based on ENCODE and other data sets. Ensembl data are accessible through the genome browser at http://www.ensembl.org and through other tools and programmatic interfaces.
+
+AUTHORS:
+
+Paul Flicek
+Ikhlak Ahmed
+M. Ridwan Amode
+Daniel Barrell
+Kathryn Beal
+Simon Brent
+Denise Carvalho-Silva
+Peter Clapham
+Guy Coates
+Susan Fairley
+Stephen Fitzgerald
+Laurent Gil
+Carlos García-Girón
+Leo Gordon
+Thibaut Hourlier
+Sarah Hunt
+Thomas Juettemann
+Andreas K. Kähäri
+Stephen Keenan
+Monika Komorowska
+Eugene Kulesha
+Ian Longden
+Thomas Maurel
+William M. McLaren
+Matthieu Muffato
+Rishi Nag
+Bert Overduin
+Miguel Pignatelli
+Bethan Pritchard
+Emily Pritchard
+Harpreet Singh Riat
+Graham R. S. Ritchie
+Magali Ruffier
+Michael Schuster
+Daniel Sheppard
+Daniel Sobral
+Kieron Taylor
+Anja Thormann
+Stephen Trevanion
+Simon White
+Steven P. Wilder
+Bronwen L. Aken
+Ewan Birney
+Fiona Cunningham
+Ian Dunham
+Jennifer Harrow
+Javier Herrero
+Tim J. P. Hubbard
+Nathan Johnson
+Rhoda Kinsella
+Anne Parker
+Giulietta Spudich
+Andy Yates
+Amonida Zadissa
+Stephen M. J. Searle
+
+KEYWORDS:
+
+aves
+genes
+genome
+mammals
+primates
+vertebrates
+zebrafish
+mice
+rats
+chordata
+datasets

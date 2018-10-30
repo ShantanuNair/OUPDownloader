@@ -1,0 +1,23 @@
+TITLE: KERIS: kaleidoscope of gene responses to inflammation between species
+ 
+A cornerstone of modern biomedical research is the use of animal models to study disease mechanisms and to develop new therapeutic approaches. In order to help the research community to better explore the similarities and differences of genomic response between human inflammatory diseases and murine models, we developed KERIS: kaleidoscope of gene responses to inflammation between species (available at http://www.igenomed.org/keris/). As of June 2016, KERIS includes comparisons of the genomic response of six human inflammatory diseases (burns, trauma, infection, sepsis, endotoxin and acute respiratory distress syndrome) and matched mouse models, using 2257 curated samples from the Inflammation and the Host Response to Injury Glue Grant studies and other representative studies in Gene Expression Omnibus. A researcher can browse, query, visualize and compare the response patterns of genes, pathways and functional modules across different diseases and corresponding murine models. The database is expected to help biologists choosing models when studying the mechanisms of particular genes and pathways in a disease and prioritizing the translation of findings from disease models into clinical studies.
+
+AUTHORS:
+
+Peng Li
+Ronald G Tompkins
+Wenzhong Xiao
+the Inflammation and Host Response to Injury Large-Scale Collaborative Research Program
+
+KEYWORDS:
+
+gene expression
+inflammation
+burns
+genes
+genome
+wounds and injuries
+infection
+mice
+inflammatory disorders
+disease models

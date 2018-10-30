@@ -1,0 +1,27 @@
+TITLE: BacDive – The Bacterial Diversity Metadatabase in 2016
+ 
+BacDive–the Bacterial Diversity Metadatabase (http://bacdive.dsmz.de) provides strain-linked information about bacterial and archaeal biodiversity. The range of data encompasses taxonomy, morphology, physiology, sampling and concomitant environmental conditions as well as molecular biology. The majority of data is manually annotated and curated. Currently (with release 9/2015), BacDive covers 53 978 strains. Newly implemented RESTful web services provide instant access to the content in machine-readable XML and JSON format. Besides an overall increase of data content, BacDive offers new data fields and features, e.g. the search for gene names, plasmids or 16S rRNA in the advanced search, as well as improved linkage of entries to external life science web resources.
+
+AUTHORS:
+
+Carola Söhngen
+Adam Podstawka
+Boyke Bunk
+Dorothea Gleim
+Anna Vetcininova
+Lorenz Christian Reimer
+Christian Ebeling
+Cezar Pendarovski
+Jörg Overmann
+
+KEYWORDS:
+
+actinobacteria
+plasmids
+biological sciences
+genes
+molecular biology
+rna, ribosomal, 16s
+taxonomic classification
+physiology
+xml

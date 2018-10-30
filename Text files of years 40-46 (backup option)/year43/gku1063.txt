@@ -1,0 +1,48 @@
+TITLE: Rfam 12.0: updates to the RNA families database
+ 
+The Rfam database (available at http://rfam.xfam.org) is a collection of non-coding RNA families represented by manually curated sequence alignments, consensus secondary structures and annotation gathered from corresponding Wikipedia, taxonomy and ontology resources. In this article, we detail updates and improvements to the Rfam data and website for the Rfam 12.0 release. We describe the upgrade of our search pipeline to use Infernal 1.1 and demonstrate its improved homology detection ability by comparison with the previous version. The new pipeline is easier for users to apply to their own data sets, and we illustrate its ability to annotate RNAs in genomic and metagenomic data sets of various sizes. Rfam has been expanded to include 260 new families, including the well-studied large subunit ribosomal RNA family, and for the first time includes information on short sequence- and structure-based RNA motifs present within families.
+
+AUTHORS:
+
+Eric P. Nawrocki
+Sarah W. Burge
+Alex Bateman
+Jennifer Daub
+Ruth Y. Eberhardt
+Sean R. Eddy
+Evan W. Floden
+Paul P. Gardner
+Thomas A. Jones
+John Tate
+Robert D. Finn
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

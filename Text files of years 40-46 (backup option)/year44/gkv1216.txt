@@ -1,0 +1,35 @@
+TITLE: HPMCD: the database of human microbial communities from metagenomic datasets and microbial reference genomes
+ 
+The Human Pan-Microbe Communities (HPMC) database (http://www.hpmcd.org/) provides a manually curated, searchable, metagenomic resource to facilitate investigation of human gastrointestinal microbiota. Over the past decade, the application of metagenome sequencing to elucidate the microbial composition and functional capacity present in the human microbiome has revolutionized many concepts in our basic biology. When sufficient high quality reference genomes are available, whole genome metagenomic sequencing can provide direct biological insights and high-resolution classification. The HPMC database provides species level, standardized phylogenetic classification of over 1800 human gastrointestinal metagenomic samples. This is achieved by combining a manually curated list of bacterial genomes from human faecal samples with over 21000 additional reference genomes representing bacteria, viruses, archaea and fungi with manually curated species classification and enhanced sample metadata annotation. A user-friendly, web-based interface provides the ability to search for (i) microbial groups associated with health or disease state, (ii) health or disease states and community structure associated with a microbial group, (iii) the enrichment of a microbial gene or sequence and (iv) enrichment of a functional annotation. The HPMC database enables detailed analysis of human microbial communities and supports research from basic microbiology and immunology to therapeutic development in human health and disease.
+
+AUTHORS:
+
+Samuel C. Forster
+Hilary P. Browne
+Nitin Kumar
+Martin Hunt
+Hubert Denise
+Alex Mitchell
+Robert D. Finn
+Trevor D. Lawley
+
+KEYWORDS:
+
+metadata
+archaea
+feces
+genes
+genome
+genome, bacterial
+internet
+bacteria
+fungus
+microbiology
+viruses
+microorganisms
+immunology
+community
+functional capacity
+microbiome
+human microbiome
+datasets

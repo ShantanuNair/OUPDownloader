@@ -1,0 +1,44 @@
+TITLE: The RCSB protein data bank: integrative view of protein, gene and 3D structural information
+ 
+The Research Collaboratory for Structural Bioinformatics Protein Data Bank (RCSB PDB, http://rcsb.org), the US data center for the global PDB archive, makes PDB data freely available to all users, from structural biologists to computational biologists and beyond. New tools and resources have been added to the RCSB PDB web portal in support of a ‘Structural View of Biology.’ Recent developments have improved the User experience, including the high-speed NGL Viewer that provides 3D molecular visualization in any web browser, improved support for data file download and enhanced organization of website pages for query, reporting and individual structure exploration. Structure validation information is now visible for all archival entries. PDB data have been integrated with external biological resources, including chromosomal position within the human genome; protein modifications; and metabolic pathways. PDB-101 educational materials have been reorganized into a searchable website and expanded to include new features such as the Geis Digital Archive.
+
+AUTHORS:
+
+Peter W. Rose
+Andreas Prlić
+Ali Altunkaya
+Chunxiao Bi
+Anthony R. Bradley
+Cole H. Christie
+Luigi Di Costanzo
+Jose M. Duarte
+Shuchismita Dutta
+Zukang Feng
+Rachel Kramer Green
+David S. Goodsell
+Brian Hudson
+Tara Kalro
+Robert Lowe
+Ezra Peisach
+Christopher Randle
+Alexander S. Rose
+Chenghua Shao
+Yi-Ping Tao
+Yana Valasatava
+Maria Voigt
+John D. Westbrook
+Jesse Woo
+Huangwang Yang
+Jasmine Y. Young
+Christine Zardecki
+Helen M. Berman
+Stephen K. Burley
+
+KEYWORDS:
+
+chromosomes
+genes
+genome, human
+knowledge acquisition
+protein data bank
+bioinformatics

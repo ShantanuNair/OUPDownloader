@@ -1,0 +1,28 @@
+TITLE: doRiNA: a database of RNA interactions in post-transcriptional regulation
+ 
+In animals, RNA binding proteins (RBPs) and microRNAs (miRNAs) post-transcriptionally regulate the expression of virtually all genes by binding to RNA. Recent advances in experimental and computational methods facilitate transcriptome-wide mapping of these interactions. It is thought that the combinatorial action of RBPs and miRNAs on target mRNAs form a post-transcriptional regulatory code. We provide a database that supports the quest for deciphering this regulatory code. Within doRiNA, we are systematically curating, storing and integrating binding site data for RBPs and miRNAs. Users are free to take a target (mRNA) or regulator (RBP and/or miRNA) centric view on the data. We have implemented a database framework with short query response times for complex searches (e.g. asking for all targets of a particular combination of regulators). All search results can be browsed, inspected and analyzed in conjunction with a huge selection of other genome-wide data, because our database is directly linked to a local copy of the UCSC genome browser. At the time of writing, doRiNA encompasses RBP data for the human, mouse and worm genomes. For computational miRNA target site predictions, we provide an update of PicTar predictions.
+
+AUTHORS:
+
+Gerd Anders
+Sebastian D. Mackowiak
+Marvin Jens
+Jonas Maaskola
+Andreas Kuntzagk
+Nikolaus Rajewsky
+Markus Landthaler
+Christoph Dieterich
+
+KEYWORDS:
+
+transcription, genetic
+binding sites
+genes
+genome
+reaction time
+rna, messenger
+rna-binding proteins
+helminths
+mice
+rna
+micrornas

@@ -1,0 +1,56 @@
+TITLE: GEM2Net: from gene expression modeling to -omics networks, a new CATdb module to investigate Arabidopsis thaliana genes involved in stress response
+ 
+CATdb (http://urgv.evry.inra.fr/CATdb) is a database providing a public access to a large collection of transcriptomic data, mainly for Arabidopsis but also for other plants. This resource has the rare advantage to contain several thousands of microarray experiments obtained with the same technical protocol and analyzed by the same statistical pipelines. In this paper, we present GEM2Net, a new module of CATdb that takes advantage of this homogeneous dataset to mine co-expression units and decipher Arabidopsis gene functions. GEM2Net explores 387 stress conditions organized into 18 biotic and abiotic stress categories. For each one, a model-based clustering is applied on expression differences to identify clusters of co-expressed genes. To characterize functions associated with these clusters, various resources are analyzed and integrated: Gene Ontology, subcellular localization of proteins, Hormone Families, Transcription Factor Families and a refined stress-related gene list associated to publications. Exploiting protein–protein interactions and transcription factors-targets interactions enables to display gene networks. GEM2Net presents the analysis of the 18 stress categories, in which 17 264 genes are involved and organized within 681 co-expression clusters. The meta-data analyses were stored and organized to compose a dynamic Web resource.
+
+AUTHORS:
+
+Rim Zaag
+Jean Philippe Tamby
+Cécile Guichard
+Zakia Tariq
+Guillem Rigaill
+Etienne Delannoy
+Jean-Pierre Renou
+Sandrine Balzergue
+Tristan Mary-Huard
+Sébastien Aubourg
+Marie-Laure Martin-Magniette
+Véronique Brunaud
+
+KEYWORDS:
+
+metadata
+gene expression
+stress response
+arabidopsis
+genes
+stress
+datasets
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

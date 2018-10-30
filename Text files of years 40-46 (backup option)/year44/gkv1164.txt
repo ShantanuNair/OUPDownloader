@@ -1,0 +1,30 @@
+TITLE: The MetaCyc database of metabolic pathways and enzymes and the BioCyc collection of pathway/genome databases
+ 
+The MetaCyc database (MetaCyc.org) is a freely accessible comprehensive database describing metabolic pathways and enzymes from all domains of life. The majority of MetaCyc pathways are small-molecule metabolic pathways that have been experimentally determined. MetaCyc contains more than 2400 pathways derived from >46 000 publications, and is the largest curated collection of metabolic pathways. BioCyc (BioCyc.org) is a collection of 5700 organism-specific Pathway/Genome Databases (PGDBs), each containing the full genome and predicted metabolic network of one organism, including metabolites, enzymes, reactions, metabolic pathways, predicted operons, transport systems, and pathway-hole fillers. The BioCyc website offers a variety of tools for querying and analyzing PGDBs, including Omics Viewers and tools for comparative analysis. This article provides an update of new developments in MetaCyc and BioCyc during the last two years, including addition of Gibbs free energy values for compounds and reactions; redesign of the primary gene/protein page; addition of a tool for creating diagrams containing multiple linked pathways; several new search capabilities, including searching for genes based on sequence patterns, searching for databases based on an organism's phenotypes, and a cross-organism search; and a metabolite identifier translation service.
+
+AUTHORS:
+
+Ron Caspi
+Richard Billington
+Luciana Ferrer
+Hartmut Foerster
+Carol A. Fulcher
+Ingrid M. Keseler
+Anamika Kothari
+Markus Krummenacker
+Mario Latendresse
+Lukas A. Mueller
+Quang Ong
+Suzanne Paley
+Pallavi Subhraveti
+Daniel S. Weaver
+Peter D. Karp
+
+KEYWORDS:
+
+phenotype
+genes
+genome
+enzymes
+free energy
+metabolites

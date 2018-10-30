@@ -1,0 +1,27 @@
+TITLE: BIGNASim: a NoSQL database structure and analysis portal for nucleic acids simulation data
+ 
+Molecular dynamics simulation (MD) is, just behind genomics, the bioinformatics tool that generates the largest amounts of data, and that is using the largest amount of CPU time in supercomputing centres. MD trajectories are obtained after months of calculations, analysed in situ, and in practice forgotten. Several projects to generate stable trajectory databases have been developed for proteins, but no equivalence exists in the nucleic acids world. We present here a novel database system to store MD trajectories and analyses of nucleic acids. The initial data set available consists mainly of the benchmark of the new molecular dynamics force-field, parmBSC1. It contains 156 simulations, with over 120 μs of total simulation time. A deposition protocol is available to accept the submission of new trajectory data. The database is based on the combination of two NoSQL engines, Cassandra for storing trajectories and MongoDB to store analysis results and simulation metadata. The analyses available include backbone geometries, helical analysis, NMR observables and a variety of mechanical analyses. Individual trajectories and combined meta-trajectories can be downloaded from the portal. The system is accessible through http://mmb.irbbarcelona.org/BIGNASim/. Supplementary Material is also available on-line at http://mmb.irbbarcelona.org/BIGNASim/SuppMaterial/.
+
+AUTHORS:
+
+Adam Hospital
+Pau Andrio
+Cesare Cugnasco
+Laia Codo
+Yolanda Becerra
+Pablo D. Dans
+Federica Battistini
+Jordi Torres
+Ramón Goñi
+Modesto Orozco
+Josep Ll. Gelpí
+
+KEYWORDS:
+
+metadata
+benchmarking
+genomics
+nucleic acids
+chest pain units
+datasets
+bioinformatics

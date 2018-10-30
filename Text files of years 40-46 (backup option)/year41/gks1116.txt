@@ -1,0 +1,31 @@
+TITLE: OrthoDB: a hierarchical catalog of animal, fungal and bacterial orthologs
+ 
+The concept of orthology provides a foundation for formulating hypotheses on gene and genome evolution, and thus forms the cornerstone of comparative genomics, phylogenomics and metagenomics. We present the update of OrthoDB—the hierarchical catalog of orthologs (http://www.orthodb.org). From its conception, OrthoDB promoted delineation of orthologs at varying resolution by explicitly referring to the hierarchy of species radiations, now also adopted by other resources. The current release provides comprehensive coverage of animals and fungi representing 252 eukaryotic species, and is now extended to prokaryotes with the inclusion of 1115 bacteria. Functional annotations of orthologous groups are provided through mapping to InterPro, GO, OMIM and model organism phenotypes, with cross-references to major resources including UniProt, NCBI and FlyBase. Uniquely, OrthoDB provides computed evolutionary traits of orthologs, such as gene duplicability and loss profiles, divergence rates, sibling groups, and now extended with exon–intron architectures, syntenic orthologs and parent–child trees. The interactive web interface allows navigation along the species phylogenies, complex queries with various identifiers, annotation keywords and phrases, as well as with gene copy-number profiles and sequence homology searches. With the explosive growth of available data, OrthoDB also provides mapping of newly sequenced genomes and transcriptomes to the current orthologous groups.
+
+AUTHORS:
+
+Robert M. Waterhouse
+Fredrik Tegenfeldt
+Jia Li
+Evgeny M. Zdobnov
+Evgenia V. Kriventseva
+
+KEYWORDS:
+
+phenotype
+patient referral
+architecture
+child
+exons
+genes
+genome
+genomics
+phylogeny
+prokaryotic cells
+sequence homology
+relationship - sibling
+trees (plant)
+bacteria
+fungus
+conception
+mendelian inheritance in man, online

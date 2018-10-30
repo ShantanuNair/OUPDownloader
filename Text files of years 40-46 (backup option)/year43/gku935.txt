@@ -1,0 +1,45 @@
+TITLE: The Comparative Toxicogenomics Database's 10th year anniversary: update 2015
+ 
+Ten years ago, the Comparative Toxicogenomics Database (CTD; http://ctdbase.org/) was developed out of a need to formalize, harmonize and centralize the information on numerous genes and proteins responding to environmental toxic agents across diverse species. CTD's initial approach was to facilitate comparisons of nucleotide and protein sequences of toxicologically significant genes by curating these sequences and electronically annotating them with chemical terms from their associated references. Since then, however, CTD has vastly expanded its scope to robustly represent a triad of chemical–gene, chemical–disease and gene–disease interactions that are manually curated from the scientific literature by professional biocurators using controlled vocabularies, ontologies and structured notation. Today, CTD includes 24 million toxicogenomic connections relating chemicals/drugs, genes/proteins, diseases, taxa, phenotypes, Gene Ontology annotations, pathways and interaction modules. In this 10th year anniversary update, we outline the evolution of CTD, including our increased data content, new ‘Pathway View’ visualization tool, enhanced curation practices, pilot chemical–phenotype results and impending exposure data set. The prototype database originally described in our first report has transformed into a sophisticated resource used actively today to help scientists develop and test hypotheses about the etiologies of environmentally influenced diseases.
+
+AUTHORS:
+
+Allan Peter Davis
+Cynthia J. Grondin
+Kelley Lennon-Hopkins
+Cynthia Saraceni-Richards
+Daniela Sciaky
+Benjamin L. King
+Thomas C. Wiegers
+Carolyn J. Mattingly
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

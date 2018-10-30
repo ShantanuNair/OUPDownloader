@@ -1,0 +1,32 @@
+TITLE: BacMap: an up-to-date electronic atlas of annotated bacterial genomes
+ 
+Originally released in 2005, BacMap is an electronic, interactive atlas of fully sequenced bacterial genomes. It contains fully labeled, zoomable and searchable chromosome maps for essentially all sequenced prokaryotic (archaebacterial and eubacterial) species. Each map can be zoomed to the level of individual genes and each gene is hyperlinked to a richly annotated gene card. The latest release of BacMap (http://bacmap.wishartlab.com/) now contains data for more than 1700 bacterial species (∼10× more than the 2005 release), corresponding to more than 2800 chromosome and plasmid maps. All bacterial genome maps are now supplemented with separate prophage genome maps as well as separate tRNA and rRNA maps. Each bacterial chromosome entry in BacMap also contains graphs and tables on a variety of gene and protein statistics. Likewise, every bacterial species entry contains a bacterial ‘biography’ card, with taxonomic details, phenotypic details, textual descriptions and images (when available). Improved data browsing and searching tools have also been added to allow more facile filtering, sorting and display of the chromosome maps and their contents.
+
+AUTHORS:
+
+Joseph Cruz
+Yifeng Liu
+Yongjie Liang
+You Zhou
+Michael Wilson
+Jonathan J. Dennis
+Paul Stothard
+Gary Van Domselaar
+David S. Wishart
+
+KEYWORDS:
+
+phenotype
+plasmids
+biography
+chromosomes
+chromosomes, bacterial
+genes
+genome
+genome, bacterial
+lysogeny
+ribosomal rna
+transfer rna
+graphical displays
+maps
+sorting

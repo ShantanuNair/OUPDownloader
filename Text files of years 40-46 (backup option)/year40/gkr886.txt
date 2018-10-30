@@ -1,0 +1,26 @@
+TITLE: ConoServer: updated content, knowledge, and discovery tools in the conopeptide database
+ 
+ConoServer (http://www.conoserver.org) is a database specializing in the sequences and structures of conopeptides, which are toxins expressed by marine cone snails. Cone snails are carnivorous gastropods, which hunt their prey using a cocktail of toxins that potently subvert nervous system function. The ability of these toxins to specifically target receptors, channels and transporters of the nervous system has attracted considerable interest for their use in physiological research and as drug leads. Since the founding publication on ConoServer in 2008, the number of entries in the database has nearly doubled, the interface has been redesigned and new annotations have been added, including a more detailed description of cone snail species, biological activity measurements and information regarding the identification of each sequence. Automatically updated statistics on classification schemes, three-dimensional structures, conopeptide-bearing species and endoplasmic reticulum signal sequence conservation trends, provide a convenient overview of current knowledge on conopeptides. Transcriptomics and proteomics have began generating massive numbers of new conopeptide sequences, and two dedicated tools have been recently implemented in ConoServer to standardize the analysis of conopeptide precursor sequences and to help in the identification by mass spectrometry of toxins whose sequences were predicted at the nucleic acid level.
+
+AUTHORS:
+
+Quentin Kaas
+Rilei Yu
+Ai-Hua Jin
+Sébastien Dutertre
+David J. Craik
+
+KEYWORDS:
+
+databases
+endoplasmic reticulum
+membrane transport proteins
+nervous system
+nervous system physiology
+nucleic acids
+peptides
+mass spectrometry
+toxins
+proteomics
+signal sequences, peptide
+conus snails

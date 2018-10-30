@@ -1,0 +1,26 @@
+TITLE: BitterDB: a database of bitter compounds
+ 
+Basic taste qualities like sour, salty, sweet, bitter and umami serve specific functions in identifying food components found in the diet of humans and animals, and are recognized by proteins in the oral cavity. Recognition of bitter taste and aversion to it are thought to protect the organism against the ingestion of poisonous food compounds, which are often bitter. Interestingly, bitter taste receptors are expressed not only in the mouth but also in extraoral tissues, such as the gastrointestinal tract, indicating that they may play a role in digestive and metabolic processes. BitterDB database, available at http://bitterdb.agri.huji.ac.il/bitterdb/, includes over 550 compounds that were reported to taste bitter to humans. The compounds can be searched by name, chemical structure, similarity to other bitter compounds, association with a particular human bitter taste receptor, and so on. The database also contains information on mutations in bitter taste receptors that were shown to influence receptor activation by bitter compounds. The aim of BitterDB is to facilitate studying the chemical features associated with bitterness. These studies may contribute to predicting bitterness of unknown compounds, predicting ligands for bitter receptors from different species and rational design of bitterness modulators.
+
+AUTHORS:
+
+Ayana Wiener
+Marina Shudler
+Anat Levit
+Masha Y. Niv
+
+KEYWORDS:
+
+metabolism
+mutation
+diet
+digestion
+gastrointestinal system
+food
+ligands
+mouth
+taste perception
+gastrointestinal tract
+ingestion
+molecule
+taste bitter

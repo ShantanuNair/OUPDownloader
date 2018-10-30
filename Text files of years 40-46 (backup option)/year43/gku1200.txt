@@ -1,0 +1,54 @@
+TITLE: Araport: the Arabidopsis Information Portal
+ 
+The Arabidopsis Information Portal (https://www.araport.org) is a new online resource for plant biology research. It houses the Arabidopsis thaliana genome sequence and associated annotation. It was conceived as a framework that allows the research community to develop and release ‘modules’ that integrate, analyze and visualize Arabidopsis data that may reside at remote sites. The current implementation provides an indexed database of core genomic information. These data are made available through feature-rich web applications that provide search, data mining, and genome browser functionality, and also by bulk download and web services. Araport uses software from the InterMine and JBrowse projects to expose curated data from TAIR, GO, BAR, EBI, UniProt, PubMed and EPIC CoGe. The site also hosts ‘science apps,’ developed as prototypes for community modules that use dynamic web pages to present data obtained on-demand from third-party servers via RESTful web services. Designed for sustainability, the Arabidopsis Information Portal strategy exploits existing scientific computing infrastructure, adopts a practical mixture of data integration technologies and encourages collaborative enhancement of the resource by its user community.
+
+AUTHORS:
+
+Vivek Krishnakumar
+Matthew R. Hanlon
+Sergio Contrino
+Erik S. Ferlanti
+Svetlana Karamycheva
+Maria Kim
+Benjamin D. Rosen
+Chia-Yi Cheng
+Walter Moreira
+Stephen A. Mock
+Joseph Stubbs
+Julie M. Sullivan
+Konstantinos Krampis
+Jason R. Miller
+Gos Micklem
+Matthew Vaughn
+Christopher D. Town
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

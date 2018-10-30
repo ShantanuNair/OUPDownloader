@@ -1,0 +1,57 @@
+TITLE: The SUPERFAMILY 1.75 database in 2014: a doubling of data
+ 
+We present updates to the SUPERFAMILY 1.75 (http://supfam.org) online resource and protein sequence collection. The hidden Markov model library that provides sequence homology to SCOP structural domains remains unchanged at version 1.75. In the last 4 years SUPERFAMILY has more than doubled its holding of curated complete proteomes over all cellular life, from 1400 proteomes reported previously in 2010 up to 3258 at present. Outside of the main sequence collection, SUPERFAMILY continues to provide domain annotation for sequences provided by other resources such as: UniProt, Ensembl, PDB, much of JGI Phytozome and selected subcollections of NCBI RefSeq. Despite this growth in data volume, SUPERFAMILY now provides users with an expanded and daily updated phylogenetic tree of life (sTOL). This tree is built with genomic-scale domain annotation data as before, but constantly updated when new species are introduced to the sequence library. Our Gene Ontology and other functional and phenotypic annotations previously reported have stood up to critical assessment by the function prediction community. We have now introduced these data in an integrated manner online at the level of an individual sequence, and—in the case of whole genomes—with enrichment analysis against a taxonomically defined background.
+
+AUTHORS:
+
+Matt E. Oates
+Jonathan Stahlhacke
+Dimitrios V. Vavoulis
+Ben Smithers
+Owen J.L. Rackham
+Adam J. Sardar
+Jan Zaucha
+Natalie Thurlby
+Hai Fang
+Julian Gough
+
+KEYWORDS:
+
+phenotype
+amino acid sequence
+genes
+genome
+internet
+libraries
+proteome
+sequence homology
+trees (plant)
+community
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

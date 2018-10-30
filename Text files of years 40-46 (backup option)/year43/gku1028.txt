@@ -1,0 +1,51 @@
+TITLE: A series of PDB-related databanks for everyday needs
+ 
+We present a series of databanks (http://swift.cmbi.ru.nl/gv/facilities/) that hold information that is computationally derived from Protein Data Bank (PDB) entries and that might augment macromolecular structure studies. These derived databanks run parallel to the PDB, i.e. they have one entry per PDB entry. Several of the well-established databanks such as HSSP, PDBREPORT and PDB_REDO have been updated and/or improved. The software that creates the DSSP databank, for example, has been rewritten to better cope with π-helices. A large number of databanks have been added to aid computational structural biology; some examples are lists of residues that make crystal contacts, lists of contacting residues using a series of contact definitions or lists of residue accessibilities. PDB files are not the optimal presentation of the underlying data for many studies. We therefore made a series of databanks that hold PDB files in an easier to use or more consistent representation. The BDB databank holds X-ray PDB files with consistently represented B-factors. We also added several visualization tools to aid the users of our databanks.
+
+AUTHORS:
+
+Wouter G. Touw
+Coos Baakman
+Jon Black
+Tim A. H. te Beek
+E. Krieger
+Robbie P. Joosten
+Gert Vriend
+
+KEYWORDS:
+
+diagnostic radiologic examination
+roentgen rays
+databases
+molecular structure
+software
+protein data bank
+crystal structure
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

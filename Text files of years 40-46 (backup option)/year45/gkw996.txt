@@ -1,0 +1,21 @@
+TITLE: NGSmethDB 2017: enhanced methylomes and differential methylation
+ 
+The 2017 update of NGSmethDB stores whole genome methylomes generated from short-read data sets obtained by bisulfite sequencing (WGBS) technology. To generate high-quality methylomes, stringent quality controls were integrated with third-part software, adding also a two-step mapping process to exploit the advantages of the new genome assembly models. The samples were all profiled under constant parameter settings, thus enabling comparative downstream analyses. Besides a significant increase in the number of samples, NGSmethDB now includes two additional data-types, which are a valuable resource for the discovery of methylation epigenetic biomarkers: (i) differentially methylated single-cytosines; and (ii) methylation segments (i.e. genome regions of homogeneous methylation). The NGSmethDB back-end is now based on MongoDB, a NoSQL hierarchical database using JSON-formatted documents and dynamic schemas, thus accelerating sample comparative analyses. Besides conventional database dumps, track hubs were implemented, which improved database access, visualization in genome browsers and comparative analyses to third-part annotations. In addition, the database can be also accessed through a RESTful API. Lastly, a Python client and a multiplatform virtual machine allow for program-driven access from user desktop. This way, private methylation data can be compared to NGSmethDB without the need to upload them to public servers. Database website: http://bioinfo2.ugr.es/NGSmethDB.
+
+AUTHORS:
+
+Ricardo Lebrón
+Cristina Gómez-Martín
+Pedro Carpena
+Pedro Bernaola-Galván
+Guillermo Barturen
+Michael Hackenberg
+José L. Oliver
+
+KEYWORDS:
+
+genome
+methylation
+epigenetics
+clients
+datasets

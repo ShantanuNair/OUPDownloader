@@ -1,0 +1,29 @@
+TITLE: dbPTM 2016: 10-year anniversary of a resource for post-translational modification of proteins
+ 
+Owing to the importance of the post-translational modifications (PTMs) of proteins in regulating biological processes, the dbPTM (http://dbPTM.mbc.nctu.edu.tw/) was developed as a comprehensive database of experimentally verified PTMs from several databases with annotations of potential PTMs for all UniProtKB protein entries. For this 10th anniversary of dbPTM, the updated resource provides not only a comprehensive dataset of experimentally verified PTMs, supported by the literature, but also an integrative interface for accessing all available databases and tools that are associated with PTM analysis. As well as collecting experimental PTM data from 14 public databases, this update manually curates over 12 000 modified peptides, including the emerging S-nitrosylation, S-glutathionylation and succinylation, from approximately 500 research articles, which were retrieved by text mining. As the number of available PTM prediction methods increases, this work compiles a non-homologous benchmark dataset to evaluate the predictive power of online PTM prediction tools. An increasing interest in the structural investigation of PTM substrate sites motivated the mapping of all experimental PTM peptides to protein entries of Protein Data Bank (PDB) based on database identifier and sequence identity, which enables users to examine spatially neighboring amino acids, solvent-accessible surface area and side-chain orientations for PTM substrate sites on tertiary structures. Since drug binding in PDB is annotated, this update identified over 1100 PTM sites that are associated with drug binding. The update also integrates metabolic pathways and protein–protein interactions to support the PTM network analysis for a group of proteins. Finally, the web interface is redesigned and enhanced to facilitate access to this resource.
+
+AUTHORS:
+
+Kai-Yao Huang
+Min-Gang Su
+Hui-Ju Kao
+Yun-Chung Hsieh
+Jhih-Hua Jhong
+Kuang-Hao Cheng
+Hsien-Da Huang
+Tzong-Yi Lee
+
+KEYWORDS:
+
+amino acids
+benchmarking
+glycosylation
+mining
+peptides
+protein processing, post-translational
+solvents
+drug binding
+uniprot knowledgebase
+protein data bank
+verification
+datasets

@@ -1,0 +1,14 @@
+TITLE: MonarchBase: the monarch butterfly genome database
+ 
+The monarch butterfly (Danaus plexippus) is emerging as a model organism to study the mechanisms of circadian clocks and animal navigation, and the genetic underpinnings of long-distance migration. The initial assembly of the monarch genome was released in 2011, and the biological interpretation of the genome focused on the butterfly’s migration biology. To make the extensive data associated with the genome accessible to the general biological and lepidopteran communities, we established MonarchBase (available at http://monarchbase.umassmed.edu). The database is an open-access, web-available portal that integrates all available data associated with the monarch butterfly genome. Moreover, MonarchBase provides access to an updated version of genome assembly (v3) upon which all data integration is based. These include genes with systematic annotation, as well as other molecular resources, such as brain expressed sequence tags, migration expression profiles and microRNAs. MonarchBase utilizes a variety of retrieving methods to access data conveniently and for integrating biological interpretations.
+
+AUTHORS:
+
+Shuai Zhan
+Steven M. Reppert
+
+KEYWORDS:
+
+butterflies
+genes
+genome

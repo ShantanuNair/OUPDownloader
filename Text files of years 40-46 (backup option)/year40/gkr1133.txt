@@ -1,0 +1,27 @@
+TITLE: CharProtDB: a database of experimentally characterized protein annotations
+ 
+CharProtDB (http://www.jcvi.org/charprotdb/) is a curated database of biochemically characterized proteins. It provides a source of direct rather than transitive assignments of function, designed to support automated annotation pipelines. The initial data set in CharProtDB was collected through manual literature curation over the years by analysts at the J. Craig Venter Institute (JCVI) [formerly The Institute of Genomic Research (TIGR)] as part of their prokaryotic genome sequencing projects. The CharProtDB has been expanded by import of selected records from publicly available protein collections whose biocuration indicated direct rather than homology-based assignment of function. Annotations in CharProtDB include gene name, symbol and various controlled vocabulary terms, including Gene Ontology terms, Enzyme Commission number and TransportDB accession. Each annotation is referenced with the source; ideally a journal reference, or, if imported and lacking one, the original database source.
+
+AUTHORS:
+
+Ramana Madupu
+Alexander Richter
+Robert J. Dodson
+Lauren Brinkac
+Derek Harkins
+Scott Durkin
+Susmita Shrivastava
+Granger Sutton
+Daniel Haft
+
+KEYWORDS:
+
+genes
+genome
+vocabulary, controlled
+enzymes
+symbols
+genome sequencing
+basic local alignment search tool
+myoc gene
+datasets

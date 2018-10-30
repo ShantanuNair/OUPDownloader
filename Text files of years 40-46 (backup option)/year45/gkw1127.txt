@@ -1,0 +1,24 @@
+TITLE: ChiTaRS-3.1—the enhanced chimeric transcripts and RNA-seq database matched with protein–protein interactions
+ 
+Discovery of chimeric RNAs, which are produced by chromosomal translocations as well as the joining of exons from different genes by trans-splicing, has added a new level of complexity to our study and understanding of the transcriptome. The enhanced ChiTaRS-3.1 database (http://chitars.md.biu.ac.il) is designed to make widely accessible a wealth of mined data on chimeric RNAs, with easy-to-use analytical tools built-in. The database comprises 34 922 chimeric transcripts along with 11 714 cancer breakpoints. In this latest version, we have included multiple cross-references to GeneCards, iHop, PubMed, NCBI, Ensembl, OMIM, RefSeq and the Mitelman collection for every entry in the ‘Full Collection’. In addition, for every chimera, we have added a predicted chimeric protein–protein interaction (ChiPPI) network, which allows for easy visualization of protein partners of both parental and fusion proteins for all human chimeras. The database contains a comprehensive annotation for 34 922 chimeric transcripts from eight organisms, and includes the manual annotation of 200 sense-antiSense (SaS) chimeras. The current improvements in the content and functionality to the ChiTaRS database make it a central resource for the study of chimeric transcripts and fusion proteins.
+
+AUTHORS:
+
+Alessandro Gorohovski
+Somnath Tagore
+Vikrant Palande
+Assaf Malka
+Dorith Raviv-Shay
+Milana Frenkel-Morgenstern
+
+KEYWORDS:
+
+cancer
+chimera organism
+fusion proteins
+genes
+parent
+subarachnoid space
+trans-splicing
+rna
+mendelian inheritance in man, online

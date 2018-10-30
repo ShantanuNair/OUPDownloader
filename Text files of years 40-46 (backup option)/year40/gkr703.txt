@@ -1,0 +1,20 @@
+TITLE: OPM database and PPM web server: resources for positioning of proteins in membranes
+ 
+The Orientations of Proteins in Membranes (OPM) database is a curated web resource that provides spatial positions of membrane-bound peptides and proteins of known three-dimensional structure in the lipid bilayer, together with their structural classification, topology and intracellular localization. OPM currently contains more than 1200 transmembrane and peripheral proteins and peptides from approximately 350 organisms that represent approximately 3800 Protein Data Bank entries. Proteins are classified into classes, superfamilies and families and assigned to 21 distinct membrane types. Spatial positions of proteins with respect to the lipid bilayer are optimized by the PPM 2.0 method that accounts for the hydrophobic, hydrogen bonding and electrostatic interactions of the proteins with the anisotropic water-lipid environment described by the dielectric constant and hydrogen-bonding profiles. The OPM database is freely accessible at http://opm.phar.umich.edu. Data can be sorted, searched or retrieved using the hierarchical classification, source organism, localization in different types of membranes. The database offers downloadable coordinates of proteins and peptides with membrane boundaries. A gallery of protein images and several visualization tools are provided. The database is supplemented by the PPM server (http://opm.phar.umich.edu/server.php) which can be used for calculating spatial positions in membranes of newly determined proteins structures or theoretical models.
+
+AUTHORS:
+
+Mikhail A. Lomize
+Irina D. Pogozheva
+Hyeon Joo
+Henry I. Mosberg
+Andrei L. Lomize
+
+KEYWORDS:
+
+anatomy, regional
+hydrophobicity
+lipid bilayers
+tissue membrane
+peptides
+lipids

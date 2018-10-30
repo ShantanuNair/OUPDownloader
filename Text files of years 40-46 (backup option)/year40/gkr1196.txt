@@ -1,0 +1,17 @@
+TITLE: The 2012 Nucleic Acids Research Database Issue and the online Molecular Biology Database Collection
+ 
+The 19th annual Database Issue of Nucleic Acids Research features descriptions of 92 new online databases covering various areas of molecular biology and 100 papers describing recent updates to the databases previously described in NAR and other journals. The highlights of this issue include, among others, a description of neXtProt, a knowledgebase on human proteins; a detailed explanation of the principles behind the NCBI Taxonomy Database; NCBI and EBI papers on the recently launched BioSample databases that store sample information for a variety of database resources; descriptions of the recent developments in the Gene Ontology and UniProt Gene Ontology Annotation projects; updates on Pfam, SMART and InterPro domain databases; update papers on KEGG and TAIR, two universally acclaimed databases that face an uncertain future; and a separate section with 10 wiki-based databases, introduced in an accompanying editorial. The NAR online Molecular Biology Database Collection, available at http://www.oxfordjournals.org/nar/database/a/, has been updated and now lists 1380 databases. Brief machine-readable descriptions of the databases featured in this issue, according to the BioDBcore standards, will be provided at the http://biosharing.org/biodbcore web site. The full content of the Database Issue is freely available online on the Nucleic Acids Research web site (http://nar.oxfordjournals.org/).
+
+AUTHORS:
+
+Michael Y. Galperin
+Xosé M. Fernández-Suárez
+
+KEYWORDS:
+
+databases
+genes
+molecular biology
+nucleic acids
+taxonomic classification
+knowledge bases

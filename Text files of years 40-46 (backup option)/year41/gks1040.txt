@@ -1,0 +1,36 @@
+TITLE: SynSysNet: integration of experimental data on synaptic protein–protein interactions with drug-target relations
+ 
+We created SynSysNet, available online at http://bioinformatics.charite.de/synsysnet, to provide a platform that creates a comprehensive 4D network of synaptic interactions. Neuronal synapses are fundamental structures linking nerve cells in the brain and they are responsible for neuronal communication and information processing. These processes are dynamically regulated by a network of proteins. New developments in interaction proteomics and yeast two-hybrid methods allow unbiased detection of interactors. The consolidation of data from different resources and methods is important to understand the relation to human behaviour and disease and to identify new therapeutic approaches. To this end, we established SynSysNet from a set of ∼1000 synapse specific proteins, their structures and small-molecule interactions. For two-thirds of these, 3D structures are provided (from Protein Data Bank and homology modelling). Drug-target interactions for 750 approved drugs and 50 000 compounds, as well as 5000 experimentally validated protein–protein interactions, are included. The resulting interaction network and user-selected parts can be viewed interactively and exported in XGMML. Approximately 200 involved pathways can be explored regarding drug-target interactions. Homology-modelled structures are downloadable in Protein Data Bank format, and drugs are available as MOL-files. Protein–protein interactions and drug-target interactions can be viewed as networks; corresponding PubMed IDs or sources are given.
+
+AUTHORS:
+
+Joachim von Eichborn
+Mathias Dunkel
+Björn O. Gohlke
+Sarah C. Preissner
+Michael F. Hoffmann
+Jakob M. J. Bauer
+J. D. Armstrong
+Martin H. Schaefer
+Miguel A. Andrade-Navarro
+Nicolas Le Novere
+Michael D. R. Croning
+Seth G. N. Grant
+Pim van Nierop
+August B. Smit
+Robert Preissner
+
+KEYWORDS:
+
+drug delivery systems
+id
+iduronate sulfatase
+neurons
+synapses
+two-hybrid system techniques
+yeasts
+brain
+proteomics
+small molecule
+protein data bank
+bioinformatics

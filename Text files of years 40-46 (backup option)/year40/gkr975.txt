@@ -1,0 +1,31 @@
+TITLE: IMG/M: the integrated metagenome data management and comparative analysis system
+ 
+The integrated microbial genomes and metagenomes (IMG/M) system provides support for comparative analysis of microbial community aggregate genomes (metagenomes) in a comprehensive integrated context. IMG/M integrates metagenome data sets with isolate microbial genomes from the IMG system. IMG/M's data content and analytical capabilities have been extended through regular updates since its first release in 2007. IMG/M is available at http://img.jgi.doe.gov/m. A companion IMG/M systems provide support for annotation and expert review of unpublished metagenomic data sets (IMG/M ER: http://img.jgi.doe.gov/mer).
+
+AUTHORS:
+
+Victor M. Markowitz
+I-Min A. Chen
+Ken Chu
+Ernest Szeto
+Krishna Palaniappan
+Yuri Grechkin
+Anna Ratner
+Biju Jacob
+Amrita Pati
+Marcel Huntemann
+Konstantinos Liolios
+Ioanna Pagani
+Iain Anderson
+Konstantinos Mavromatis
+Natalia N. Ivanova
+Nikos C. Kyrpides
+
+KEYWORDS:
+
+foreign medical graduates
+genes
+genome
+community
+data management
+datasets

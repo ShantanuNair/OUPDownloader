@@ -1,0 +1,30 @@
+TITLE: RNALocate: a resource for RNA subcellular localizations
+ 
+Increasing evidence has revealed that RNA subcellular localization is a very important feature for deeply understanding RNA's biological functions after being transported into intra- or extra-cellular regions. RNALocate is a web-accessible database that aims to provide a high-quality RNA subcellular localization resource and facilitate future researches on RNA function or structure. The current version of RNALocate documents more than 37 700 manually curated RNA subcellular localization entries with experimental evidence, involving more than 21 800 RNAs with 42 subcellular localizations in 65 species, mainly including Homo sapiens, Mus musculus and Saccharomyces cerevisiae etc. Besides, RNA homology, sequence and interaction data have also been integrated into RNALocate. Users can access these data through online search, browse, blast and visualization tools. In conclusion, RNALocate will be of help in elucidating the entirety of RNA subcellular localization, and developing new prediction methods. The database is available at http://www.rna-society.org/rnalocate/.
+
+AUTHORS:
+
+Ting Zhang
+Puwen Tan
+Liqiang Wang
+Nana Jin
+Yana Li
+Lin Zhang
+Huan Yang
+Zhenyu Hu
+Lining Zhang
+Chunyu Hu
+Chunhua Li
+Kun Qian
+Changjian Zhang
+Yan Huang
+Kongning Li
+Hao Lin
+Dong Wang
+
+KEYWORDS:
+
+human
+saccharomyces cerevisiae
+rna
+basic local alignment search tool

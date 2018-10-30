@@ -1,0 +1,18 @@
+TITLE: iGNM 2.0: the Gaussian network model database for biomolecular structural dynamics
+ 
+Gaussian network model (GNM) is a simple yet powerful model for investigating the dynamics of proteins and their complexes. GNM analysis became a broadly used method for assessing the conformational dynamics of biomolecular structures with the development of a user-friendly interface and database, iGNM, in 2005. We present here an updated version, iGNM 2.0 http://gnmdb.csb.pitt.edu/, which covers more than 95% of the structures currently available in the Protein Data Bank (PDB). Advanced search and visualization capabilities, both 2D and 3D, permit users to retrieve information on inter-residue and inter-domain cross-correlations, cooperative modes of motion, the location of hinge sites and energy localization spots. The ability of iGNM 2.0 to provide structural dynamics data on the large majority of PDB structures and, in particular, on their biological assemblies makes it a useful resource for establishing the bridge between structure, dynamics and function.
+
+AUTHORS:
+
+Hongchun Li
+Yuan-Yu Chang
+Lee-Wei Yang
+Ivet Bahar
+
+KEYWORDS:
+
+dna
+rna
+protein data bank
+complex
+datasets

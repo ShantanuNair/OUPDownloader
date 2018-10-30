@@ -1,0 +1,18 @@
+TITLE: SwissRegulon, a database of genome-wide annotations of regulatory sites: recent updates
+ 
+Identification of genomic regulatory elements is essential for understanding the dynamics of cellular processes. This task has been substantially facilitated by the availability of genome sequences for many species and high-throughput data of transcripts and transcription factor (TF) binding. However, rigorous computational methods are necessary to derive accurate genome-wide annotations of regulatory sites from such data. SwissRegulon (http://swissregulon.unibas.ch) is a database containing genome-wide annotations of regulatory motifs, promoters and TF binding sites (TFBSs) in promoter regions across model organisms. Its binding site predictions were obtained with rigorous Bayesian probabilistic methods that operate on orthologous regions from related genomes, and use explicit evolutionary models to assess the evidence of purifying selection on each site. New in the current version of SwissRegulon is a curated collection of 190 mammalian regulatory motifs associated with ∼340 TFs, and TFBS annotations across a curated set of ∼35 000 promoters in both human and mouse. Predictions of TFBSs for Saccharomyces cerevisiae have also been significantly extended and now cover 158 of yeast’s ∼180 TFs. All data are accessible through both an easily navigable genome browser with search functions, and as flat files that can be downloaded for further analysis.
+
+AUTHORS:
+
+Mikhail Pachkov
+Piotr J. Balwierz
+Phil Arnold
+Evgeniy Ozonov
+Erik van Nimwegen
+
+KEYWORDS:
+
+binding sites
+genome
+oncogenes
+mice

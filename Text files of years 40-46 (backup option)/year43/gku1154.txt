@@ -1,0 +1,40 @@
+TITLE: ProteomeScout: a repository and analysis resource for post-translational modifications and proteins
+ 
+ProteomeScout (https://proteomescout.wustl.edu) is a resource for the study of proteins and their post-translational modifications (PTMs) consisting of a database of PTMs, a repository for experimental data, an analysis suite for PTM experiments, and a tool for visualizing the relationships between complex protein annotations. The PTM database is a compendium of public PTM data, coupled with user-uploaded experimental data. ProteomeScout provides analysis tools for experimental datasets, including summary views and subset selection, which can identify relationships within subsets of data by testing for statistically significant enrichment of protein annotations. Protein annotations are incorporated in the ProteomeScout database from external resources and include terms such as Gene Ontology annotations, domains, secondary structure and non-synonymous polymorphisms. These annotations are available in the database download, in the analysis tools and in the protein viewer. The protein viewer allows for the simultaneous visualization of annotations in an interactive web graphic, which can be exported in Scalable Vector Graphics (SVG) format. Finally, quantitative data measurements associated with public experiments are also easily viewable within protein records, allowing researchers to see how PTMs change across different contexts. ProteomeScout should prove useful for protein researchers and should benefit the proteomics community by providing a stable repository for PTM experiments.
+
+AUTHORS:
+
+Matthew K. Matlock
+Alex S. Holehouse
+Kristen M. Naegle
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

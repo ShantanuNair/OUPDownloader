@@ -1,0 +1,66 @@
+TITLE: DB-AT: a 2015 update to the Full-parasites database brings a multitude of new transcriptomic data for apicomplexan parasites
+ 
+The previous release of our Full-parasites database (http://fullmal.hgc.jp/) brought enhanced functionality, an expanded full-length cDNA content, and new RNA-Seq datasets from several important apicomplexan parasites. The 2015 update witnesses the major shift in the databases content with focus on diverse transcriptomes of the apicomplexan parasites. The content of the database was substantially enriched with transcriptome information for new apicomplexan parasites. The latest version covers a total of 17 species, with addition of our newly generated RNA-Seq data of a total of 909 150 388 tags. Moreover, we have generated and included two novel and unique datasets, which represent diverse nature of transcriptomes in individual parasites in vivo and in vitro. One is the data collected from 116 Indonesian patients infected with Plasmodium falciparum. The other is a series of transcriptome data collected from a total of 38 single cells of P. falciparum cultured in vitro. We believe that with the recent advances our database becomes an even better resource and a unique platform in the analysis of apicomplexan parasites and their interaction with their hosts. To adequately reflect the recent modifications and the current content we have changed the database name to DB-AT—DataBase of Apicomplexa Transcriptomes.
+
+AUTHORS:
+
+Marcin Jąkalski
+Hiroyuki Wakaguri
+Tabea G. Kischka
+Yoshifumi Nishikawa
+Shin-ichiro Kawazu
+Makoto Matsubayashi
+Fumiya Kawahara
+Naotoshi Tsuji
+Shinuo Cao
+Fujiko Sunaga
+Xuenan Xuan
+Kazuhiro Okubo
+Ikuo Igarashi
+Josef Tuda
+Arthur E. Mongan
+Yuki Eshita
+Ryuichiro Maeda
+Wojciech Makałowski
+Yutaka Suzuki
+Junya Yamagishi
+
+KEYWORDS:
+
+databases
+apicomplexa
+dna, complementary
+parasites
+plasmodium falciparum
+rna
+host (organism)
+indonesian
+datasets
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

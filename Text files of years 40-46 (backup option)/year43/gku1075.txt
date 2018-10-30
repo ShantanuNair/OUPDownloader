@@ -1,0 +1,54 @@
+TITLE: COSMIC: exploring the world's knowledge of somatic mutations in human cancer
+ 
+COSMIC, the Catalogue Of Somatic Mutations In Cancer (http://cancer.sanger.ac.uk) is the world's largest and most comprehensive resource for exploring the impact of somatic mutations in human cancer. Our latest release (v70; Aug 2014) describes 2 002 811 coding point mutations in over one million tumor samples and across most human genes. To emphasize depth of knowledge on known cancer genes, mutation information is curated manually from the scientific literature, allowing very precise definitions of disease types and patient details. Combination of almost 20 000 published studies gives substantial resolution of how mutations and phenotypes relate in human cancer, providing insights into the stratification of mutations and biomarkers across cancer patient populations. Conversely, our curation of cancer genomes (over 12 000) emphasizes knowledge breadth, driving discovery of unrecognized cancer-driving hotspots and molecular targets. Our high-resolution curation approach is globally unique, giving substantial insight into molecular biomarkers in human oncology. In addition, COSMIC also details more than six million noncoding mutations, 10 534 gene fusions, 61 299 genome rearrangements, 695 504 abnormal copy number segments and 60 119 787 abnormal expression variants. All these types of somatic mutation are annotated to both the human genome and each affected coding gene, then correlated across disease and mutation types.
+
+AUTHORS:
+
+Simon A. Forbes
+David Beare
+Prasad Gunasekaran
+Kenric Leung
+Nidhi Bindal
+Harry Boutselakis
+Minjie Ding
+Sally Bamford
+Charlotte Cole
+Sari Ward
+Chai Yin Kok
+Mingming Jia
+Tisham De
+Jon W. Teague
+Michael R. Stratton
+Ultan McDermott
+Peter J. Campbell
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

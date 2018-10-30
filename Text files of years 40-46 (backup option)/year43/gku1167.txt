@@ -1,0 +1,48 @@
+TITLE: LncRNAWiki: harnessing community knowledge in collaborative curation of human long non-coding RNAs
+ 
+Long non-coding RNAs (lncRNAs) perform a diversity of functions in numerous important biological processes and are implicated in many human diseases. In this report we present lncRNAWiki (http://lncrna.big.ac.cn), a wiki-based platform that is open-content and publicly editable and aimed at community-based curation and collection of information on human lncRNAs. Current related databases are dependent primarily on curation by experts, making it laborious to annotate the exponentially accumulated information on lncRNAs, which inevitably requires collective efforts in community-based curation of lncRNAs. Unlike existing databases, lncRNAWiki features comprehensive integration of information on human lncRNAs obtained from multiple different resources and allows not only existing lncRNAs to be edited, updated and curated by different users but also the addition of newly identified lncRNAs by any user. It harnesses community collective knowledge in collecting, editing and annotating human lncRNAs and rewards community-curated efforts by providing explicit authorship based on quantified contributions. LncRNAWiki relies on the underling knowledge of scientific community for collective and collaborative curation of human lncRNAs and thus has the potential to serve as an up-to-date and comprehensive knowledgebase for human lncRNAs.
+
+AUTHORS:
+
+Lina Ma
+Ang Li
+Dong Zou
+Xingjian Xu
+Lin Xia
+Jun Yu
+Vladimir B. Bajic
+Zhang Zhang
+
+KEYWORDS:
+
+reward
+community
+knowledge bases
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

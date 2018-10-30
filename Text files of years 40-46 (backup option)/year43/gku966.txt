@@ -1,0 +1,48 @@
+TITLE: Platinum: a database of experimentally measured effects of mutations on structurally defined protein–ligand complexes
+ 
+Drug resistance is a major challenge for the treatment of many diseases and a significant concern throughout the drug development process. The ability to understand and predict the effects of mutations on protein–ligand affinities and their roles in the emergence of resistance would significantly aid treatment and drug design strategies. In order to study and understand the impacts of missense mutations on the interaction of ligands with the proteome, we have developed Platinum (http://structure.bioc.cam.ac.uk/platinum). This manually curated, literature-derived database, comprising over 1000 mutations, associates for the first time experimental information on changes in affinity with three-dimensional structures of protein–ligand complexes. To minimize differences arising from experimental techniques and to directly compare binding affinities, Platinum considers only changes measured by the same group and with the same amino-acid sequence used for structure determination, providing a direct link between protein structure, how a ligand binds and how mutations alter the affinity of the ligand of the protein. We believe Platinum will be an invaluable resource for understanding the effects of mutations that give rise to drug resistance, a major problem emerging in pandemics including those caused by the influenza virus, in infectious diseases such as tuberculosis, in cancer and in many other life-threatening illnesses.
+
+AUTHORS:
+
+Douglas E.V. Pires
+Tom L. Blundell
+David B. Ascher
+
+KEYWORDS:
+
+mutation
+cancer
+drug resistance
+ligands
+missense mutation
+platinum
+affinity
+complex
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

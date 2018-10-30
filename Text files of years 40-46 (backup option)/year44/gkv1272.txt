@@ -1,0 +1,29 @@
+TITLE: The Dfam database of repetitive DNA families
+ 
+Repetitive DNA, especially that due to transposable elements (TEs), makes up a large fraction of many genomes. Dfam is an open access database of families of repetitive DNA elements, in which each family is represented by a multiple sequence alignment and a profile hidden Markov model (HMM). The initial release of Dfam, featured in the 2013 NAR Database Issue, contained 1143 families of repetitive elements found in humans, and was used to produce more than 100 Mb of additional annotation of TE-derived regions in the human genome, with improved speed. Here, we describe recent advances, most notably expansion to 4150 total families including a comprehensive set of known repeat families from four new organisms (mouse, zebrafish, fly and nematode). We describe improvements to coverage, and to our methods for identifying and reducing false annotation. We also describe updates to the website interface. The Dfam website has moved to http://dfam.org. Seed alignments, profile HMMs, hit lists and other underlying data are available for download.
+
+AUTHORS:
+
+Robert Hubley
+Robert D. Finn
+Jody Clements
+Sean R. Eddy
+Thomas A. Jones
+Weidong Bao
+Arian F.A. Smit
+Travis J. Wheeler
+
+KEYWORDS:
+
+benchmarking
+dna
+dna transposable elements
+entropy
+genome
+genome, human
+nematoda
+seeds
+sequence alignment
+zebrafish
+mice
+transanal endoscopic surgery

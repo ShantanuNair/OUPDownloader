@@ -1,0 +1,19 @@
+TITLE: DoriC 5.0: an updated database of oriC regions in both bacterial and archaeal genomes
+ 
+Replication of chromosomes is one of the central events in the cell cycle. Chromosome replication begins at specific sites, called origins of replication (oriCs), for all three domains of life. However, the origins of replication still remain unknown in a considerably large number of bacterial and archaeal genomes completely sequenced so far. The availability of increasing complete bacterial and archaeal genomes has created challenges and opportunities for identification of their oriCs in silico, as well as in vivo. Based on the Z-curve theory, we have developed a web-based system Ori-Finder to predict oriCs in bacterial genomes with high accuracy and reliability by taking advantage of comparative genomics, and the predicted oriC regions have been organized into an online database DoriC, which is publicly available at http://tubic.tju.edu.cn/doric/ since 2007. Five years after we constructed DoriC, the database has significant advances over the number of bacterial genomes, increasing about 4-fold. Additionally, oriC regions in archaeal genomes identified by in vivo experiments, as well as in silico analyses, have also been added to the database. Consequently, the latest release of DoriC contains oriCs for >1500 bacterial genomes and 81 archaeal genomes, respectively.
+
+AUTHORS:
+
+Feng Gao
+Hao Luo
+Chun-Ting Zhang
+
+KEYWORDS:
+
+cell cycle
+chromosomes
+genome, archaeal
+genome, bacterial
+genomics
+internet
+replication origin

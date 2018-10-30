@@ -1,0 +1,34 @@
+TITLE: OikoBase: a genomics and developmental transcriptomics resource for the urochordate Oikopleura dioica
+ 
+We report the development of OikoBase (http://oikoarrays.biology.uiowa.edu/Oiko/), a tiling array-based genome browser resource for Oikopleura dioica, a metazoan belonging to the urochordates, the closest extant group to vertebrates. OikoBase facilitates retrieval and mining of a variety of useful genomics information. First, it includes a genome browser which interrogates 1260 genomic sequence scaffolds and features gene, transcript and CDS annotation tracks. Second, we annotated gene models with gene ontology (GO) terms and InterPro domains which are directly accessible in the browser with links to their entries in the GO (http://www.geneontology.org/) and InterPro (http://www.ebi.ac.uk/interpro/) databases, and we provide transcript and peptide links for sequence downloads. Third, we introduce the transcriptomics of a comprehensive set of developmental stages of O. dioica at high resolution and provide downloadable gene expression data for all developmental stages. Fourth, we incorporate a BLAST tool to identify homologs of genes and proteins. Finally, we include a tutorial that describes how to use OikoBase as well as a link to detailed methods, explaining the data generation and analysis pipeline. OikoBase will provide a valuable resource for research in chordate development, genome evolution and plasticity and the molecular ecology of this important marine planktonic organism.
+
+AUTHORS:
+
+Gemma Danks
+Coen Campsteijn
+Mrutyunjaya Parida
+Stephen Butcher
+Harsha Doddapaneni
+Bolei Fu
+Raul Petrin
+Raghu Metpally
+Boris Lenhard
+Patrick Wincker
+Daniel Chourrout
+Eric M. Thompson
+J. Robert Manak
+
+KEYWORDS:
+
+gene expression
+ecology
+genes
+genome
+genomics
+mining
+peptides
+urochordata
+vertebrates
+developmental stages
+chordata
+basic local alignment search tool

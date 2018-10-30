@@ -1,0 +1,25 @@
+TITLE: Ontobee: A linked ontology data server to support ontology term dereferencing, linkage, query and integration
+ 
+Linked Data (LD) aims to achieve interconnected data by representing entities using Unified Resource Identifiers (URIs), and sharing information using Resource Description Frameworks (RDFs) and HTTP. Ontologies, which logically represent entities and relations in specific domains, are the basis of LD. Ontobee (http://www.ontobee.org/) is a linked ontology data server that stores ontology information using RDF triple store technology and supports query, visualization and linkage of ontology terms. Ontobee is also the default linked data server for publishing and browsing biomedical ontologies in the Open Biological Ontology (OBO) Foundry (http://obofoundry.org) library. Ontobee currently hosts more than 180 ontologies (including 131 OBO Foundry Library ontologies) with over four million terms. Ontobee provides a user-friendly web interface for querying and visualizing the details and hierarchy of a specific ontology term. Using the eXtensible Stylesheet Language Transformation (XSLT) technology, Ontobee is able to dereference a single ontology term URI, and then output RDF/eXtensible Markup Language (XML) for computer processing or display the HTML information on a web browser for human users. Statistics and detailed information are generated and displayed for each ontology listed in Ontobee. In addition, a SPARQL web interface is provided for custom advanced SPARQL queries of one or multiple ontologies.
+
+AUTHORS:
+
+Edison Ong
+Zuoshuang Xiang
+Bin Zhao
+Yue Liu
+Yu Lin
+Jie Zheng
+Chris Mungall
+Mélanie Courtot
+Alan Ruttenberg
+Yongqun He
+
+KEYWORDS:
+
+computers
+languages
+libraries
+software
+xml
+host (organism)

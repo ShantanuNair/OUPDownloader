@@ -52,7 +52,7 @@ def getDoi(year,issue,page):
      page = urllib2.urlopen(request).read()
 
      soup = BeautifulSoup(page, features="html.parser")
-
+     save_data = {}
     # print soup.body
      is_captcha_on_page = soup.find(attrs={'class': 'abstract'}) is None
      if is_captcha_on_page:
@@ -64,28 +64,40 @@ def getDoi(year,issue,page):
      titles.append(title)
      ld_json_data_str = soup.find('script', {'type': 'application/ld+json'}).text.encode('utf-8')
      ld_json_data = json.loads(ld_json_data_str)
-     keywords = ld_json_data['keywords'] #did 'about' for year 42. 
+     if('keywords' in ld_json_data):
+        keywords = ld_json_data['keywords']
+     if('about' in ld_json_data):
+        about = ld_json_data['about']
      uniqueIdentifier = url[url.rfind('/')+1:]
-     filename = foldername + '/' + uniqueIdentifier + ".txt"
+     filename = foldername + '/' + uniqueIdentifier + ".json"
+     save_data['title'] = title.text.encode('utf-8')
+     save_data['abstract'] = abstract.text.encode('utf-8')
+     save_data['authors'] = [author.text.encode('utf-8') for author in authors]
+     if('keywords' in ld_json_data):
+      save_data['keywords'] = ld_json_data['keywords']
+     
+     if('about' in ld_json_data):
+        save_data['about'] = ld_json_data['about']
      print(uniqueIdentifier)
      with open(filename, 'w') as file:
-       file.write("TITLE: ")
-       file.write(title.text.encode('utf-8'))
-       file.write("\n")
-       file.write(abstract.text.encode('utf-8'))
-       file.write("\n")
-       file.write("\nAUTHORS:\n");
-       for a in authors:
-         print(a.text.encode('utf-8'))
-         file.write("\n")
-         file.write(a.text.encode('utf-8'))
-       file.write("\n")
-       file.write("\nKEYWORDS:\n")
-       for k in keywords:
-         file.write("\n")
-         print(k)
-         file.write(k)
-       file.close()
+       json.dump(save_data, file)
+       #file.write("TITLE: ")
+       #file.write(title.text.encode('utf-8'))
+       #file.write("\n")
+       #file.write(abstract.text.encode('utf-8'))
+       #file.write("\n")
+       #file.write("\nAUTHORS:\n");
+       #for a in authors:
+         #print(a.text.encode('utf-8'))
+         #file.write("\n")
+         #file.write(a.text.encode('utf-8'))
+       #file.write("\n")
+       #file.write("\nKEYWORDS:\n")
+       #for k in keywords:
+         #file.write("\n")
+         #print(k)
+         #file.write(k)
+       #file.close()
    except IOError as e:
      # print(e.errno)
      # print(e)
@@ -93,8 +105,8 @@ def getDoi(year,issue,page):
 
 if __name__ == "__main__":
  #for i in range(43,47):
-   getDoi(str(42),"D1","1");
-   getDoi(str(42),"D1","2"); 
+   getDoi(str(43),"D1","1");
+   getDoi(str(43),"D1","2"); 
 
  #for i in range(32,40):
   #getDoi(str(i),"suppl_1","1");  

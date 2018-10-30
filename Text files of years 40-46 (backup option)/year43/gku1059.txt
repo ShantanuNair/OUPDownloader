@@ -1,0 +1,44 @@
+TITLE: KnotProt: a database of proteins with knots and slipknots
+ 
+The protein topology database KnotProt, http://knotprot.cent.uw.edu.pl/, collects information about protein structures with open polypeptide chains forming knots or slipknots. The knotting complexity of the cataloged proteins is presented in the form of a matrix diagram that shows users the knot type of the entire polypeptide chain and of each of its subchains. The pattern visible in the matrix gives the knotting fingerprint of a given protein and permits users to determine, for example, the minimal length of the knotted regions (knot's core size) or the depth of a knot, i.e. how many amino acids can be removed from either end of the cataloged protein structure before converting it from a knot to a different type of knot. In addition, the database presents extensive information about the biological functions, families and fold types of proteins with non-trivial knotting. As an additional feature, the KnotProt database enables users to submit protein or polymer chains and generate their knotting fingerprints.
+
+AUTHORS:
+
+Michal Jamroz
+Wanda Niemyska
+Eric J. Rawdon
+Andrzej Stasiak
+Kenneth C. Millett
+Piotr Sułkowski
+Joanna I. Sulkowska
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

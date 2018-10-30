@@ -1,0 +1,33 @@
+TITLE: Xenbase: expansion and updates of the Xenopus model organism database
+ 
+Xenbase (http://www.xenbase.org) is a model organism database that provides genomic, molecular, cellular and developmental biology content to biomedical researchers working with the frog, Xenopus and Xenopus data to workers using other model organisms. As an amphibian Xenopus serves as a useful evolutionary bridge between invertebrates and more complex vertebrates such as birds and mammals. Xenbase content is collated from a variety of external sources using automated and semi-automated pipelines then processed via a combination of automated and manual annotation. A link-matching system allows for the wide variety of synonyms used to describe biological data on unique features, such as a gene or an anatomical entity, to be used by the database in an equivalent manner. Recent updates to the database include the Xenopus laevis genome, a new Xenopus tropicalis genome build, epigenomic data, collections of RNA and protein sequences associated with genes, more powerful gene expression searches, a community and curated wiki, an extensive set of manually annotated gene expression patterns and a new database module that contains data on over 700 antibodies that are useful for exploring Xenopus cell and developmental biology.
+
+AUTHORS:
+
+Christina James-Zorn
+Virgilio G. Ponferrada
+Chris J. Jarabek
+Kevin A. Burns
+Erik J. Segerdell
+Jacqueline Lee
+Kevin Snyder
+Bishnu Bhattacharyya
+J. Brad Karpinka
+Joshua Fortriede
+Jeff B. Bowes
+Aaron M. Zorn
+Peter D. Vize
+
+KEYWORDS:
+
+gene expression
+amphibia
+developmental biology
+genes
+genome
+vertebrates
+xenopus
+xenopus laevis
+antibodies
+rna
+community

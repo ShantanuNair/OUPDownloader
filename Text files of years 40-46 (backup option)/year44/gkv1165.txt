@@ -1,0 +1,30 @@
+TITLE: DGIdb 2.0: mining clinically relevant drug–gene interactions
+ 
+The Drug–Gene Interaction Database (DGIdb, www.dgidb.org) is a web resource that consolidates disparate data sources describing drug–gene interactions and gene druggability. It provides an intuitive graphical user interface and a documented application programming interface (API) for querying these data. DGIdb was assembled through an extensive manual curation effort, reflecting the combined information of twenty-seven sources. For DGIdb 2.0, substantial updates have been made to increase content and improve its usefulness as a resource for mining clinically actionable drug targets. Specifically, nine new sources of drug–gene interactions have been added, including seven resources specifically focused on interactions linked to clinical trials. These additions have more than doubled the overall count of drug–gene interactions. The total number of druggable gene claims has also increased by 30%. Importantly, a majority of the unrestricted, publicly-accessible sources used in DGIdb are now automatically updated on a weekly basis, providing the most current information for these sources. Finally, a new web view and API have been developed to allow searching for interactions by drug identifiers to complement existing gene-based search functionality. With these updates, DGIdb represents a comprehensive and user friendly tool for mining the druggable genome for precision medicine hypothesis generation.
+
+AUTHORS:
+
+Alex H. Wagner
+Adam C. Coffman
+Benjamin J. Ainscough
+Nicholas C. Spies
+Zachary L. Skidmore
+Katie M. Campbell
+Kilannin Krysiak
+Deng Pan
+Joshua F. McMichael
+James M. Eldred
+Jason R. Walker
+Richard K. Wilson
+Elaine R. Mardis
+Malachi Griffith
+Obi L. Griffith
+
+KEYWORDS:
+
+drug delivery systems
+genes
+genome
+mining
+gene interaction
+precision medicine

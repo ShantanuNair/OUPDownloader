@@ -1,0 +1,21 @@
+TITLE: PCDDB: new developments at the Protein Circular Dichroism Data Bank
+ 
+The Protein Circular Dichroism Data Bank (PCDDB) has been in operation for more than 5 years as a public repository for archiving circular dichroism spectroscopic data and associated bioinformatics and experimental metadata. Since its inception, many improvements and new developments have been made in data display, searching algorithms, data formats, data content, auxillary information, and validation techniques, as well as, of course, an increase in the number of holdings. It provides a site (http://pcddb.cryst.bbk.ac.uk) for authors to deposit experimental data as well as detailed information on methods and calculations associated with published work. It also includes links for each entry to bioinformatics databases. The data are freely available to accessors either as single files or as complete data bank downloads. The PCDDB has found broad usage by the structural biology, bioinformatics, analytical and pharmaceutical communities, and has formed the basis for new software and methods developments.
+
+AUTHORS:
+
+Lee Whitmore
+Andrew John Miles
+Lazaros Mavridis
+Robert W. Janes
+B.A. Wallace
+
+KEYWORDS:
+
+metadata
+circular dichroism
+data display
+software
+pharmacy (field)
+community
+bioinformatics

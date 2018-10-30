@@ -1,0 +1,17 @@
+TITLE: ProtChemSI: a network of protein–chemical structural interactions
+ 
+Progress in structure determination methods means that the set of experimentally determined 3D structures of proteins in complex with small molecules is growing exponentially. ProtChemSI exploits and extends this useful set of structures by both collecting and annotating the existing data as well as providing models of potential complexes inferred by protein or chemical structure similarity. The database currently includes 7704 proteins from 1803 organisms, 11 324 chemical compounds and 202 289 complexes including 178 974 predicted. It is publicly available at http://pcidb.russelllab.org.
+
+AUTHORS:
+
+Olga V. Kalinina
+Oliver Wichmann
+Gordana Apic
+Robert B. Russell
+
+KEYWORDS:
+
+databases
+ligands
+molecule
+complex

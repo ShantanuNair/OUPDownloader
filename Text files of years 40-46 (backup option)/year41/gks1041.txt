@@ -1,0 +1,24 @@
+TITLE: ChiTaRS: a database of human, mouse and fruit fly chimeric transcripts and RNA-sequencing data
+ 
+Chimeric RNAs that comprise two or more different transcripts have been identified in many cancers and among the Expressed Sequence Tags (ESTs) isolated from different organisms; they might represent functional proteins and produce different disease phenotypes. The ChiTaRS database of Chimeric Transcripts and RNA-Sequencing data (http://chitars.bioinfo.cnio.es/) collects more than 16 000 chimeric RNAs from humans, mice and fruit flies, 233 chimeras confirmed by RNA-seq reads and ∼2000 cancer breakpoints. The database indicates the expression and tissue specificity of these chimeras, as confirmed by RNA-seq data, and it includes mass spectrometry results for some human entries at their junctions. Moreover, the database has advanced features to analyze junction consistency and to rank chimeras based on the evidence of repeated junction sites. Finally, ‘Junction Search’ screens through the RNA-seq reads found at the chimeras’ junction sites to identify putative junctions in novel sequences entered by users. Thus, ChiTaRS is an extensive catalog of human, mouse and fruit fly chimeras that will extend our understanding of the evolution of chimeric transcripts in eukaryotes and can be advantageous in the analysis of human cancer breakpoints.
+
+AUTHORS:
+
+Milana Frenkel-Morgenstern
+Alessandro Gorohovski
+Vincent Lacroix
+Mark Rogers
+Kristina Ibanez
+Cesar Boullosa
+Eduardo Andres Leon
+Asa Ben-Hur
+Alfonso Valencia
+
+KEYWORDS:
+
+cancer
+chimera organism
+drosophila
+sequence analysis, rna
+mice
+rna

@@ -1,0 +1,40 @@
+TITLE: The Reactome pathway Knowledgebase
+ 
+The Reactome Knowledgebase (www.reactome.org) provides molecular details of signal transduction, transport, DNA replication, metabolism and other cellular processes as an ordered network of molecular transformations—an extended version of a classic metabolic map, in a single consistent data model. Reactome functions both as an archive of biological processes and as a tool for discovering unexpected functional relationships in data such as gene expression pattern surveys or somatic mutation catalogues from tumour cells. Over the last two years we redeveloped major components of the Reactome web interface to improve usability, responsiveness and data visualization. A new pathway diagram viewer provides a faster, clearer interface and smooth zooming from the entire reaction network to the details of individual reactions. Tool performance for analysis of user datasets has been substantially improved, now generating detailed results for genome-wide expression datasets within seconds. The analysis module can now be accessed through a RESTFul interface, facilitating its inclusion in third party applications. A new overview module allows the visualization of analysis results on a genome-wide Reactome pathway hierarchy using a single screen page. The search interface now provides auto-completion as well as a faceted search to narrow result lists efficiently.
+
+AUTHORS:
+
+Antonio Fabregat
+Konstantinos Sidiropoulos
+Phani Garapati
+Marc Gillespie
+Kerstin Hausmann
+Robin Haw
+Bijay Jassal
+Steven Jupe
+Florian Korninger
+Sheldon McKay
+Lisa Matthews
+Bruce May
+Marija Milacic
+Karen Rothfels
+Veronica Shamovsky
+Marissa Webber
+Joel Weiser
+Mark Williams
+Guanming Wu
+Lincoln Stein
+Henning Hermjakob
+Peter D'Eustachio
+
+KEYWORDS:
+
+signal transduction
+metabolism
+gene expression
+dna replication
+genome
+tumor cells
+mutation, somatic
+knowledge bases
+datasets

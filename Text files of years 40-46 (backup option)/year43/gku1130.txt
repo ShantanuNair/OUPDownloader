@@ -1,0 +1,38 @@
+TITLE: Database resources of the National Center for Biotechnology Information
+ 
+The National Center for Biotechnology Information (NCBI) provides a large suite of online resources for biological information and data, including the GenBank® nucleic acid sequence database and the PubMed database of citations and abstracts for published life science journals. Additional NCBI resources focus on literature (Bookshelf, PubMed Central (PMC) and PubReader); medical genetics (ClinVar, dbMHC, the Genetic Testing Registry, HIV-1/Human Protein Interaction Database and MedGen); genes and genomics (BioProject, BioSample, dbSNP, dbVar, Epigenomics, Gene, Gene Expression Omnibus (GEO), Genome, HomoloGene, the Map Viewer, Nucleotide, PopSet, Probe, RefSeq, Sequence Read Archive, the Taxonomy Browser, Trace Archive and UniGene); and proteins and chemicals (Biosystems, COBALT, the Conserved Domain Database (CDD), the Conserved Domain Architecture Retrieval Tool (CDART), the Molecular Modeling Database (MMDB), Protein Clusters, Protein and the PubChem suite of small molecule databases). The Entrez system provides search and retrieval operations for many of these databases. Augmenting many of the Web applications are custom implementations of the BLAST program optimized to search specialized data sets. All of these resources can be accessed through the NCBI home page at http://www.ncbi.nlm.nih.gov.
+
+AUTHORS:
+
+NCBI Resource Coordinators
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

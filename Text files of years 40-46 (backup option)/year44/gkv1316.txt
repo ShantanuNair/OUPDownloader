@@ -1,0 +1,22 @@
+TITLE: PDBFlex: exploring flexibility in protein structures
+ 
+The PDBFlex database, available freely and with no login requirements at http://pdbflex.org, provides information on flexibility of protein structures as revealed by the analysis of variations between depositions of different structural models of the same protein in the Protein Data Bank (PDB). PDBFlex collects information on all instances of such depositions, identifying them by a 95% sequence identity threshold, performs analysis of their structural differences and clusters them according to their structural similarities for easy analysis. The PDBFlex contains tools and viewers enabling in-depth examination of structural variability including: 2D-scaling visualization of RMSD distances between structures of the same protein, graphs of average local RMSD in the aligned structures of protein chains, graphical presentation of differences in secondary structure and observed structural disorder (unresolved residues), difference distance maps between all sets of coordinates and 3D views of individual structures and simulated transitions between different conformations, the latter displayed using JSMol visualization software.
+
+AUTHORS:
+
+Thomas Hrabe
+Zhanwen Li
+Mayya Sedova
+Piotr Rotkiewicz
+Lukasz Jaroszewski
+Adam Godzik
+
+KEYWORDS:
+
+ligands
+models, structural
+protein structure, secondary
+software
+graphical displays
+maps
+protein data bank

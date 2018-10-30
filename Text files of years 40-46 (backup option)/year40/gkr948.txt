@@ -1,0 +1,65 @@
+TITLE: InterPro in 2011: new developments in the family and domain prediction database
+ 
+InterPro (http://www.ebi.ac.uk/interpro/) is a database that integrates diverse information about protein families, domains and functional sites, and makes it freely available to the public via Web-based interfaces and services. Central to the database are diagnostic models, known as signatures, against which protein sequences can be searched to determine their potential function. InterPro has utility in the large-scale analysis of whole genomes and meta-genomes, as well as in characterizing individual protein sequences. Herein we give an overview of new developments in the database and its associated software since 2009, including updates to database content, curation processes and Web and programmatic interfaces.
+
+AUTHORS:
+
+Sarah Hunter
+Philip Jones
+Alex Mitchell
+Rolf Apweiler
+Teresa K. Attwood
+Alex Bateman
+Thomas Bernard
+David Binns
+Peer Bork
+Sarah Burge
+Edouard de Castro
+Penny Coggill
+Matthew Corbett
+Ujjwal Das
+Louise Daugherty
+Lauranne Duquenne
+Robert D. Finn
+Matthew Fraser
+Julian Gough
+Daniel Haft
+Nicolas Hulo
+Daniel Kahn
+Elizabeth Kelly
+Ivica Letunic
+David Lonsdale
+Rodrigo Lopez
+Martin Madera
+John Maslen
+Craig McAnulla
+Jennifer McDowall
+Conor McMenamin
+Huaiyu Mi
+Prudence Mutowo-Muellenet
+Nicola Mulder
+Darren Natale
+Christine Orengo
+Sebastien Pesseat
+Marco Punta
+Antony F. Quinn
+Catherine Rivoire
+Amaia Sangrador-Vegas
+Jeremy D. Selengut
+Christian J. A. Sigrist
+Maxim Scheremetjew
+John Tate
+Manjulapramila Thimmajanarthanan
+Paul D. Thomas
+Cathy H. Wu
+Corin Yeats
+Siew-Yit Yong
+
+KEYWORDS:
+
+genome
+internet
+software
+user-computer interface
+diagnosis
+xml

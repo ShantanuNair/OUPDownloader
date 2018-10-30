@@ -1,0 +1,41 @@
+TITLE: Organ system heterogeneity DB: a database for the visualization of phenotypes at the organ system level
+ 
+Perturbations of mammalian organisms including diseases, drug treatments and gene perturbations in mice affect organ systems differently. Some perturbations impair relatively few organ systems while others lead to highly heterogeneous or systemic effects. Organ System Heterogeneity DB (http://mips.helmholtz-muenchen.de/Organ_System_Heterogeneity/) provides information on the phenotypic effects of 4865 human diseases, 1667 drugs and 5361 genetically modified mouse models on 26 different organ systems. Disease symptoms, drug side effects and mouse phenotypes are mapped to the System Organ Class (SOC) level of the Medical Dictionary of Regulatory Activities (MedDRA). Then, the organ system heterogeneity value, a measurement of the systemic impact of a perturbation, is calculated from the relative frequency of phenotypic features across all SOCs. For perturbations of interest, the database displays the distribution of phenotypic effects across organ systems along with the heterogeneity value and the distance between organ system distributions. In this way, it allows, in an easy and comprehensible fashion, the comparison of the phenotypic organ system distributions of diseases, drugs and their corresponding genetically modified mouse models of associated disease genes and drug targets. The Organ System Heterogeneity DB is thus a platform for the visualization and comparison of organ system level phenotypic effects of drugs, diseases and genes.
+
+AUTHORS:
+
+Deepthi Mannil
+Ingo Vogt
+Jeanette Prinz
+Monica Campillos
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

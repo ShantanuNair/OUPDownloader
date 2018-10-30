@@ -1,0 +1,28 @@
+TITLE: MODOMICS: a database of RNA modification pathways—2013 update
+ 
+MODOMICS is a database of RNA modifications that provides comprehensive information concerning the chemical structures of modified ribonucleosides, their biosynthetic pathways, RNA-modifying enzymes and location of modified residues in RNA sequences. In the current database version, accessible at http://modomics.genesilico.pl, we included new features: a census of human and yeast snoRNAs involved in RNA-guided RNA modification, a new section covering the 5′-end capping process, and a catalogue of ‘building blocks’ for chemical synthesis of a large variety of modified nucleosides. The MODOMICS collections of RNA modifications, RNA-modifying enzymes and modified RNAs have been also updated. A number of newly identified modified ribonucleosides and more than one hundred functionally and structurally characterized proteins from various organisms have been added. In the RNA sequences section, snRNAs and snoRNAs with experimentally mapped modified nucleosides have been added and the current collection of rRNA and tRNA sequences has been substantially enlarged. To facilitate literature searches, each record in MODOMICS has been cross-referenced to other databases and to selected key publications. New options for database searching and querying have been implemented, including a BLAST search of protein sequences and a PARALIGN search of the collected nucleic acid sequences.
+
+AUTHORS:
+
+Magdalena A. Machnicka
+Kaja Milanowska
+Okan Osman Oglou
+Elzbieta Purta
+Malgorzata Kurkowska
+Anna Olchowik
+Witold Januszewski
+Sebastian Kalinowski
+Stanislaw Dunin-Horkawicz
+Kristian M. Rother
+Mark Helm
+Janusz M. Bujnicki
+Henri Grosjean
+
+KEYWORDS:
+
+nucleosides
+ribonucleosides
+transfer rna
+enzymes
+rna
+chemical synthesis

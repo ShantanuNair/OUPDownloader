@@ -1,0 +1,40 @@
+TITLE: The 2015 Nucleic Acids Research Database Issue and Molecular Biology Database Collection
+ 
+The 2015 Nucleic Acids Research Database Issue contains 172 papers that include descriptions of 56 new molecular biology databases, and updates on 115 databases whose descriptions have been previously published in NAR or other journals. Following the classification that has been introduced last year in order to simplify navigation of the entire issue, these articles are divided into eight subject categories. This year's highlights include RNAcentral, an international community portal to various databases on noncoding RNA; ValidatorDB, a validation database for protein structures and their ligands; SASBDB, a primary repository for small-angle scattering data of various macromolecular complexes; MoonProt, a database of ‘moonlighting’ proteins, and two new databases of protein–protein and other macromolecular complexes, ComPPI and the Complex Portal. This issue also includes an unusually high number of cancer-related databases and other databases dedicated to genomic basics of disease and potential drugs and drug targets. The size of NAR online Molecular Biology Database Collection, http://www.oxfordjournals.org/nar/database/a/, remained approximately the same, following the addition of 74 new resources and removal of 77 obsolete web sites. The entire Database Issue is freely available online on the Nucleic Acids Research web site (http://nar.oxfordjournals.org/).
+
+AUTHORS:
+
+Michael Y. Galperin
+Daniel J. Rigden
+Xosé M. Fernández-Suárez
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

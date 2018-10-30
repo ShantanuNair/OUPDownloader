@@ -1,0 +1,41 @@
+TITLE: The Eukaryotic Promoter Database: expansion of EPDnew and new promoter analysis tools
+ 
+We present an update of EPDNew (http://epd.vital-it.ch), a recently introduced new part of the Eukaryotic Promoter Database (EPD) which has been described in more detail in a previous NAR Database Issue. EPD is an old database of experimentally characterized eukaryotic POL II promoters, which are conceptually defined as transcription initiation sites or regions. EPDnew is a collection of automatically compiled, organism-specific promoter lists complementing the old corpus of manually compiled promoter entries of EPD. This new part is exclusively derived from next generation sequencing data from high-throughput promoter mapping experiments. We report on the recent growth of EPDnew, its extension to additional model organisms and its improved integration with other bioinformatics resources developed by our group, in particular the Signal Search Analysis and ChIP-Seq web servers.
+
+AUTHORS:
+
+René Dreos
+Giovanna Ambrosini
+Rouayda Cavin Périer
+Philipp Bucher
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

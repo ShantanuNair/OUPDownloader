@@ -1,0 +1,19 @@
+TITLE: The Human OligoGenome Resource: a database of oligonucleotide capture probes for resequencing target regions across the human genome
+ 
+Recent exponential growth in the throughput of next-generation DNA sequencing platforms has dramatically spurred the use of accessible and scalable targeted resequencing approaches. This includes candidate region diagnostic resequencing and novel variant validation from whole genome or exome sequencing analysis. We have previously demonstrated that selective genomic circularization is a robust in-solution approach for capturing and resequencing thousands of target human genome loci such as exons and regulatory sequences. To facilitate the design and production of customized capture assays for any given region in the human genome, we developed the Human OligoGenome Resource (http://oligogenome.stanford.edu/). This online database contains over 21 million capture oligonucleotide sequences. It enables one to create customized and highly multiplexed resequencing assays of target regions across the human genome and is not restricted to coding regions. In total, this resource provides 92.1% in silico coverage of the human genome. The online server allows researchers to download a complete repository of oligonucleotide probes and design customized capture assays to target multiple regions throughout the human genome. The website has query tools for selecting and evaluating capture oligonucleotides from specified genomic regions.
+
+AUTHORS:
+
+Daniel E. Newburger
+Georges Natsoulis
+Sue Grimes
+John M. Bell
+Ronald W. Davis
+Serafim Batzoglou
+Hanlee P. Ji
+
+KEYWORDS:
+
+genome
+genome, human
+oligonucleotides

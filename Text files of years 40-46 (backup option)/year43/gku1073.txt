@@ -1,0 +1,45 @@
+TITLE: The UCSC Cancer Genomics Browser: update 2015
+ 
+The UCSC Cancer Genomics Browser (https://genome-cancer.ucsc.edu/) is a web-based application that integrates relevant data, analysis and visualization, allowing users to easily discover and share their research observations. Users can explore the relationship between genomic alterations and phenotypes by visualizing various -omic data alongside clinical and phenotypic features, such as age, subtype classifications and genomic biomarkers. The Cancer Genomics Browser currently hosts 575 public datasets from genome-wide analyses of over 227 000 samples, including datasets from TCGA, CCLE, Connectivity Map and TARGET. Users can download and upload clinical data, generate Kaplan–Meier plots dynamically, export data directly to Galaxy for analysis, plus generate URL bookmarks of specific views of the data to share with others.
+
+AUTHORS:
+
+Mary Goldman
+Brian Craft
+Teresa Swatloski
+Melissa Cline
+Olena Morozova
+Mark Diekhans
+David Haussler
+Jingchun Zhu
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

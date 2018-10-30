@@ -1,0 +1,38 @@
+TITLE: European Nucleotide Archive in 2016
+ 
+The European Nucleotide Archive (ENA; http://www.ebi.ac.uk/ena) offers a rich platform for data sharing, publishing and archiving and a globally comprehensive data set for onward use by the scientific community. With a broad scope spanning raw sequencing reads, genome assemblies and functional annotation, the resource provides extensive data submission, search and download facilities across web and programmatic interfaces. Here, we outline ENA content and major access modalities, highlight major developments in 2016 and outline a number of examples of data reuse from ENA.
+
+AUTHORS:
+
+Ana Luisa Toribio
+Blaise Alako
+Clara Amid
+Ana Cerdeño-Tarrága
+Laura Clarke
+Iain Cleland
+Susan Fairley
+Richard Gibson
+Neil Goodgame
+Petra ten Hoopen
+Suran Jayathilaka
+Simon Kay
+Rasko Leinonen
+Xin Liu
+Josué Martínez-Villacorta
+Nima Pakseresht
+Jeena Rajan
+Kethi Reddy
+Marc Rosello
+Nicole Silvester
+Dmitriy Smirnov
+Daniel Vaughan
+Vadim Zalunin
+Guy Cochrane
+
+KEYWORDS:
+
+genome
+nucleotides
+community
+data sharing
+datasets

@@ -1,0 +1,29 @@
+TITLE: IMG-ABC: new features for bacterial secondary metabolism analysis and targeted biosynthetic gene cluster discovery in thousands of microbial genomes
+ 
+Secondary metabolites produced by microbes have diverse biological functions, which makes them a great potential source of biotechnologically relevant compounds with antimicrobial, anti-cancer and other activities. The proteins needed to synthesize these natural products are often encoded by clusters of co-located genes called biosynthetic gene clusters (BCs). In order to advance the exploration of microbial secondary metabolism, we developed the largest publically available database of experimentally verified and predicted BCs, the Integrated Microbial Genomes Atlas of Biosynthetic gene Clusters (IMG-ABC) (https://img.jgi.doe.gov/abc/). Here, we describe an update of IMG-ABC, which includes ClusterScout, a tool for targeted identification of custom biosynthetic gene clusters across 40 000 isolate microbial genomes, and a new search capability to query more than 700 000 BCs from isolate genomes for clusters with similar Pfam composition. Additional features enable fast exploration and analysis of BCs through two new interactive visualization features, a BC function heatmap and a BC similarity network graph. These new tools and features add to the value of IMG-ABC's vast body of BC data, facilitating their in-depth analysis and accelerating secondary metabolite discovery.
+
+AUTHORS:
+
+Michalis Hadjithomas
+I-Min A. Chen
+Ken Chu
+Jinghua Huang
+Anna Ratner
+Krishna Palaniappan
+Evan Andersen
+Victor Markowitz
+Nikos C. Kyrpides
+Natalia N. Ivanova
+
+KEYWORDS:
+
+metabolism
+cancer
+foreign medical graduates
+genes
+genome
+graphical displays
+gene clusters
+biopharmaceutics classification system
+metabolites
+verification

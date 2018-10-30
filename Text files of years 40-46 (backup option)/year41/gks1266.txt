@@ -1,0 +1,37 @@
+TITLE: Genome3D: a UK collaborative project to annotate genomic sequences with predicted 3D structures based on SCOP and CATH domains
+ 
+Genome3D, available at http://www.genome3d.eu, is a new collaborative project that integrates UK-based structural resources to provide a unique perspective on sequence–structure–function relationships. Leading structure prediction resources (DomSerf, FUGUE, Gene3D, pDomTHREADER, Phyre and SUPERFAMILY) provide annotations for UniProt sequences to indicate the locations of structural domains (structural annotations) and their 3D structures (structural models). Structural annotations and 3D model predictions are currently available for three model genomes (Homo sapiens, E. coli and baker’s yeast), and the project will extend to other genomes in the near future. As these resources exploit different strategies for predicting structures, the main aim of Genome3D is to enable comparisons between all the resources so that biologists can see where predictions agree and are therefore more trusted. Furthermore, as these methods differ in whether they build their predictions using CATH or SCOP, Genome3D also contains the first official mapping between these two databases. This has identified pairs of similar superfamilies from the two resources at various degrees of consensus (532 bronze pairs, 527 silver pairs and 370 gold pairs).
+
+AUTHORS:
+
+Tony E. Lewis
+Ian Sillitoe
+Antonina Andreeva
+Tom L. Blundell
+Daniel W.A. Buchan
+Cyrus Chothia
+Alison Cuff
+Jose M. Dana
+Ioannis Filippis
+Julian Gough
+Sarah Hunter
+David T. Jones
+Lawrence A. Kelley
+Gerard J. Kleywegt
+Federico Minneci
+Alex Mitchell
+Alexey G. Murzin
+Bernardo Ochoa-Montaño
+Owen J. L. Rackham
+James Smith
+Michael J. E. Sternberg
+Sameer Velankar
+Corin Yeats
+Christine Orengo
+
+KEYWORDS:
+
+catheterization
+genome
+dissociative fugue
+consensus

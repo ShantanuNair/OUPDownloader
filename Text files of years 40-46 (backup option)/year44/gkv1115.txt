@@ -1,0 +1,21 @@
+TITLE: Integrated interactions database: tissue-specific view of the human and model organism interactomes
+ 
+IID (Integrated Interactions Database) is the first database providing tissue-specific protein–protein interactions (PPIs) for model organisms and human. IID covers six species (S. cerevisiae (yeast), C. elegans (worm), D. melonogaster (fly), R. norvegicus (rat), M. musculus (mouse) and H. sapiens (human)) and up to 30 tissues per species. Users query IID by providing a set of proteins or PPIs from any of these organisms, and specifying species and tissues where IID should search for interactions. If query proteins are not from the selected species, IID enables searches across species and tissues automatically by using their orthologs; for example, retrieving interactions in a given tissue, conserved in human and mouse. Interaction data in IID comprises three types of PPI networks: experimentally detected PPIs from major databases, orthologous PPIs and high-confidence computationally predicted PPIs. Interactions are assigned to tissues where their proteins pairs or encoding genes are expressed. IID is a major replacement of the I2D interaction database, with larger PPI networks (a total of 1,566,043 PPIs among 68,831 proteins), tissue annotations for interactions, and new query, analysis and data visualization capabilities. IID is available at http://ophid.utoronto.ca/iid.
+
+AUTHORS:
+
+Max Kotlyar
+Chiara Pastrello
+Nicholas Sheahan
+Igor Jurisica
+
+KEYWORDS:
+
+genes
+id
+iduronate sulfatase
+yeasts
+helminths
+mice
+rats
+proton pump inhibitors

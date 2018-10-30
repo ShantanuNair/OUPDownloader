@@ -1,0 +1,28 @@
+TITLE: TCGASpliceSeq a compendium of alternative mRNA splicing in cancer
+ 
+TCGA's RNASeq data represent one of the largest collections of cancer transcriptomes ever assembled. RNASeq technology, combined with computational tools like our SpliceSeq package, provides a comprehensive, detailed view of alternative mRNA splicing. Aberrant splicing patterns in cancers have been implicated in such processes as carcinogenesis, de-differentiation and metastasis. TCGA SpliceSeq (http://bioinformatics.mdanderson.org/TCGASpliceSeq) is a web-based resource that provides a quick, user-friendly, highly visual interface for exploring the alternative splicing patterns of TCGA tumors. Percent Spliced In (PSI) values for splice events on samples from 33 different tumor types, including available adjacent normal samples, have been loaded into TCGA SpliceSeq. Investigators can interrogate genes of interest, search for the genes that show the strongest variation between or among selected tumor types, or explore splicing pattern changes between tumor and adjacent normal samples. The interface presents intuitive graphical representations of splicing patterns, read counts and various statistical summaries, including percent spliced in. Splicing data can also be downloaded for inclusion in integrative analyses. TCGA SpliceSeq is freely available for academic, government or commercial use.
+
+AUTHORS:
+
+Michael Ryan
+Wing Chung Wong
+Robert Brown
+Rehan Akbani
+Xiaoping Su
+Bradley Broom
+James Melott
+John Weinstein
+
+KEYWORDS:
+
+cancer
+alternative splicing
+genes
+government
+internet
+neoplasm metastasis
+rna splicing
+rna, messenger
+neoplasms
+the cancer genome atlas project
+bioinformatics

@@ -1,0 +1,23 @@
+TITLE: Database resources of the National Center for Biotechnology Information
+ 
+In addition to maintaining the GenBank® nucleic acid sequence database, the National Center for Biotechnology Information (NCBI, http://www.ncbi.nlm.nih.gov) provides analysis and retrieval resources for the data in GenBank and other biological data made available through the NCBI web site. NCBI resources include Entrez, the Entrez Programming Utilities, MyNCBI, PubMed, PubMed Central, Gene, the NCBI Taxonomy Browser, BLAST, BLAST Link (BLink), Primer-BLAST, COBALT, Splign, RefSeq, UniGene, HomoloGene, ProtEST, dbMHC, dbSNP, dbVar, Epigenomics, the Genetic Testing Registry, Genome and related tools, the Map Viewer, Model Maker, Evidence Viewer, Trace Archive, Sequence Read Archive, BioProject, BioSample, Retroviral Genotyping Tools, HIV-1/Human Protein Interaction Database, Gene Expression Omnibus, Probe, Online Mendelian Inheritance in Animals, the Molecular Modeling Database, the Conserved Domain Database, the Conserved Domain Architecture Retrieval Tool, Biosystems, Protein Clusters and the PubChem suite of small molecule databases. Augmenting many of the web applications are custom implementations of the BLAST program optimized to search specialized data sets. All of these resources can be accessed through the NCBI home page.
+
+AUTHORS:
+
+NCBI Resource Coordinators
+
+KEYWORDS:
+
+cobalt
+base sequence
+biotechnology
+genes
+genome
+hiv-1
+united states national institutes of health
+national library of medicine (u.s.)
+taxonomic classification
+mendelian inheritance
+genetic screening
+genbank
+basic local alignment search tool

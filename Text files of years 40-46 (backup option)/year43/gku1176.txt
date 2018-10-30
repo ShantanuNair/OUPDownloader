@@ -1,0 +1,59 @@
+TITLE: dbSNO 2.0: a resource for exploring structural environment, functional and disease association and regulatory network of protein S-nitrosylation
+ 
+Given the increasing number of proteins reported to be regulated by S-nitrosylation (SNO), it is considered to act, in a manner analogous to phosphorylation, as a pleiotropic regulator that elicits dual effects to regulate diverse pathophysiological processes by altering protein function, stability, and conformation change in various cancers and human disorders. Due to its importance in regulating protein functions and cell signaling, dbSNO (http://dbSNO.mbc.nctu.edu.tw) is extended as a resource for exploring structural environment of SNO substrate sites and regulatory networks of S-nitrosylated proteins. An increasing interest in the structural environment of PTM substrate sites motivated us to map all manually curated SNO peptides (4165 SNO sites within 2277 proteins) to PDB protein entries by sequence identity, which provides the information of spatial amino acid composition, solvent-accessible surface area, spatially neighboring amino acids, and side chain orientation for 298 substrate cysteine residues. Additionally, the annotations of protein molecular functions, biological processes, functional domains and human diseases are integrated to explore the functional and disease associations for S-nitrosoproteome. In this update, users are allowed to search a group of interested proteins/genes and the system reconstructs the SNO regulatory network based on the information of metabolic pathways and protein-protein interactions. Most importantly, an endogenous yet pathophysiological S-nitrosoproteomic dataset from colorectal cancer patients was adopted to demonstrate that dbSNO could discover potential SNO proteins involving in the regulation of NO signaling for cancer pathways.
+
+AUTHORS:
+
+Yi-Ju Chen
+Cheng-Tsung Lu
+Min-Gang Su
+Kai-Yao Huang
+Wei-Chieh Ching
+Hsiao-Hsiang Yang
+Yen-Chen Liao
+Yu-Ju Chen
+Tzong-Yi Lee
+
+KEYWORDS:
+
+signal transduction
+amino acids
+cancer
+colorectal cancer
+cysteine
+genes
+molecular conformation
+peptides
+phosphorylation
+solvents
+protein s
+disease association
+datasets
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

@@ -1,0 +1,50 @@
+TITLE: BRENDA in 2015: exciting developments in its 25th year of existence
+ 
+The BRENDA enzyme information system (http://www.brenda-enzymes.org/) has developed into an elaborate system of enzyme and enzyme-ligand information obtained from different sources, combined with flexible query systems and evaluation tools. The information is obtained by manual extraction from primary literature, text and data mining, data integration, and prediction algorithms. Approximately 300 million data include enzyme function and molecular data from more than 30 000 organisms. The manually derived core contains 3 million data from 77 000 enzymes annotated from 135 000 literature references. Each entry is connected to the literature reference and the source organism. They are complemented by information on occurrence, enzyme/disease relationships from text mining, sequences and 3D structures from other databases, and predicted enzyme location and genome annotation. Functional and structural data of more than 190 000 enzyme ligands are stored in BRENDA. New features improving the functionality and analysis tools were implemented. The human anatomy atlas CAVEman is linked to the BRENDA Tissue Ontology terms providing a connection between anatomical and functional enzyme data. Word Maps for enzymes obtained from PubMed abstracts highlight application and scientific relevance of enzymes. The EnzymeDetector genome annotation tool and the reaction database BKM-react including reactions from BRENDA, KEGG and MetaCyc were improved. The website was redesigned providing new query options.
+
+AUTHORS:
+
+Antje Chang
+Ida Schomburg
+Sandra Placzek
+Lisa Jeske
+Marcus Ulbrich
+Mei Xiao
+Christoph W. Sensen
+Dietmar Schomburg
+
+KEYWORDS:
+
+ligands
+mining
+anatomy
+enzymes
+maps
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

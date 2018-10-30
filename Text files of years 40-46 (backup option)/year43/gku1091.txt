@@ -1,0 +1,42 @@
+TITLE: MatrixDB, the extracellular matrix interaction database: updated content, a new navigator and expanded functionalities
+ 
+MatrixDB (http://matrixdb.ibcp.fr) is a freely available database focused on interactions established by extracellular proteins and polysaccharides. It is an active member of the International Molecular Exchange (IMEx) consortium and has adopted the PSI-MI standards for annotating and exchanging interaction data, either at the MIMIx or IMEx level. MatrixDB content has been updated by curation and by importing extracellular interaction data from other IMEx databases. Other major changes include the creation of a new website and the development of a novel graphical navigator, iNavigator, to build and expand interaction networks. Filters may be applied to build sub-networks based on a list of biomolecules, a specified interaction detection method and/or an expression level by tissue, developmental stage, and health state (UniGene data). Any molecule of the network may be selected and its partners added to the network at any time. Networks may be exported under Cytoscape and tabular formats and as images, and may be saved for subsequent re-use.
+
+AUTHORS:
+
+G. Launay
+R. Salza
+D. Multedo
+N. Thierry-Mieg
+S. Ricard-Blum
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

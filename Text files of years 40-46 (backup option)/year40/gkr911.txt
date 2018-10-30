@@ -1,0 +1,23 @@
+TITLE: ProGlycProt: a repository of experimentally characterized prokaryotic glycoproteins
+ 
+ProGlycProt (http://www.proglycprot.org/) is an open access, manually curated, comprehensive repository of bacterial and archaeal glycoproteins with at least one experimentally validated glycosite (glycosylated residue). To facilitate maximum information at one point, the database is arranged under two sections: (i) ProCGP—the main data section consisting of 95 entries with experimentally characterized glycosites and (ii) ProUGP—a supplementary data section containing 245 entries with experimentally identified glycosylation but uncharacterized glycosites. Every entry in the database is fully cross-referenced and enriched with available published information about source organism, coding gene, protein, glycosites, glycosylation type, attached glycan, associated oligosaccharyl/glycosyl transferases (OSTs/GTs), supporting references, and applicable additional information. Interestingly, ProGlycProt contains as many as 174 entries for which information is unavailable or the characterized glycosites are unannotated in Swiss-Prot release 2011_07. The website supports a dedicated structure gallery of homology models and crystal structures of characterized glycoproteins in addition to two new tools developed in view of emerging information about prokaryotic sequons (conserved sequences of amino acids around glycosites) that are never or rarely seen in eukaryotic glycoproteins. ProGlycProt provides an extensive compilation of experimentally identified glycosites (334) and glycoproteins (340) of prokaryotes that could serve as an information resource for research and technology applications in glycobiology.
+
+AUTHORS:
+
+Aadil H. Bhat
+Homchoru Mondal
+Jagat S. Chauhan
+Gajendra P. S. Raghava
+Amrish Methi
+Alka Rao
+
+KEYWORDS:
+
+amino acids
+glycoprotein
+genes
+glycosylation
+polysaccharides
+prokaryotic cells
+tourette syndrome
+crystal structure

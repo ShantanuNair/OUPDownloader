@@ -1,0 +1,17 @@
+TITLE: The TissueNet database of human tissue protein–protein interactions
+ 
+Knowledge of protein–protein interactions (PPIs) is important for identifying the functions of proteins and the processes they are involved in. Although data of human PPIs are easily accessible through several public databases, these databases do not specify the human tissues in which these PPIs take place. The TissueNet database of human tissue PPIs (http://netbio.bgu.ac.il/tissuenet/) associates each interaction with human tissues that express both pair mates. This was achieved by integrating current data of experimentally detected PPIs with extensive data of gene and protein expression across 16 main human tissues. Users can query TissueNet using a protein and retrieve its PPI partners per tissue, or using a PPI and retrieve the tissues expressing both pair mates. The graphical representation of the output highlights tissue-specific and tissue-wide PPIs. Thus, TissueNet provides a unique platform for assessing the roles of human proteins and their interactions across tissues.
+
+AUTHORS:
+
+Ruth Barshir
+Omer Basha
+Amir Eluk
+Ilan Y. Smoly
+Alexander Lan
+Esti Yeger-Lotem
+
+KEYWORDS:
+
+genes
+proton pump inhibitors

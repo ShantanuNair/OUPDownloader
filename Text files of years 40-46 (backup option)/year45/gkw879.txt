@@ -1,0 +1,24 @@
+TITLE: The Papillomavirus Episteme: a major update to the papillomavirus sequence database
+ 
+The Papillomavirus Episteme (PaVE) is a database of curated papillomavirus genomic sequences, accompanied by web-based sequence analysis tools. This update describes the addition of major new features. The papillomavirus genomes within PaVE have been further annotated, and now includes the major spliced mRNA transcripts. Viral genes and transcripts can be visualized on both linear and circular genome browsers. Evolutionary relationships among PaVE reference protein sequences can be analysed using multiple sequence alignments and phylogenetic trees. To assist in viral discovery, PaVE offers a typing tool; a simplified algorithm to determine whether a newly sequenced virus is novel. PaVE also now contains an image library containing gross clinical and histopathological images of papillomavirus infected lesions. Database URL: https://pave.niaid.nih.gov/.
+
+AUTHORS:
+
+Koenraad Van Doorslaer
+Zhiwen Li
+Sandhya Xirasagar
+Piet Maes
+David Kaminsky
+David Liou
+Qiang Sun
+Ramandeep Kaur
+Yentram Huyen
+Alison A. McBride
+
+KEYWORDS:
+
+genome
+papillomavirus
+sequence alignment
+trees (plant)
+viruses

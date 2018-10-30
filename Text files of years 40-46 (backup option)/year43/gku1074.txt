@@ -1,0 +1,52 @@
+TITLE: Dr.VIS v2.0: an updated database of human disease-related viral integration sites in the era of high-throughput deep sequencing
+ 
+Dr.VIS is a database of human disease-related viral integration sites (VIS). The number of VIS has grown rapidly since Dr.VIS was first released in 2011, and there is growing recognition of the important role that viral integration plays in the development of malignancies. The updated database version, Dr.VIS v2.0 (http://www.bioinfo.org/drvis or bminfor.tongji.edu.cn/drvis_v2), represents 25 diseases, covers 3340 integration sites of eight oncogenic viruses in human chromosomes and provides more accurate information about VIS from high-throughput deep sequencing results obtained mainly after 2012. Data of VISes for three newly identified oncogenic viruses for 14 related diseases have been added to this 2015 update, which has a 5-fold increase of VISes compared to Dr.VIS v1.0. Dr.VIS v2.0 has 2244 precise integration sites, 867 integration regions and 551 junction sequences. A total of 2295 integration sites are located near 1730 involved genes. Of the VISes, 1153 are detected in the exons or introns of genes, with 294 located up to 5 kb and a further 112 located up to 10 kb away. As viral integration may alter chromosome stability and gene expression levels, characterizing VISes will contribute toward the discovery of novel oncogenes, tumor suppressor genes and tumor-associated pathways.
+
+AUTHORS:
+
+Xiaobo Yang
+Ming Li
+Qi Liu
+Yabing Zhang
+Junyan Qian
+Xueshuai Wan
+Anqiang Wang
+Haohai Zhang
+Chengpei Zhu
+Xin Lu
+Yilei Mao
+Xinting Sang
+Haitao Zhao
+Yi Zhao
+Xiaoyan Zhang
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

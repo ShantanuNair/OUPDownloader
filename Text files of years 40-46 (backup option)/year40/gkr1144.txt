@@ -1,0 +1,28 @@
+TITLE: MitoZoa 2.0: a database resource and search tools for comparative and evolutionary analyses of mitochondrial genomes in Metazoa
+ 
+The MITOchondrial genome database of metaZOAns (MitoZoa) is a public resource for comparative analyses of metazoan mitochondrial genomes (mtDNA) at both the sequence and genomic organizational levels. The main characteristics of the MitoZoa database are the careful revision of mtDNA entry annotations and the possibility of retrieving gene order and non-coding region (NCR) data in appropriate formats. The MitoZoa retrieval system enables basic and complex queries at various taxonomic levels using different search menus. MitoZoa 2.0 has been enhanced in several aspects, including: a re-annotation pipeline to check the correctness of protein-coding gene predictions; a standardized annotation of introns and of precursor ORFs whose functionality is post-transcriptionally recovered by RNA editing or programmed translational frameshifting; updates of taxon-related fields and a BLAST sequence similarity search tool. Database novelties and the definition of standard mtDNA annotation rules, together with the user-friendly retrieval system and the BLAST service, make MitoZoa a valuable resource for comparative and evolutionary analyses as well as a reference database to assist in the annotation of novel mtDNA sequences. MitoZoa is freely accessible at http://www.caspur.it/mitozoa.
+
+AUTHORS:
+
+Paolo D'Onorio de Meo
+Mattia D'Antonio
+Francesca Griggio
+Renato Lupi
+Massimiliano Borsani
+Giulio Pavesi
+Tiziana Castrignanò
+Graziano Pesole
+Carmela Gissi
+
+KEYWORDS:
+
+mitochondria
+dna, mitochondrial
+ribosomal frameshifting
+gene order
+genes
+genome
+introns
+open reading frames
+rna editing
+basic local alignment search tool

@@ -1,0 +1,53 @@
+TITLE: iBeetle-Base: a database for RNAi phenotypes in the red flour beetle Tribolium castaneum
+ 
+The iBeetle-Base (http://ibeetle-base.uni-goettingen.de) makes available annotations of RNAi phenotypes, which were gathered in a large scale RNAi screen in the red flour beetle Tribolium castaneum (iBeetle screen). In addition, it provides access to sequence information and links for all Tribolium castaneum genes. The iBeetle-Base contains the annotations of phenotypes of several thousands of genes knocked down during embryonic and metamorphic epidermis and muscle development in addition to phenotypes linked to oogenesis and stink gland biology. The phenotypes are described according to the EQM (entity, quality, modifier) system using controlled vocabularies and the Tribolium morphological ontology (TrOn). Furthermore, images linked to the respective annotations are provided. The data are searchable either for specific phenotypes using a complex ‘search for morphological defects’ or a ‘quick search’ for gene names and IDs. The red flour beetle Tribolium castaneum has become an important model system for insect functional genetics and is a representative of the most species rich taxon, the Coleoptera, which comprise several devastating pests. It is used for studying insect typical development, the evolution of development and for research on metabolism and pest control. Besides Drosophila, Tribolium is the first insect model organism where large scale unbiased screens have been performed.
+
+AUTHORS:
+
+Jürgen Dönitz
+Christian Schmitt-Engel
+Daniela Grossmann
+Lizzy Gerischer
+Maike Tech
+Michael Schoppmeier
+Martin Klingler
+Gregor Bucher
+
+KEYWORDS:
+
+phenotype
+beetles
+drosophila
+flour
+genes
+insecta
+tribolium
+rna interference
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

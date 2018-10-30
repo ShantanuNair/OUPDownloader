@@ -1,0 +1,21 @@
+TITLE: The MAPPER2 Database: a multi-genome catalog of putative transcription factor binding sites
+ 
+The mapper2 Database (http://genome.ufl.edu/mapperdb) is a component of mapper2, a web-based system for the analysis of transcription factor binding sites in multiple genomes. The database contains predicted binding sites identified in the promoters of all human, mouse and Drosophila genes using 1017 probabilistic models representing over 600 different transcription factors. In this article we outline the current contents of the database and we describe its web-based user interface in detail. We then discuss ongoing work to extend the database contents to experimental data and to add analysis capabilities. Finally, we provide information about recent improvements to the hardware and software platform that mapper2 is based on.
+
+AUTHORS:
+
+Alberto Riva
+
+KEYWORDS:
+
+binding sites
+computers
+drosophila
+genes
+genome
+internet
+oncogenes
+software
+user-computer interface
+mice
+transcription factor

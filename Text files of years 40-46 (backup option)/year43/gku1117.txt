@@ -1,0 +1,49 @@
+TITLE: VectorBase: an updated bioinformatics resource for invertebrate vectors and other organisms related with human diseases
+ 
+VectorBase is a National Institute of Allergy and Infectious Diseases supported Bioinformatics Resource Center (BRC) for invertebrate vectors of human pathogens. Now in its 11th year, VectorBase currently hosts the genomes of 35 organisms including a number of non-vectors for comparative analysis. Hosted data range from genome assemblies with annotated gene features, transcript and protein expression data to population genetics including variation and insecticide-resistance phenotypes. Here we describe improvements to our resource and the set of tools available for interrogating and accessing BRC data including the integration of Web Apollo to facilitate community annotation and providing Galaxy to support user-based workflows. VectorBase also actively supports our community through hands-on workshops and online tutorials. All information and data are freely available from our website at https://www.vectorbase.org/.
+
+AUTHORS:
+
+Gloria I. Giraldo-Calderón
+Scott J. Emrich
+Robert M. MacCallum
+Gareth Maslen
+Emmanuel Dialynas
+Pantelis Topalis
+Nicholas Ho
+Sandra Gesing
+the VectorBase Consortium
+Gregory Madey
+Frank H. Collins
+Daniel Lawson
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

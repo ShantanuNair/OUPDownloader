@@ -1,0 +1,35 @@
+TITLE: ENCODE Data in the UCSC Genome Browser: year 5 update
+ 
+The Encyclopedia of DNA Elements (ENCODE), http://encodeproject.org, has completed its fifth year of scientific collaboration to create a comprehensive catalog of functional elements in the human genome, and its third year of investigations in the mouse genome. Since the last report in this journal, the ENCODE human data repertoire has grown by 898 new experiments (totaling 2886), accompanied by a major integrative analysis. In the mouse genome, results from 404 new experiments became available this year, increasing the total to 583, collected during the course of the project. The University of California, Santa Cruz, makes this data available on the public Genome Browser http://genome.ucsc.edu for visual browsing and data mining. Download of raw and processed data files are all supported. The ENCODE portal provides specialized tools and information about the ENCODE data sets.
+
+AUTHORS:
+
+Kate R. Rosenbloom
+Cricket A. Sloan
+Venkat S. Malladi
+Timothy R. Dreszer
+Katrina Learned
+Vanessa M. Kirkup
+Matthew C. Wong
+Morgan Maddren
+Ruihua Fang
+Steven G. Heitner
+Brian T. Lee
+Galt P. Barber
+Rachel A. Harte
+Mark Diekhans
+Jeffrey C. Long
+Steven P. Wilder
+Ann S. Zweig
+Donna Karolchik
+Robert M. Kuhn
+David Haussler
+W. James Kent
+
+KEYWORDS:
+
+genome
+genome, human
+mice
+encode consortium
+datasets

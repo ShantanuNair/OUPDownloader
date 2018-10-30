@@ -1,0 +1,61 @@
+TITLE: Genome3D: exploiting structure to help users understand their sequences
+ 
+Genome3D (http://www.genome3d.eu) is a collaborative resource that provides predicted domain annotations and structural models for key sequences. Since introducing Genome3D in a previous NAR paper, we have substantially extended and improved the resource. We have annotated representatives from Pfam families to improve coverage of diverse sequences and added a fast sequence search to the website to allow users to find Genome3D-annotated sequences similar to their own. We have improved and extended the Genome3D data, enlarging the source data set from three model organisms to 10, and adding VIVACE, a resource new to Genome3D. We have analysed and updated Genome3D's SCOP/CATH mapping. Finally, we have improved the superposition tools, which now give users a more powerful interface for investigating similarities and differences between structural models.
+
+AUTHORS:
+
+Tony E. Lewis
+Ian Sillitoe
+Antonina Andreeva
+Tom L. Blundell
+Daniel W.A. Buchan
+Cyrus Chothia
+Domenico Cozzetto
+José M. Dana
+Ioannis Filippis
+Julian Gough
+David T. Jones
+Lawrence A. Kelley
+Gerard J. Kleywegt
+Federico Minneci
+Jaina Mistry
+Alexey G. Murzin
+Bernardo Ochoa-Montaño
+Matt E. Oates
+Marco Punta
+Owen J.L. Rackham
+Jonathan Stahlhacke
+Michael J.E. Sternberg
+Sameer Velankar
+Christine Orengo
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

@@ -1,0 +1,28 @@
+TITLE: Dfam: a database of repetitive DNA based on profile hidden Markov models
+ 
+We present a database of repetitive DNA elements, called Dfam (http://dfam.janelia.org). Many genomes contain a large fraction of repetitive DNA, much of which is made up of remnants of transposable elements (TEs). Accurate annotation of TEs enables research into their biology and can shed light on the evolutionary processes that shape genomes. Identification and masking of TEs can also greatly simplify many downstream genome annotation and sequence analysis tasks. The commonly used TE annotation tools RepeatMasker and Censor depend on sequence homology search tools such as cross_match and BLAST variants, as well as Repbase, a collection of known TE families each represented by a single consensus sequence. Dfam contains entries corresponding to all Repbase TE entries for which instances have been found in the human genome. Each Dfam entry is represented by a profile hidden Markov model, built from alignments generated using RepeatMasker and Repbase. When used in conjunction with the hidden Markov model search tool nhmmer, Dfam produces a 2.9% increase in coverage over consensus sequence search methods on a large human benchmark, while maintaining low false discovery rates, and coverage of the full human genome is 54.5%. The website provides a collection of tools and data views to support improved TE curation and annotation efforts. Dfam is also available for download in flat file format or in the form of MySQL table dumps.
+
+AUTHORS:
+
+Travis J. Wheeler
+Jody Clements
+Sean R. Eddy
+Robert Hubley
+Thomas A. Jones
+Jerzy Jurka
+Arian F. A. Smit
+Robert D. Finn
+
+KEYWORDS:
+
+benchmarking
+consensus sequence
+dna
+dna transposable elements
+genome
+genome, human
+perceptual masking
+sequence analysis
+sequence homology
+basic local alignment search tool
+transanal endoscopic surgery

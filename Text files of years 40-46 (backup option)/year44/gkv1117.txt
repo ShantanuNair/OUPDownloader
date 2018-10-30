@@ -1,0 +1,19 @@
+TITLE: MetaNetX/MNXref – reconciliation of metabolites and biochemical reactions to bring together genome-scale metabolic networks
+ 
+MetaNetX is a repository of genome-scale metabolic networks (GSMNs) and biochemical pathways from a number of major resources imported into a common namespace of chemical compounds, reactions, cellular compartments—namely MNXref—and proteins. The MetaNetX.org website (http://www.metanetx.org/) provides access to these integrated data as well as a variety of tools that allow users to import their own GSMNs, map them to the MNXref reconciliation, and manipulate, compare, analyze, simulate (using flux balance analysis) and export the resulting GSMNs. MNXref and MetaNetX are regularly updated and freely available.
+
+AUTHORS:
+
+Sébastien Moretti
+Olivier Martin
+T. Van Du Tran
+Alan Bridge
+Anne Morgat
+Marco Pagni
+
+KEYWORDS:
+
+genome
+metabolites
+biochemical pathways
+biochemical reactions

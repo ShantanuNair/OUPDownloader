@@ -1,0 +1,23 @@
+TITLE: GABI-Kat SimpleSearch: new features of the Arabidopsis thaliana T-DNA mutant database
+ 
+T-DNA insertion mutants are very valuable for reverse genetics in Arabidopsis thaliana. Several projects have generated large sequence-indexed collections of T-DNA insertion lines, of which GABI-Kat is the second largest resource worldwide. User access to the collection and its Flanking Sequence Tags (FSTs) is provided by the front end SimpleSearch (http://www.GABI-Kat.de). Several significant improvements have been implemented recently. The database now relies on the TAIRv10 genome sequence and annotation dataset. All FSTs have been newly mapped using an optimized procedure that leads to improved accuracy of insertion site predictions. A fraction of the collection with weak FST yield was re-analysed by generating new FSTs. Along with newly found predictions for older sequences about 20 000 new FSTs were included in the database. Information about groups of FSTs pointing to the same insertion site that is found in several lines but is real only in a single line are included, and many problematic FST-to-line links have been corrected using new wet-lab data. SimpleSearch currently contains data from ∼71 000 lines with predicted insertions covering 62.5% of the 27 206 nuclear protein coding genes, and offers insertion allele-specific data from 9545 confirmed lines that are available from the Nottingham Arabidopsis Stock Centre.
+
+AUTHORS:
+
+Nils Kleinboelting
+Gunnar Huep
+Andreas Kloetgen
+Prisca Viehoever
+Bernd Weisshaar
+
+KEYWORDS:
+
+alleles
+arabidopsis
+dna
+genes
+genome
+laboratory
+nuclear proteins
+genetics
+datasets

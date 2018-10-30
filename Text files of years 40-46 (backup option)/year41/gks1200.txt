@@ -1,0 +1,31 @@
+TITLE: The RCSB Protein Data Bank: new resources for research and education
+ 
+The Research Collaboratory for Structural Bioinformatics Protein Data Bank (RCSB PDB) develops tools and resources that provide a structural view of biology for research and education. The RCSB PDB web site (http://www.rcsb.org) uses the curated 3D macromolecular data contained in the PDB archive to offer unique methods to access, report and visualize data. Recent activities have focused on improving methods for simple and complex searches of PDB data, creating specialized access to chemical component data and providing domain-based structural alignments. New educational resources are offered at the PDB-101 educational view of the main web site such as Author Profiles that display a researcher’s PDB entries in a timeline. To promote different kinds of access to the RCSB PDB, Web Services have been expanded, and an RCSB PDB Mobile application for the iPhone/iPad has been released. These improvements enable new opportunities for analyzing and understanding structure data.
+
+AUTHORS:
+
+Peter W. Rose
+Chunxiao Bi
+Wolfgang F. Bluhm
+Cole H. Christie
+Dimitris Dimitropoulos
+Shuchismita Dutta
+Rachel K. Green
+David S. Goodsell
+Andreas Prlić
+Martha Quesada
+Gregory B. Quinn
+Alexander G. Ramos
+John D. Westbrook
+Jasmine Young
+Christine Zardecki
+Helen M. Berman
+Philip E. Bourne
+
+KEYWORDS:
+
+ligands
+knowledge acquisition
+protein data bank
+mobile applications
+bioinformatics

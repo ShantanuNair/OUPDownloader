@@ -1,0 +1,28 @@
+TITLE: AnimalTFDB: a comprehensive animal transcription factor database
+ 
+Transcription factors (TFs) are proteins that bind to specific DNA sequences, thereby playing crucial roles in gene-expression regulation through controlling the transcription of genetic information from DNA to RNA. Transcription cofactors and chromatin remodeling factors are also essential in the gene transcriptional regulation. Identifying and annotating all the TFs are primary and crucial steps for illustrating their functions and understanding the transcriptional regulation. In this study, based on manual literature reviews, we collected and curated 72 TF families for animals, which is currently the most complete list of TF families in animals. Then, we systematically characterized all the TFs in 50 animal species and constructed a comprehensive animal TF database, AnimalTFDB. To better serve the community, we provided detailed annotations for each TF, including basic information, gene structure, functional domain, 3D structure hit, Gene Ontology, pathway, protein–protein interaction, paralogs, orthologs, potential TF-binding sites and targets. In addition, we collected and annotated transcription cofactors and chromatin remodeling factors. AnimalTFDB has a user-friendly web interface with multiple browse and search functions, as well as data downloading. It is freely available at http://www.bioguo.org/AnimalTFDB/.
+
+AUTHORS:
+
+Hong-Mei Zhang
+Hu Chen
+Wei Liu
+Hui Liu
+Jing Gong
+Huili Wang
+An-Yuan Guo
+
+KEYWORDS:
+
+gene expression
+chromatin
+dna
+genes
+genetics
+transcription factor
+rna
+transcriptional control
+gene organization
+community
+play behavior
+binding (molecular function)

@@ -1,0 +1,31 @@
+TITLE: RBP-Var: a database of functional variants involved in regulation mediated by RNA-binding proteins
+ 
+Transcription factors bind to the genome by forming specific contacts with the primary DNA sequence; however, RNA-binding proteins (RBPs) have greater scope to achieve binding specificity through the RNA secondary structure. It has been revealed that single nucleotide variants (SNVs) that alter RNA structure, also known as RiboSNitches, exhibit 3-fold greater local structure changes than replicates of the same DNA sequence, demonstrated by the fact that depletion of RiboSNitches could result in the alteration of specific RNA shapes at thousands of sites, including 3′ UTRs, binding sites of microRNAs and RBPs. However, the network between SNVs and post-transcriptional regulation remains unclear. Here, we developed RBP-Var, a database freely available at http://www.rbp-var.biols.ac.cn/, which provides annotation of functional variants involved in post-transcriptional interaction and regulation. RBP-Var provides an easy-to-use web interface that allows users to rapidly find whether SNVs of interest can transform the secondary structure of RNA and identify RBPs whose binding may be subsequently disrupted. RBP-Var integrates DNA and RNA biology to understand how various genetic variants and post-transcriptional mechanisms cooperate to orchestrate gene expression. In summary, RBP-Var is useful in selecting candidate SNVs for further functional studies and exploring causal SNVs underlying human diseases.
+
+AUTHORS:
+
+Fengbiao Mao
+Luoyuan Xiao
+Xianfeng Li
+Jialong Liang
+Huajing Teng
+Wanshi Cai
+Zhong Sheng Sun
+
+KEYWORDS:
+
+gene expression
+transcription, genetic
+binding sites
+dna
+genome
+nucleotides
+single nucleotide polymorphism
+protein structure, secondary
+rna-binding proteins
+untranslated regions
+genetics
+transcription factor
+rna
+micrornas
+binding (molecular function)

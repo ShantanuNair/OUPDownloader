@@ -1,0 +1,31 @@
+TITLE: ccNET: Database of co-expression networks with functional modules for diploid and polyploid Gossypium
+ 
+Plant genera with both diploid and polyploid species are a common evolutionary occurrence. Polyploids, especially allopolyploids such as cotton and wheat, are a great model system for heterosis research. Here, we have integrated genome sequences and transcriptome data of Gossypium species to construct co-expression networks and identified functional modules from different cotton species, including 1155 and 1884 modules in G. arboreum and G. hirsutum, respectively. We overlayed the gene expression results onto the co-expression network. We further provided network comparison analysis for orthologous genes across the diploid and allotetraploid Gossypium. We also constructed miRNA-target networks and predicted PPI networks for both cotton species. Furthermore, we integrated in-house ChIP-seq data of histone modification (H3K4me3) together with cis-element analysis and gene sets enrichment analysis tools for studying possible gene regulatory mechanism in Gossypium species. Finally, we have constructed an online ccNET database (http://structuralbiology.cau.edu.cn/gossypium) for comparative gene functional analyses at a multi-dimensional network and epigenomic level across diploid and polyploid Gossypium species. The ccNET database will be beneficial for community to yield novel insights into gene/module functions during cotton development and stress response, and might be useful for studying conservation and diversity in other polyploid plants, such as T. aestivum and Brassica napus.
+
+AUTHORS:
+
+Qi You
+Wenying Xu
+Kang Zhang
+Liwei Zhang
+Xin Yi
+Dongxia Yao
+Chunchao Wang
+Xueyan Zhang
+Xinhua Zhao
+Nicholas J. Provart
+Fuguang Li
+Zhen Su
+
+KEYWORDS:
+
+gene expression
+stress response
+gossypium
+diploidy
+genes
+genome
+histones
+plants
+polyploidy
+micrornas

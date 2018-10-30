@@ -1,0 +1,24 @@
+TITLE: HAMAP in 2013, new developments in the protein family classification and annotation system
+ 
+HAMAP (High-quality Automated and Manual Annotation of Proteins—available at http://hamap.expasy.org/) is a system for the classification and annotation of protein sequences. It consists of a collection of manually curated family profiles for protein classification, and associated annotation rules that specify annotations that apply to family members. HAMAP was originally developed to support the manual curation of UniProtKB/Swiss-Prot records describing microbial proteins. Here we describe new developments in HAMAP, including the extension of HAMAP to eukaryotic proteins, the use of HAMAP in the automated annotation of UniProtKB/TrEMBL, providing high-quality annotation for millions of protein sequences, and the future integration of HAMAP into a unified system for UniProtKB annotation, UniRule. HAMAP is continuously updated by expert curators with new family profiles and annotation rules as new protein families are characterized. The collection of HAMAP family classification profiles and annotation rules can be browsed and viewed on the HAMAP website, which also provides an interface to scan user sequences against HAMAP profiles.
+
+AUTHORS:
+
+Ivo Pedruzzi
+Catherine Rivoire
+Andrea H. Auchincloss
+Elisabeth Coudert
+Guillaume Keller
+Edouard de Castro
+Delphine Baratin
+Béatrice A. Cuche
+Lydie Bougueleret
+Sylvain Poux
+Nicole Redaschi
+Ioannis Xenarios
+Alan Bridge
+the UniProt Consortium
+
+KEYWORDS:
+
+uniprot knowledgebase

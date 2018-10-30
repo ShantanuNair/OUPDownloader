@@ -1,0 +1,28 @@
+TITLE: 2016 update of the PRIDE database and its related tools
+ 
+The PRoteomics IDEntifications (PRIDE) database is one of the world-leading data repositories of mass spectrometry (MS)-based proteomics data. Since the beginning of 2014, PRIDE Archive (http://www.ebi.ac.uk/pride/archive/) is the new PRIDE archival system, replacing the original PRIDE database. Here we summarize the developments in PRIDE resources and related tools since the previous update manuscript in the Database Issue in 2013. PRIDE Archive constitutes a complete redevelopment of the original PRIDE, comprising a new storage backend, data submission system and web interface, among other components. PRIDE Archive supports the most-widely used PSI (Proteomics Standards Initiative) data standard formats (mzML and mzIdentML) and implements the data requirements and guidelines of the ProteomeXchange Consortium. The wide adoption of ProteomeXchange within the community has triggered an unprecedented increase in the number of submitted data sets (around 150 data sets per month). We outline some statistics on the current PRIDE Archive data contents. We also report on the status of the PRIDE related stand-alone tools: PRIDE Inspector, PRIDE Converter 2 and the ProteomeXchange submission tool. Finally, we will give a brief update on the resources under development ‘PRIDE Cluster’ and ‘PRIDE Proteomes’, which provide a complementary view and quality-scored information of the peptide and protein identification data available in PRIDE Archive.
+
+AUTHORS:
+
+Juan Antonio Vizcaíno
+Attila Csordas
+Noemi del-Toro
+José A. Dianes
+Johannes Griss
+Ilias Lavidas
+Gerhard Mayer
+Yasset Perez-Riverol
+Florian Reisinger
+Tobias Ternent
+Qing-Wei Xu
+Rui Wang
+Henning Hermjakob
+
+KEYWORDS:
+
+peptides
+mass spectrometry
+guidelines
+proteomics
+community
+datasets

@@ -1,0 +1,43 @@
+TITLE: The non-human primate reference transcriptome resource (NHPRTR) for comparative functional genomics
+ 
+RNA-based next-generation sequencing (RNA-Seq) provides a tremendous amount of new information regarding gene and transcript structure, expression and regulation. This is particularly true for non-coding RNAs where whole transcriptome analyses have revealed that the much of the genome is transcribed and that many non-coding transcripts have widespread functionality. However, uniform resources for raw, cleaned and processed RNA-Seq data are sparse for most organisms and this is especially true for non-human primates (NHPs). Here, we describe a large-scale RNA-Seq data and analysis infrastructure, the NHP reference transcriptome resource (http://nhprtr.org); it presently hosts data from12 species of primates, to be expanded to 15 species/subspecies spanning great apes, old world monkeys, new world monkeys and prosimians. Data are collected for each species using pools of RNA from comparable tissues. We provide data access in advance of its deposition at NCBI, as well as browsable tracks of alignments against the human genome using the UCSC genome browser. This resource will continue to host additional RNA-Seq data, alignments and assemblies as they are generated over the coming years and provide a key resource for the annotation of NHP genomes as well as informing primate studies on evolution, reproduction, infection, immunity and pharmacology.
+
+AUTHORS:
+
+Lenore Pipes
+Sheng Li
+Marjan Bozinoski
+Robert Palermo
+Xinxia Peng
+Phillip Blood
+Sara Kelly
+Jeffrey M. Weiss
+Jean Thierry-Mieg
+Danielle Thierry-Mieg
+Paul Zumbo
+Ronghua Chen
+Gary P. Schroth
+Christopher E. Mason
+Michael G. Katze
+
+KEYWORDS:
+
+functional genomics
+cebidae
+cercopithecidae
+gene expression profiling
+genes
+genome
+genome, human
+hominidae
+immunity
+libraries
+primates
+reproductive physiological process
+rna, messenger
+strepsirhini
+infection
+pharmacology
+rna
+massively-parallel genome sequencing
+host (organism)

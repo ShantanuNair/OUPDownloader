@@ -1,0 +1,31 @@
+TITLE: DNA data bank of Japan (DDBJ) progress report
+ 
+The DNA Data Bank of Japan Center (DDBJ Center; http://www.ddbj.nig.ac.jp) maintains and provides public archival, retrieval and analytical services for biological information. The contents of the DDBJ databases are shared with the US National Center for Biotechnology Information (NCBI) and the European Bioinformatics Institute (EBI) within the framework of the International Nucleotide Sequence Database Collaboration (INSDC). Since 2013, the DDBJ Center has been operating the Japanese Genotype-phenotype Archive (JGA) in collaboration with the National Bioscience Database Center (NBDC) in Japan. In addition, the DDBJ Center develops semantic web technologies for data integration and sharing in collaboration with the Database Center for Life Science (DBCLS) in Japan. This paper briefly reports on the activities of the DDBJ Center over the past year including submissions to databases and improvements in our services for data retrieval, analysis, and integration.
+
+AUTHORS:
+
+Jun Mashima
+Yuichi Kodama
+Takehide Kosuge
+Takatomo Fujisawa
+Toshiaki Katayama
+Hideki Nagasaki
+Yoshihiro Okuda
+Eli Kaminuma
+Osamu Ogasawara
+Kousaku Okubo
+Yasukazu Nakamura
+Toshihisa Takagi
+
+KEYWORDS:
+
+phenotype
+base sequence
+biological sciences
+biotechnology
+dna
+genotype
+semantics
+technology
+japanese
+bioinformatics

@@ -1,0 +1,82 @@
+TITLE: Tools and data services registry: a community effort to document bioinformatics resources
+ 
+Life sciences are yielding huge data sets that underpin scientific discoveries fundamental to improvement in human health, agriculture and the environment. In support of these discoveries, a plethora of databases and tools are deployed, in technically complex and diverse implementations, across a spectrum of scientific disciplines. The corpus of documentation of these resources is fragmented across the Web, with much redundancy, and has lacked a common standard of information. The outcome is that scientists must often struggle to find, understand, compare and use the best resources for the task at hand.
+
+AUTHORS:
+
+Jon Ison
+Kristoffer Rapacki
+Hervé Ménager
+Matúš Kalaš
+Emil Rydza
+Piotr Chmura
+Christian Anthon
+Niall Beard
+Karel Berka
+Dan Bolser
+Tim Booth
+Anthony Bretaudeau
+Jan Brezovsky
+Rita Casadio
+Gianni Cesareni
+Frederik Coppens
+Michael Cornell
+Gianmauro Cuccuru
+Kristian Davidsen
+Gianluca Della Vedova
+Tunca Dogan
+Olivia Doppelt-Azeroual
+Laura Emery
+Elisabeth Gasteiger
+Thomas Gatter
+Tatyana Goldberg
+Marie Grosjean
+Björn Grüning
+Manuela Helmer-Citterich
+Hans Ienasescu
+Vassilios Ioannidis
+Martin Closter Jespersen
+Rafael Jimenez
+Nick Juty
+Peter Juvan
+Maximilian Koch
+Camille Laibe
+Jing-Woei Li
+Luana Licata
+Fabien Mareuil
+Ivan Mičetić
+Rune Møllegaard Friborg
+Sebastien Moretti
+Chris Morris
+Steffen Möller
+Aleksandra Nenadic
+Hedi Peterson
+Giuseppe Profiti
+Peter Rice
+Paolo Romano
+Paola Roncaglia
+Rabie Saidi
+Andrea Schafferhans
+Veit Schwämmle
+Callum Smith
+Maria Maddalena Sperotto
+Heinz Stockinger
+Radka Svobodová Vařeková
+Silvio C.E. Tosatto
+Victor de la Torre
+Paolo Uva
+Allegra Via
+Guy Yachdav
+Federico Zambelli
+Gert Vriend
+Burkhard Rost
+Helen Parkinson
+Peter Løngreen
+Søren Brunak
+
+KEYWORDS:
+
+biological sciences
+elixir dosage form
+community
+bioinformatics

@@ -1,0 +1,57 @@
+TITLE: CDD: NCBI's conserved domain database
+ 
+NCBI's CDD, the Conserved Domain Database, enters its 15th year as a public resource for the annotation of proteins with the location of conserved domain footprints. Going forward, we strive to improve the coverage and consistency of domain annotation provided by CDD. We maintain a live search system as well as an archive of pre-computed domain annotation for sequences tracked in NCBI's Entrez protein database, which can be retrieved for single sequences or in bulk. We also maintain import procedures so that CDD contains domain models and domain definitions provided by several collections available in the public domain, as well as those produced by an in-house curation effort. The curation effort aims at increasing coverage and providing finer-grained classifications of common protein domains, for which a wealth of functional and structural data has become available. CDD curation generates alignment models of representative sequence fragments, which are in agreement with domain boundaries as observed in protein 3D structure, and which model the structurally conserved cores of domain families as well as annotate conserved features. CDD can be accessed at http://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml.
+
+AUTHORS:
+
+Aron Marchler-Bauer
+Myra K. Derbyshire
+Noreen R. Gonzales
+Shennan Lu
+Farideh Chitsaz
+Lewis Y. Geer
+Renata C. Geer
+Jane He
+Marc Gwadz
+David I. Hurwitz
+Christopher J. Lanczycki
+Fu Lu
+Gabriele H. Marchler
+James S. Song
+Narmada Thanki
+Zhouxi Wang
+Roxanne A. Yamashita
+Dachuan Zhang
+Chanjuan Zheng
+Stephen H. Bryant
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

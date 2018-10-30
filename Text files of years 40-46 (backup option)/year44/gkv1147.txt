@@ -1,0 +1,43 @@
+TITLE: DESM: portal for microbial knowledge exploration systems
+ 
+Microorganisms produce an enormous variety of chemical compounds. It is of general interest for microbiology and biotechnology researchers to have means to explore information about molecular and genetic basis of functioning of different microorganisms and their ability for bioproduction. To enable such exploration, we compiled 45 topic-specific knowledgebases (KBs) accessible through DESM portal (www.cbrc.kaust.edu.sa/desm). The KBs contain information derived through text-mining of PubMed information and complemented by information data-mined from various other resources (e.g. ChEBI, Entrez Gene, GO, KOBAS, KEGG, UniPathways, BioGrid). All PubMed records were indexed using 4 538 278 concepts from 29 dictionaries, with 1 638 986 records utilized in KBs. Concepts used are normalized whenever possible. Most of the KBs focus on a particular type of microbial activity, such as production of biocatalysts or nutraceuticals. Others are focused on specific categories of microorganisms, e.g. streptomyces or cyanobacteria. KBs are all structured in a uniform manner and have a standardized user interface. Information exploration is enabled through various searches. Users can explore statistically most significant concepts or pairs of concepts, generate hypotheses, create interactive networks of associated concepts and export results. We believe DESM will be a useful complement to the existing resources to benefit microbiology and biotechnology research.
+
+AUTHORS:
+
+Adil Salhi
+Magbubah Essack
+Aleksandar Radovanovic
+Benoit Marchand
+Salim Bougouffa
+Andre Antunes
+Marta Filipa Simoes
+Feras F. Lafi
+Olaa A. Motwalli
+Ameerah Bokhari
+Tariq Malas
+Soha Al Amoudi
+Ghofran Othum
+Intikhab Allam
+Katsuhiko Mineta
+Xin Gao
+Robert Hoehndorf
+John A. C. Archer
+Takashi Gojobori
+Vladimir B. Bajic
+
+KEYWORDS:
+
+archaea
+biotechnology
+complement system proteins
+cyanobacteria
+dictionaries
+mining
+streptomyces
+user-computer interface
+genetics
+microbiology
+nutraceuticals
+microorganisms
+entrez gene
+knowledge bases

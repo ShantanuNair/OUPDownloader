@@ -1,0 +1,35 @@
+TITLE: CRISPRz: a database of zebrafish validated sgRNAs
+ 
+CRISPRz (http://research.nhgri.nih.gov/CRISPRz/) is a database of CRISPR/Cas9 target sequences that have been experimentally validated in zebrafish. Programmable RNA-guided CRISPR/Cas9 has recently emerged as a simple and efficient genome editing method in various cell types and organisms, including zebrafish. Because the technique is so easy and efficient in zebrafish, the most valuable asset is no longer a mutated fish (which has distribution challenges), but rather a CRISPR/Cas9 target sequence to the gene confirmed to have high mutagenic efficiency. With a highly active CRISPR target, a mutant fish can be quickly replicated in any genetic background anywhere in the world. However, sgRNA's vary widely in their activity and models for predicting target activity are imperfect. Thus, it is very useful to collect in one place validated CRISPR target sequences with their relative mutagenic activities. A researcher could then select a target of interest in the database with an expected activity. Here, we report the development of CRISPRz, a database of validated zebrafish CRISPR target sites collected from published sources, as well as from our own in-house large-scale mutagenesis project. CRISPRz can be searched using multiple inputs such as ZFIN IDs, accession number, UniGene ID, or gene symbols from zebrafish, human and mouse.
+
+AUTHORS:
+
+Gaurav K. Varshney
+Suiyuan Zhang
+Wuhong Pei
+Ashrifia Adomako-Ankomah
+Jacob Fohtung
+Katherine Schaffer
+Blake Carrington
+Anoo Maskeri
+Claire Slevin
+Tyra Wolfsberg
+Johan Ledin
+Raman Sood
+Shawn M. Burgess
+
+KEYWORDS:
+
+mutation
+genes
+id
+iduronate sulfatase
+mutagenesis
+united states national institutes of health
+zebrafish
+mice
+rna
+symbols
+crispr
+genetic background
+genome editing

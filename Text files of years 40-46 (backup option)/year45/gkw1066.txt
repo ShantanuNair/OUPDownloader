@@ -1,0 +1,26 @@
+TITLE: HmtDB 2016: data update, a better performing query system and human mitochondrial DNA haplogroup predictor
+ 
+The HmtDB resource hosts a database of human mitochondrial genome sequences from individuals with healthy and disease phenotypes. The database is intended to support both population geneticists as well as clinicians undertaking the task to assess the pathogenicity of specific mtDNA mutations. The wide application of next-generation sequencing (NGS) has provided an enormous volume of high-resolution data at a low price, increasing the availability of human mitochondrial sequencing data, which called for a cogent and significant expansion of HmtDB data content that has more than tripled in the current release. We here describe additional novel features, including: (i) a complete, user-friendly restyling of the web interface, (ii) links to the command-line stand-alone and web versions of the MToolBox package, an up-to-date tool to reconstruct and analyze human mitochondrial DNA from NGS data and (iii) the implementation of the Reconstructed Sapiens Reference Sequence (RSRS) as mitochondrial reference sequence. The overall update renders HmtDB an even more handy and useful resource as it enables a more rapid data access, processing and analysis. HmtDB is accessible at http://www.hmtdb.uniba.it/.
+
+AUTHORS:
+
+Rosanna Clima
+Roberto Preste
+Claudia Calabrese
+Maria Angela Diroma
+Mariangela Santorsola
+Gaetano Scioscia
+Domenico Simone
+Lishuang Shen
+Giuseppe Gasparre
+Marcella Attimonelli
+
+KEYWORDS:
+
+phenotype
+mutation
+mitochondria
+dna, mitochondrial
+genome
+pathogenicity
+massively-parallel genome sequencing

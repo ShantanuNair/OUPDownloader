@@ -1,0 +1,22 @@
+TITLE: PlantNATsDB: a comprehensive database of plant natural antisense transcripts
+ 
+Natural antisense transcripts (NATs), as one type of regulatory RNAs, occur prevalently in plant genomes and play significant roles in physiological and pathological processes. Although their important biological functions have been reported widely, a comprehensive database is lacking up to now. Consequently, we constructed a plant NAT database (PlantNATsDB) involving approximately 2 million NAT pairs in 69 plant species. GO annotation and high-throughput small RNA sequencing data currently available were integrated to investigate the biological function of NATs. PlantNATsDB provides various user-friendly web interfaces to facilitate the presentation of NATs and an integrated, graphical network browser to display the complex networks formed by different NATs. Moreover, a ‘Gene Set Analysis’ module based on GO annotation was designed to dig out the statistical significantly overrepresented GO categories from the specific NAT network. PlantNATsDB is currently the most comprehensive resource of NATs in the plant kingdom, which can serve as a reference database to investigate the regulatory function of NATs. The PlantNATsDB is freely available at http://bis.zju.edu.cn/pnatdb/.
+
+AUTHORS:
+
+Dijun Chen
+Chunhui Yuan
+Jian Zhang
+Zhao Zhang
+Lin Bai
+Yijun Meng
+Ling-Ling Chen
+Ming Chen
+
+KEYWORDS:
+
+genes, vif
+genome, plant
+pathologic processes
+plants
+rna, small

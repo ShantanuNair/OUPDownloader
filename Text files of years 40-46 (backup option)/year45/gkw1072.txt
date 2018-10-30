@@ -1,0 +1,46 @@
+TITLE: Pharos: Collating protein information to shed light on the druggable genome
+ 
+The ‘druggable genome’ encompasses several protein families, but only a subset of targets within them have attracted significant research attention and thus have information about them publicly available. The Illuminating the Druggable Genome (IDG) program was initiated in 2014, has the goal of developing experimental techniques and a Knowledge Management Center (KMC) that would collect and organize information about protein targets from four families, representing the most common druggable targets with an emphasis on understudied proteins. Here, we describe two resources developed by the KMC: the Target Central Resource Database (TCRD) which collates many heterogeneous gene/protein datasets and Pharos (https://pharos.nih.gov), a multimodal web interface that presents the data from TCRD. We briefly describe the types and sources of data considered by the KMC and then highlight features of the Pharos interface designed to enable intuitive access to the IDG knowledgebase. The aim of Pharos is to encourage ‘serendipitous browsing’, whereby related, relevant information is made easily discoverable. We conclude by describing two use cases that highlight the utility of Pharos and TCRD.
+
+AUTHORS:
+
+Dac-Trung Nguyen
+Stephen Mathias
+Cristian Bologa
+Soren Brunak
+Nicolas Fernandez
+Anna Gaulton
+Anne Hersey
+Jayme Holmes
+Lars Juhl Jensen
+Anneli Karlsson
+Guixia Liu
+Avi Ma'ayan
+Geetha Mandava
+Subramani Mani
+Saurabh Mehta
+John Overington
+Juhee Patel
+Andrew D. Rouillard
+Stephan Schürer
+Timothy Sheils
+Anton Simeonov
+Larry A. Sklar
+Noel Southall
+Oleg Ursu
+Dusica Vidovic
+Anna Waller
+Jeremy Yang
+Ajit Jadhav
+Tudor I. Oprea
+Rajarshi Guha
+
+KEYWORDS:
+
+heterogeneity
+genes
+trd gene cluster
+genome
+united states national institutes of health
+knowledge bases
+datasets

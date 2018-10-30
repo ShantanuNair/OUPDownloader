@@ -1,0 +1,49 @@
+TITLE: PubAngioGen: a database and knowledge for angiogenesis and related diseases
+ 
+Angiogenesis is the process of generating new blood vessels based on existing ones, which is involved in many diseases including cancers, cardiovascular diseases and diabetes mellitus. Recently, great efforts have been made to explore the mechanisms of angiogenesis in various diseases and many angiogenic factors have been discovered as therapeutic targets in anti- or pro-angiogenic drug development. However, the resulted information is sparsely distributed and no systematical summarization has been made. In order to integrate these related results and facilitate the researches for the community, we conducted manual text-mining from published literature and built a database named as PubAngioGen (http://www.megabionet.org/aspd/). Our online application displays a comprehensive network for exploring the connection between angiogenesis and diseases at multilevels including protein–protein interaction, drug-target, disease-gene and signaling pathways among various cells and animal models recorded through text-mining. To enlarge the scope of the PubAngioGen application, our database also links to other common resources including STRING, DrugBank and OMIM databases, which will facilitate understanding the underlying molecular mechanisms of angiogenesis and drug development in clinical therapy.
+
+AUTHORS:
+
+Peng Li
+Yongrui Liu
+Huan Wang
+Yuan He
+Xue Wang
+Yundong He
+Fang Lv
+Huaqing Chen
+Xiufeng Pang
+Mingyao Liu
+Tieliu Shi
+Zhengfang Yi
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

@@ -1,0 +1,21 @@
+TITLE: WholeCellKB: model organism databases for comprehensive whole-cell models
+ 
+Whole-cell models promise to greatly facilitate the analysis of complex biological behaviors. Whole-cell model development requires comprehensive model organism databases. WholeCellKB (http://wholecellkb.stanford.edu) is an open-source web-based software program for constructing model organism databases. WholeCellKB provides an extensive and fully customizable data model that fully describes individual species including the structure and function of each gene, protein, reaction and pathway. We used WholeCellKB to create WholeCellKB-MG, a comprehensive database of the Gram-positive bacterium Mycoplasma genitalium using over 900 sources. WholeCellKB-MG is extensively cross-referenced to existing resources including BioCyc, KEGG and UniProt. WholeCellKB-MG is freely accessible through a web-based user interface as well as through a RESTful web service.
+
+AUTHORS:
+
+Jonathan R. Karr
+Jayodita C. Sanghvi
+Derek N. Macklin
+Abhishek Arora
+Markus W. Covert
+
+KEYWORDS:
+
+genes
+gram-positive bacteria
+internet
+software
+user-computer interface
+rna
+mycoplasma genitalium

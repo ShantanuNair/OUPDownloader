@@ -1,0 +1,20 @@
+TITLE: New data and features for advanced data mining in Manteia
+ 
+Manteia is an integrative database available online at http://manteia.igbmc.fr which provides a large array of OMICs data related to the development of the mouse, chicken, zebrafish and human. The system is designed to use different types of data together in order to perform advanced datamining, test hypotheses or provide candidate genes involved in biological processes or responsible for human diseases. In this new version of the database, Manteia has been enhanced with new expression data originating from microarray and next generation sequencing experiments. In addition, the system includes new statistics tools to analyze lists of genes in order to compare their functions and highlight their specific features. One of the main novelties of this release is the integration of a machine learning tool called Lookalike that we have developed to analyze the different datasets present in the system in order to identify new disease genes. This tool identifies the key features of known disease genes to provide and rank new candidates with similar properties from the genome. It is also designed to highlight and take into account the specificities of a disease in order to increase the accuracy of its predictions.
+
+AUTHORS:
+
+Olivier Tassy
+
+KEYWORDS:
+
+chickens
+genes
+genome
+zebrafish
+mice
+candidate disease gene
+data mining
+massively-parallel genome sequencing
+datasets
+machine learning

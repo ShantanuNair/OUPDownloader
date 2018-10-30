@@ -1,0 +1,29 @@
+TITLE: SchistoDB: an updated genome resource for the three key schistosomes of humans
+ 
+The new release of SchistoDB (http://SchistoDB.net) provides a rich resource of genomic data for key blood flukes (genus Schistosoma) which cause disease in hundreds of millions of people worldwide. SchistoDB integrates whole-genome sequence and annotation of three species of the genus and provides enhanced bioinformatics analyses and data-mining tools. A simple, yet comprehensive web interface provided through the Strategies Web Development Kit is available for the mining and visualization of the data. Genomic scale data can be queried based on BLAST searches, annotation keywords and gene ID searches, gene ontology terms, sequence motifs, protein characteristics and phylogenetic relationships. Search strategies can be saved within a user’s profile for future retrieval and may also be shared with other researchers using a unique web address.
+
+AUTHORS:
+
+Adhemar Zerlotini
+Eric R. G. R. Aguiar
+Fudong Yu
+Huayong Xu
+Yixue Li
+Neil D. Young
+Robin B. Gasser
+Anna V. Protasio
+Matthew Berriman
+David S. Roos
+Jessica C. Kissinger
+Guilherme Oliveira
+
+KEYWORDS:
+
+genes
+genome
+mining
+schistosoma
+schistosomiasis
+data mining
+basic local alignment search tool
+bioinformatics

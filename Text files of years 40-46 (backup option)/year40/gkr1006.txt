@@ -1,0 +1,12 @@
+TITLE: The International Nucleotide Sequence Database Collaboration
+ 
+The members of the International Nucleotide Sequence Database Collaboration (INSDC; http://www.insdc.org) set out to capture, preserve and present globally comprehensive public domain nucleotide sequence information. The work of the long-standing collaboration includes the provision of data formats, annotation conventions and routine global data exchange. Among the many developments to INSDC resources in 2011 are the newly launched BioProject database and improved handling of assembly information. In this article, we outline INSDC services and update the reader on developments in 2011.
+
+AUTHORS:
+
+Ilene Karsch-Mizrachi
+Yasukazu Nakamura
+
+KEYWORDS:
+
+base sequence

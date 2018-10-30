@@ -1,0 +1,21 @@
+TITLE: COXPRESdb: a database of comparative gene coexpression networks of eleven species for mammals
+ 
+Coexpressed gene databases are valuable resources for identifying new gene functions or functional modules in metabolic pathways and signaling pathways. Although coexpressed gene databases are a fundamental platform in the field of plant biology, their use in animal studies is relatively limited. The COXPRESdb (http://coxpresdb.jp) provides coexpression relationships for multiple animal species, as comparisons of coexpressed gene lists can enhance the reliability of gene coexpression determinations. Here, we report the updates of the database, mainly focusing on the following two points. First, we updated our coexpression data by including recent microarray data for the previous seven species (human, mouse, rat, chicken, fly, zebrafish and nematode) and adding four new species (monkey, dog, budding yeast and fission yeast), along with a new human microarray platform. A reliability scoring function was also implemented, based on coexpression conservation to filter out coexpression with low reliability. Second, the network drawing function was updated, to implement automatic cluster analyses with enrichment analyses in Gene Ontology and in cis elements, along with interactive network analyses with Cytoscape Web. With these updates, COXPRESdb will become a more powerful tool for analyses of functional and regulatory networks of genes in a variety of animal species.
+
+AUTHORS:
+
+Takeshi Obayashi
+Yasunobu Okamura
+Satoshi Ito
+Shu Tadaka
+Ikuko N. Motoike
+Kengo Kinoshita
+
+KEYWORDS:
+
+chickens
+genes
+mammals
+zebrafish
+mice
+rats

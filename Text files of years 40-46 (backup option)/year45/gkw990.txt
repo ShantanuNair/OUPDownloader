@@ -1,0 +1,28 @@
+TITLE: Updates in Rhea – an expert curated resource of biochemical reactions
+ 
+Rhea (http://www.rhea-db.org) is a comprehensive and non-redundant resource of expert-curated biochemical reactions designed for the functional annotation of enzymes and the description of metabolic networks. Rhea describes enzyme-catalyzed reactions covering the IUBMB Enzyme Nomenclature list as well as additional reactions, including spontaneously occurring reactions, using entities from the ChEBI (Chemical Entities of Biological Interest) ontology of small molecules. Here we describe developments in Rhea since our last report in the database issue of Nucleic Acids Research. These include the first implementation of a simple hierarchical classification of reactions, improved coverage of the IUBMB Enzyme Nomenclature list and additional reactions through continuing expert curation, and the development of a new website to serve this improved dataset.
+
+AUTHORS:
+
+Anne Morgat
+Thierry Lombardot
+Kristian B. Axelsen
+Lucila Aimo
+Anne Niknejad
+Nevila Hyka-Nouspikel
+Elisabeth Coudert
+Monica Pozzato
+Marco Pagni
+Sébastien Moretti
+Steven Rosanoff
+Joseph Onwubiko
+Lydie Bougueleret
+Ioannis Xenarios
+Nicole Redaschi
+Alan Bridge
+
+KEYWORDS:
+
+rhea
+enzymes
+biochemical reactions

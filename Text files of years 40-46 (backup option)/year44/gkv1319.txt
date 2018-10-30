@@ -1,0 +1,35 @@
+TITLE: StreptomeDB 2.0—an extended resource of natural products produced by streptomycetes
+ 
+Over the last decades, the genus Streptomyces has stirred huge interest in the scientific community as a source of bioactive compounds. The majority of all known antibiotics is isolated from these bacterial strains, as well as a variety of other drugs such as antitumor agents, immunosuppressants and antifungals. To the best of our knowledge, StreptomeDB was the first database focusing on compounds produced by streptomycetes. The new version presented herein represents a major step forward: its content has been increased to over 4000 compounds and more than 2500 host organisms. In addition, we have extended the background information and included hundreds of new manually curated references to literature. The latest update features a unique scaffold-based navigation system, which enables the exploration of the chemical diversity of StreptomeDB on a structural basis. We have included a phylogenetic tree, based on 16S rRNA sequences, which comprises more than two-thirds of the included host organisms. It enables visualizing the frequency, appearance, and persistence of compounds and scaffolds in an evolutionary context. Additionally, we have included predicted MS- and NMR-spectra of thousands of compounds for assignment of experimental data. The database is freely accessible via http://www.pharmaceutical-bioinformatics.org/streptomedb.
+
+AUTHORS:
+
+Dennis Klementz
+Kersten Döring
+Xavier Lucas
+Kiran K. Telukunta
+Anika Erxleben
+Denise Deubel
+Astrid Erber
+Irene Santillana
+Oliver S. Thomas
+Andreas Bechthold
+Stefan Günther
+
+KEYWORDS:
+
+antibiotics
+immunosuppressive agents
+antifungal agents
+antineoplastic agents
+genome
+libraries
+rna, ribosomal, 16s
+streptomyces
+trees (plant)
+pharmacy (field)
+community
+natural products
+molecule
+host (organism)
+bioinformatics

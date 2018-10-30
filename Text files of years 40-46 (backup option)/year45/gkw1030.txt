@@ -1,0 +1,49 @@
+TITLE: IMG/VR: a database of cultured and uncultured DNA Viruses and retroviruses
+ 
+Viruses represent the most abundant life forms on the planet. Recent experimental and computational improvements have led to a dramatic increase in the number of viral genome sequences identified primarily from metagenomic samples. As a result of the expanding catalog of metagenomic viral sequences, there exists a need for a comprehensive computational platform integrating all these sequences with associated metadata and analytical tools. Here we present IMG/VR (https://img.jgi.doe.gov/vr/), the largest publicly available database of 3908 isolate reference DNA viruses with 264 413 computationally identified viral contigs from >6000 ecologically diverse metagenomic samples. Approximately half of the viral contigs are grouped into genetically distinct quasi-species clusters. Microbial hosts are predicted for 20 000 viral sequences, revealing nine microbial phyla previously unreported to be infected by viruses. Viral sequences can be queried using a variety of associated metadata, including habitat type and geographic location of the samples, or taxonomic classification according to hallmark viral genes. IMG/VR has a user-friendly interface that allows users to interrogate all integrated data and interact by comparing with external sequences, thus serving as an essential resource in the viral genomics community.
+
+AUTHORS:
+
+David Paez-Espino
+I.-Min A. Chen
+Krishna Palaniappan
+Anna Ratner
+Ken Chu
+Ernest Szeto
+Manoj Pillay
+Jinghua Huang
+Victor M. Markowitz
+Torben Nielsen
+Marcel Huntemann
+T. B. K. Reddy
+Georgios A. Pavlopoulos
+Matthew B. Sullivan
+Barbara J. Campbell
+Feng Chen
+Katherine McMahon
+Steve J. Hallam
+Vincent Denef
+Ricardo Cavicchioli
+Sean M. Caffrey
+Wolfgang R. Streit
+John Webster
+Kim M. Handley
+Ghasem H. Salekdeh
+Nicolas Tsesmetzis
+Joao C. Setubal
+Phillip B. Pope
+Wen-Tso Liu
+Adam R. Rivers
+Natalia N. Ivanova
+Nikos C. Kyrpides
+
+KEYWORDS:
+
+metadata
+dna viruses
+foreign medical graduates
+viral genome
+geographic area
+retroviridae
+viruses
+host (organism)

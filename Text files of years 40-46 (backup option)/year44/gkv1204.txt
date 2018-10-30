@@ -1,0 +1,26 @@
+TITLE: InsectBase: a resource for insect genomes and transcriptomes
+ 
+The genomes and transcriptomes of hundreds of insects have been sequenced. However, insect community lacks an integrated, up-to-date collection of insect gene data. Here, we introduce the first release of InsectBase, available online at http://www.insect-genome.com. The database encompasses 138 insect genomes, 116 insect transcriptomes, 61 insect gene sets, 36 gene families of 60 insects, 7544 miRNAs of 69 insects, 96 925 piRNAs of Drosophila melanogaster and Chilo suppressalis, 2439 lncRNA of Nilaparvata lugens, 22 536 pathways of 78 insects, 678 881 untranslated regions (UTR) of 84 insects and 160 905 coding sequences (CDS) of 70 insects. This release contains over 12 million sequences and provides search functionality, a BLAST server, GBrowse, insect pathway construction, a Facebook-like network for the insect community (iFacebook), and phylogenetic analysis of selected genes.
+
+AUTHORS:
+
+Chuanlin Yin
+Gengyu Shen
+Dianhao Guo
+Shuping Wang
+Xingzhou Ma
+Huamei Xiao
+Jinding Liu
+Zan Zhang
+Ying Liu
+Yiqun Zhang
+Kaixiang Yu
+Shuiqing Huang
+Fei Li
+
+KEYWORDS:
+
+genes
+genes, insect
+genome
+insecta

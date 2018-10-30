@@ -1,0 +1,49 @@
+TITLE: LncRNA2Target: a database for differentially expressed genes after lncRNA knockdown or overexpression
+ 
+Long non-coding RNAs (lncRNAs) have emerged as critical regulators of genes at epigenetic, transcriptional and post-transcriptional levels, yet what genes are regulated by a specific lncRNA remains to be characterized. To assess the effects of the lncRNA on gene expression, an increasing number of researchers profiled the genome-wide or individual gene expression level change after knocking down or overexpressing the lncRNA. Herein, we describe a curated database named LncRNA2Target, which stores lncRNA-to-target genes and is publicly accessible at http://www.lncrna2target.org. A gene was considered as a target of a lncRNA if it is differentially expressed after the lncRNA knockdown or overexpression. LncRNA2Target provides a web interface through which its users can search for the targets of a particular lncRNA or for the lncRNAs that target a particular gene. Both search types are performed either by browsing a provided catalog of lncRNA names or by inserting lncRNA/target gene IDs/names in a search box.
+
+AUTHORS:
+
+Qinghua Jiang
+Jixuan Wang
+Xiaoliang Wu
+Rui Ma
+Tianjiao Zhang
+Shuilin Jin
+Zhijie Han
+Renjie Tan
+Jiajie Peng
+Guiyou Liu
+Yu Li
+Yadong Wang
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

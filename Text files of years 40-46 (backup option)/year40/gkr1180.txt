@@ -1,0 +1,24 @@
+TITLE: ScerTF: a comprehensive database of benchmarked position weight matrices for Saccharomyces species
+ 
+Saccharomyces cerevisiae is a primary model for studies of transcriptional control, and the specificities of most yeast transcription factors (TFs) have been determined by multiple methods. However, it is unclear which position weight matrices (PWMs) are most useful; for the roughly 200 TFs in yeast, there are over 1200 PWMs in the literature. To address this issue, we created ScerTF, a comprehensive database of 1226 motifs from 11 different sources. We identified a single matrix for each TF that best predicts in vivo data by benchmarking matrices against chromatin immunoprecipitation and TF deletion experiments. We also used in vivo data to optimize thresholds for identifying regulatory sites with each matrix. To correct for biases from different methods, we developed a strategy to combine matrices. These aligned matrices outperform the best available matrix for several TFs. We used the matrices to predict co-occurring regulatory elements in the genome and identified many known TF combinations. In addition, we predict new combinations and provide evidence of combinatorial regulation from gene expression data. The database is available through a web interface at http://ural.wustl.edu/ScerTF. The site allows users to search the database with a regulatory site or matrix to identify the TFs most likely to bind the input sequence.
+
+AUTHORS:
+
+Aaron T. Spivak
+Gary D. Stormo
+
+KEYWORDS:
+
+gene expression
+immunoprecipitation
+benchmarking
+chromatin
+dna
+genome
+saccharomyces
+saccharomyces cerevisiae
+yeasts
+transcription factor
+transcriptional control
+binding (molecular function)
+datasets

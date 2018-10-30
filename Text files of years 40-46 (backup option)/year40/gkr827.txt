@@ -1,0 +1,30 @@
+TITLE: PhenoM: a database of morphological phenotypes caused by mutation of essential genes in Saccharomyces cerevisiae
+ 
+About one-fifth of the genes in the budding yeast are essential for haploid viability and cannot be functionally assessed using standard genetic approaches such as gene deletion. To facilitate genetic analysis of essential genes, we and others have assembled collections of yeast strains expressing temperature-sensitive (ts) alleles of essential genes. To explore the phenotypes caused by essential gene mutation we used a panel of genetically engineered fluorescent markers to explore the morphology of cells in the ts strain collection using high-throughput microscopy. Here, we describe the design and implementation of an online database, PhenoM (Phenomics of yeast Mutants), for storing, retrieving, visualizing and data mining the quantitative single-cell measurements extracted from micrographs of the ts mutant cells. PhenoM allows users to rapidly search and retrieve raw images and their quantified morphological data for genes of interest. The database also provides several data-mining tools, including a PhenoBlast module for phenotypic comparison between mutant strains and a Gene Ontology module for functional enrichment analysis of gene sets showing similar morphological alterations. The current PhenoM version 1.0 contains 78 194 morphological images and 1 909 914 cells covering six subcellular compartments or structures for 775 ts alleles spanning 491 essential genes. PhenoM is freely available at http://phenom.ccbr.utoronto.ca/.
+
+AUTHORS:
+
+Ke Jin
+Jingjing Li
+Frederick S. Vizeacoumar
+Zhijian Li
+Renqiang Min
+Lee Zamparo
+Franco J. Vizeacoumar
+Alessandro Datti
+Brenda Andrews
+Charles Boone
+Zhaolei Zhang
+
+KEYWORDS:
+
+alleles
+phenotype
+mutation
+genes
+genes, essential
+saccharomyces cerevisiae
+yeasts
+temperature
+genetic analysis
+data mining

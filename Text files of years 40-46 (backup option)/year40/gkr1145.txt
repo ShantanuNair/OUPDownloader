@@ -1,0 +1,41 @@
+TITLE: AutismKB: an evidence-based knowledgebase of autism genetics
+ 
+Autism spectrum disorder (ASD) is a heterogeneous neurodevelopmental disorder with a prevalence of 0.9–2.6%. Twin studies showed a heritability of 38–90%, indicating strong genetic contributions. Yet it is unclear how many genes have been associated with ASD and how strong the evidence is. A comprehensive review and analysis of literature and data may bring a clearer big picture of autism genetics. We show that as many as 2193 genes, 2806 SNPs/VNTRs, 4544 copy number variations (CNVs) and 158 linkage regions have been associated with ASD by GWAS, genome-wide CNV studies, linkage analyses, low-scale genetic association studies, expression profiling and other low-scale experimental studies. To evaluate the evidence, we collected metadata about each study including clinical and demographic features, experimental design and statistical significance, and used a scoring and ranking approach to select a core data set of 434 high-confidence genes. The genes mapped to pathways including neuroactive ligand–receptor interaction, synapse transmission and axon guidance. To better understand the genes we parsed over 30 databases to retrieve extensive data about expression patterns, protein interactions, animal models and pharmacogenetics. We constructed a MySQL-based online database and share it with the broader autism research community at http://autismkb.cbi.pku.edu.cn, supporting sophisticated browsing and searching functionalities.
+
+AUTHORS:
+
+Li-Ming Xu
+Jia-Rui Li
+Yue Huang
+Min Zhao
+Xing Tang
+Liping Wei
+
+KEYWORDS:
+
+metadata
+heterogeneity
+autistic disorder
+demography
+gene expression profiling
+genes
+genome
+ligands
+animal model
+pharmacogenetics
+phenylketonurias
+single nucleotide polymorphism
+synapses
+twins
+genetics
+evidence-based practice
+autism spectrum disorder
+community
+experimental study
+genome-wide association study
+neurodevelopmental disorders
+axon guidance
+copy number polymorphism
+molecular profiling
+knowledge bases
+datasets

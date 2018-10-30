@@ -1,0 +1,45 @@
+TITLE: SuperFly: a comparative database for quantified spatio-temporal gene expression patterns in early dipteran embryos
+ 
+We present SuperFly (http://superfly.crg.eu), a relational database for quantified spatio-temporal expression data of segmentation genes during early development in different species of dipteran insects (flies, midges and mosquitoes). SuperFly has a special focus on emerging non-drosophilid model systems. The database currently includes data of high spatio-temporal resolution for three species: the vinegar fly Drosophila melanogaster, the scuttle fly Megaselia abdita and the moth midge Clogmia albipunctata. At this point, SuperFly covers up to 9 genes and 16 time points per species, with a total of 1823 individual embryos. It provides an intuitive web interface, enabling the user to query and access original embryo images, quantified expression profiles, extracted positions of expression boundaries and integrated datasets, plus metadata and intermediate processing steps. SuperFly is a valuable new resource for the quantitative comparative study of gene expression patterns across dipteran species. Moreover, it provides an interesting test set for systems biologists interested in fitting mathematical gene network models to data. Both of these aspects are essential ingredients for progress toward a more quantitative and mechanistic understanding of developmental evolution.
+
+AUTHORS:
+
+Damjan Cicin-Sain
+Antonio Hermoso Pulido
+Anton Crombach
+Karl R. Wotton
+Eva Jiménez-Guri
+Jean-François Taly
+Guglielmo Roma
+Johannes Jaeger
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

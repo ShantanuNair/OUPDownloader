@@ -1,0 +1,62 @@
+TITLE: YM500v2: a small RNA sequencing (smRNA-seq) database for human cancer miRNome research
+ 
+We previously presented YM500, which is an integrated database for miRNA quantification, isomiR identification, arm switching discovery and novel miRNA prediction from 468 human smRNA-seq datasets. Here in this updated YM500v2 database (http://ngs.ym.edu.tw/ym500/), we focus on the cancer miRNome to make the database more disease-orientated. New miRNA-related algorithms developed after YM500 were included in YM500v2, and, more significantly, more than 8000 cancer-related smRNA-seq datasets (including those of primary tumors, paired normal tissues, PBMC, recurrent tumors, and metastatic tumors) were incorporated into YM500v2. Novel miRNAs (miRNAs not included in the miRBase R21) were not only predicted by three independent algorithms but also cleaned by a new in silico filtration strategy and validated by wetlab data such as Cross-Linked ImmunoPrecipitation sequencing (CLIP-seq) to reduce the false-positive rate. A new function ‘Meta-analysis’ is additionally provided for allowing users to identify real-time differentially expressed miRNAs and arm-switching events according to customer-defined sample groups and dozens of clinical criteria tidying up by proficient clinicians. Cancer miRNAs identified hold the potential for both basic research and biotech applications.
+
+AUTHORS:
+
+Wei-Chung Cheng
+I-Fang Chung
+Cheng-Fong Tsai
+Tse-Shun Huang
+Chen-Yang Chen
+Shao-Chuan Wang
+Ting-Yu Chang
+Hsing-Jen Sun
+Jeffrey Yung-Chuan Chao
+Cheng-Chung Cheng
+Cheng-Wen Wu
+Hsei-Wei Wang
+
+KEYWORDS:
+
+cancer
+biotechnology
+filtration
+neoplasm metastasis
+arm
+neoplasms
+rna, small
+false-positive results
+micrornas
+peripheral blood mononuclear cell
+basic science research
+massively-parallel genome sequencing
+datasets
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

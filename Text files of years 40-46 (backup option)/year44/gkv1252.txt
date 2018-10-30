@@ -1,0 +1,27 @@
+TITLE: NONCODE 2016: an informative and valuable data source of long non-coding RNAs
+ 
+NONCODE (http://www.bioinfo.org/noncode/) is an interactive database that aims to present the most complete collection and annotation of non-coding RNAs, especially long non-coding RNAs (lncRNAs). The recently reduced cost of RNA sequencing has produced an explosion of newly identified data. Revolutionary third-generation sequencing methods have also contributed to more accurate annotations. Accumulative experimental data also provides more comprehensive knowledge of lncRNA functions. In this update, NONCODE has added six new species, bringing the total to 16 species altogether. The lncRNAs in NONCODE have increased from 210 831 to 527,336. For human and mouse, the lncRNA numbers are 167,150 and 130,558, respectively. NONCODE 2016 has also introduced three important new features: (i) conservation annotation; (ii) the relationships between lncRNAs and diseases; and (iii) an interface to choose high-quality datasets through predicted scores, literature support and long-read sequencing method support. NONCODE is also accessible through http://www.noncode.org/.
+
+AUTHORS:
+
+Yi Zhao
+Hui Li
+Shuangsang Fang
+Yue Kang
+Wei wu
+Yajing Hao
+Ziyang Li
+Dechao Bu
+Ninghui Sun
+Michael Q. Zhang
+Runsheng Chen
+
+KEYWORDS:
+
+explosions
+genes
+genome
+sequence analysis, rna
+mice
+rna
+datasets

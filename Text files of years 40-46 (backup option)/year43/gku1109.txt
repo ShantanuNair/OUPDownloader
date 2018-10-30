@@ -1,0 +1,39 @@
+TITLE: The tmRNA website
+ 
+The transfer-messenger RNA (tmRNA) and its partner protein SmpB act together in resolving problems arising when translating bacterial ribosomes reach the end of mRNA with no stop codon. Their genes have been found in nearly all bacterial genomes and in some organelles. The tmRNA Website serves tmRNA sequences, alignments and feature annotations, and has recently moved to http://bioinformatics.sandia.gov/tmrna/. New features include software used to find the sequences, an update raising the number of unique tmRNA sequences from 492 to 1716, and a database of SmpB sequences which are served along with the tmRNA sequence from the same organism.
+
+AUTHORS:
+
+Corey M. Hudson
+Kelly P. Williams
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

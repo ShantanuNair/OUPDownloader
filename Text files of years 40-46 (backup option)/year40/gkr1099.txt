@@ -1,0 +1,35 @@
+TITLE: MetaBase—the wiki-database of biological databases
+ 
+Biology is generating more data than ever. As a result, there is an ever increasing number of publicly available databases that analyse, integrate and summarize the available data, providing an invaluable resource for the biological community. As this trend continues, there is a pressing need to organize, catalogue and rate these resources, so that the information they contain can be most effectively exploited. MetaBase (MB) (http://MetaDatabase.Org) is a community-curated database containing more than 2000 commonly used biological databases. Each entry is structured using templates and can carry various user comments and annotations. Entries can be searched, listed, browsed or queried. The database was created using the same MediaWiki technology that powers Wikipedia, allowing users to contribute on many different levels. The initial release of MB was derived from the content of the 2007 Nucleic Acids Research (NAR) Database Issue. Since then, approximately 100 databases have been manually collected from the literature, and users have added information for over 240 databases. MB is synchronized annually with the static Molecular Biology Database Collection provided by NAR. To date, there have been 19 significant contributors to the project; each one is listed as an author here to highlight the community aspect of the project.
+
+AUTHORS:
+
+Dan M. Bolser
+Pierre-Yves Chibon
+Nicolas Palopoli
+Sungsam Gong
+Daniel Jacob
+Victoria Dominguez Del Angel
+Dan Swan
+Sebastian Bassi
+Virginia González
+Prashanth Suravajhala
+Seungwoo Hwang
+Paolo Romano
+Rob Edwards
+Bryan Bishop
+John Eargle
+Timur Shtatland
+Nicholas J. Provart
+Dave Clements
+Daniel P. Renfro
+Daeui Bhak
+Jong Bhak
+
+KEYWORDS:
+
+databases
+molecular biology
+nucleic acids
+templates
+community

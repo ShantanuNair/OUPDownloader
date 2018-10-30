@@ -1,0 +1,42 @@
+TITLE: OMIM.org: Online Mendelian Inheritance in Man (OMIM®), an online catalog of human genes and genetic disorders
+ 
+Online Mendelian Inheritance in Man, OMIM®, is a comprehensive, authoritative and timely research resource of curated descriptions of human genes and phenotypes and the relationships between them. The new official website for OMIM, OMIM.org (http://omim.org), was launched in January 2011. OMIM is based on the published peer-reviewed biomedical literature and is used by overlapping and diverse communities of clinicians, molecular biologists and genome scientists, as well as by students and teachers of these disciplines. Genes and phenotypes are described in separate entries and are given unique, stable six-digit identifiers (MIM numbers). OMIM entries have a structured free-text format that provides the flexibility necessary to describe the complex and nuanced relationships between genes and genetic phenotypes in an efficient manner. OMIM also has a derivative table of genes and genetic phenotypes, the Morbid Map. OMIM.org has enhanced search capabilities such as genome coordinate searching and thesaurus-enhanced search term options. Phenotypic series have been created to facilitate viewing genetic heterogeneity of phenotypes. Clinical synopsis features are enhanced with UMLS, Human Phenotype Ontology and Elements of Morphology terms and image links. All OMIM data are available for FTP download and through an API. MIMmatch is a novel outreach feature to disseminate updates and encourage collaboration.
+
+AUTHORS:
+
+Joanna S. Amberger
+Carol A. Bocchini
+François Schiettecatte
+Alan F. Scott
+Ada Hamosh
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

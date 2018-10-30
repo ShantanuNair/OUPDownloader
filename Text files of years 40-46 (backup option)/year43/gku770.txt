@@ -1,0 +1,49 @@
+TITLE: The Candidate Cancer Gene Database: a database of cancer driver genes from forward genetic screens in mice
+ 
+Identification of cancer driver gene mutations is crucial for advancing cancer therapeutics. Due to the overwhelming number of passenger mutations in the human tumor genome, it is difficult to pinpoint causative driver genes. Using transposon mutagenesis in mice many laboratories have conducted forward genetic screens and identified thousands of candidate driver genes that are highly relevant to human cancer. Unfortunately, this information is difficult to access and utilize because it is scattered across multiple publications using different mouse genome builds and strength metrics. To improve access to these findings and facilitate meta-analyses, we developed the Candidate Cancer Gene Database (CCGD, http://ccgd-starrlab.oit.umn.edu/). The CCGD is a manually curated database containing a unified description of all identified candidate driver genes and the genomic location of transposon common insertion sites (CISs) from all currently published transposon-based screens. To demonstrate relevance to human cancer, we performed a modified gene set enrichment analysis using KEGG pathways and show that human cancer pathways are highly enriched in the database. We also used hierarchical clustering to identify pathways enriched in blood cancers compared to solid cancers. The CCGD is a novel resource available to scientists interested in the identification of genetic drivers of cancer.
+
+AUTHORS:
+
+Kenneth L. Abbott
+Erik T. Nyre
+Juan Abrahante
+Yen-Yi Ho
+Rachel Isaksson Vogel
+Timothy K. Starr
+
+KEYWORDS:
+
+cancer
+genes
+genome
+genetics
+mice
+dna transposons
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

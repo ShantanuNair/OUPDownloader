@@ -1,0 +1,15 @@
+TITLE: Spliceosome Database: a tool for tracking components of the spliceosome
+ 
+The spliceosome is the extremely complex macromolecular machine responsible for pre-mRNA splicing. It assembles from five U-rich small nuclear RNAs (snRNAs) and over 200 proteins in a highly dynamic fashion. One important challenge to studying the spliceosome is simply keeping track of all these proteins, a situation further complicated by the variety of names and identifiers that exist in the literature for them. To facilitate studies of the spliceosome and its components, we created a database of spliceosome-associated proteins and snRNAs, which is available at http://spliceosomedb.ucsc.edu and can be queried through a simple browser interface. In the database, we cataloged the various names, orthologs and gene identifiers of spliceosome proteins to navigate the complex nomenclature of spliceosome proteins. We also provide links to gene and protein records for the spliceosome components in other databases. To navigate spliceosome assembly dynamics, we created tools to compare the association of spliceosome proteins with complexes that form at specific stages of spliceosome assembly based on a compendium of mass spectrometry experiments that identified proteins in purified splicing complexes. Together, the information in the database provides an easy reference for spliceosome components and will support future modeling of spliceosome structure and dynamics.
+
+AUTHORS:
+
+Ivan Cvitkovic
+Melissa S. Jurica
+
+KEYWORDS:
+
+genes
+rna splicing
+spliceosomes
+complex

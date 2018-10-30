@@ -1,0 +1,46 @@
+TITLE: PomBase 2015: updates to the fission yeast database
+ 
+PomBase (http://www.pombase.org) is the model organism database for the fission yeast Schizosaccharomyces pombe. PomBase provides a central hub for the fission yeast community, supporting both exploratory and hypothesis-driven research. It provides users easy access to data ranging from the sequence level, to molecular and phenotypic annotations, through to the display of genome-wide high-throughput studies. Recent improvements to the site extend annotation specificity, improve usability and allow for monthly data updates. Both in-house curators and community researchers provide manually curated data to PomBase. The genome browser provides access to published high-throughput data sets and the genomes of three additional Schizosaccharomyces species (Schizosaccharomyces cryophilus, Schizosaccharomyces japonicus and Schizosaccharomyces octosporus).
+
+AUTHORS:
+
+Mark D. McDowall
+Midori A. Harris
+Antonia Lock
+Kim Rutherford
+Daniel M. Staines
+Jürg Bähler
+Paul J. Kersey
+Stephen G. Oliver
+Valerie Wood
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

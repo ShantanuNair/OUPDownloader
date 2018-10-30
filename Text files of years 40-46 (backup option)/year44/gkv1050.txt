@@ -1,0 +1,34 @@
+TITLE: CauloBrowser: A systems biology resource for Caulobacter crescentus
+ 
+Caulobacter crescentus is a premier model organism for studying the molecular basis of cellular asymmetry. The Caulobacter community has generated a wealth of high-throughput spatiotemporal databases including data from gene expression profiling experiments (microarrays, RNA-seq, ChIP-seq, ribosome profiling, LC-ms proteomics), gene essentiality studies (Tn-seq), genome wide protein localization studies, and global chromosome methylation analyses (SMRT sequencing). A major challenge involves the integration of these diverse data sets into one comprehensive community resource. To address this need, we have generated CauloBrowser (www.caulobrowser.org), an online resource for Caulobacter studies. This site provides a user-friendly interface for quickly searching genes of interest and downloading genome-wide results. Search results about individual genes are displayed as tables, graphs of time resolved expression profiles, and schematics of protein localization throughout the cell cycle. In addition, the site provides a genome viewer that enables customizable visualization of all published high-throughput genomic data. The depth and diversity of data sets collected by the Caulobacter community makes CauloBrowser a unique and valuable systems biology resource.
+
+AUTHORS:
+
+Keren Lasker
+Jared M. Schrader
+Yifei Men
+Tyler Marshik
+David L. Dill
+Harley H. McAdams
+Lucy Shapiro
+
+KEYWORDS:
+
+gene expression
+cell cycle
+caulobacter
+caulobacter crescentus
+chromosomes
+gene expression profiling
+genes
+genome
+internet
+methylation
+ribosomes
+proteomics
+rna
+graphical displays
+intracellular protein transport
+community
+systems biology
+datasets

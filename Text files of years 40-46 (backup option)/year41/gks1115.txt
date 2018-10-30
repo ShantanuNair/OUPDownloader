@@ -1,0 +1,24 @@
+TITLE: The Mouse Genome Database: Genotypes, Phenotypes, and Models of Human Disease
+ 
+The laboratory mouse is the premier animal model for studying human biology because all life stages can be accessed experimentally, a completely sequenced reference genome is publicly available and there exists a myriad of genomic tools for comparative and experimental research. In the current era of genome scale, data-driven biomedical research, the integration of genetic, genomic and biological data are essential for realizing the full potential of the mouse as an experimental model. The Mouse Genome Database (MGD; http://www.informatics.jax.org), the community model organism database for the laboratory mouse, is designed to facilitate the use of the laboratory mouse as a model system for understanding human biology and disease. To achieve this goal, MGD integrates genetic and genomic data related to the functional and phenotypic characterization of mouse genes and alleles and serves as a comprehensive catalog for mouse models of human disease. Recent enhancements to MGD include the addition of human ortholog details to mouse Gene Detail pages, the inclusion of microRNA knockouts to MGD’s catalog of alleles and phenotypes, the addition of video clips to phenotype images, providing access to genotype and phenotype data associated with quantitative trait loci (QTL) and improvements to the layout and display of Gene Ontology annotations.
+
+AUTHORS:
+
+Carol J. Bult
+Janan T. Eppig
+Judith A. Blake
+James A. Kadin
+Joel E. Richardson
+the Mouse Genome Database Group
+
+KEYWORDS:
+
+alleles
+phenotype
+genes
+genome
+genotype
+mice
+micrornas
+community
+quantitative trait loci

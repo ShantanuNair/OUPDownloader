@@ -1,0 +1,22 @@
+TITLE: Voronoia4RNA—a database of atomic packing densities of RNA structures and their complexes
+ 
+Voronoia4RNA (http://proteinformatics.charite.de/voronoia4rna/) is a structural database storing precalculated atomic volumes, atomic packing densities (PDs) and coordinates of internal cavities for currently 1869 RNAs and RNA–protein complexes. Atomic PDs are a measure for van der Waals interactions. Regions of low PD, containing water-sized internal cavities, refer to local structure flexibility or compressibility. RNA molecules build up the skeleton of large molecular machineries such as ribosomes or form smaller flexible structures such as riboswitches. The wealth of structural data on RNAs and their complexes allows setting up representative data sets and analysis of their structural features. We calculated atomic PDs from atomic volumes determined by the Voronoi cell method and internal cavities analytically by Delaunay triangulation. Reference internal PD values were derived from a non-redundant sub-data set of buried atoms. Comparison of internal PD values shows that RNA is more tightly packed than proteins. Finally, the relation between structure size, resolution and internal PD of the Voronoia4RNA entries is discussed. RNA, protein structures and their complexes can be visualized by the Jmol-based viewer Provi. Variations in PD are depicted by a color code. Internal cavities are represented by their molecular boundaries or schematically as balls.
+
+AUTHORS:
+
+Jochen Ismer
+Alexander S. Rose
+Johanna K. S. Tiemann
+Andrean Goede
+Kristian Rother
+Peter W. Hildebrand
+
+KEYWORDS:
+
+color
+ribosomes
+rna
+molecule
+atom
+complex
+datasets

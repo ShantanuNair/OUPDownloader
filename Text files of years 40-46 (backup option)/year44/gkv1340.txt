@@ -1,0 +1,27 @@
+TITLE: HaploReg v4: systematic mining of putative causal variants, cell types, regulators and target genes for human complex traits and disease
+ 
+More than 90% of common variants associated with complex traits do not affect proteins directly, but instead the circuits that control gene expression. This has increased the urgency of understanding the regulatory genome as a key component for translating genetic results into mechanistic insights and ultimately therapeutics. To address this challenge, we developed HaploReg (http://compbio.mit.edu/HaploReg) to aid the functional dissection of genome-wide association study (GWAS) results, the prediction of putative causal variants in haplotype blocks, the prediction of likely cell types of action, and the prediction of candidate target genes by systematic mining of comparative, epigenomic and regulatory annotations. Since first launching the website in 2011, we have greatly expanded HaploReg, increasing the number of chromatin state maps to 127 reference epigenomes from ENCODE 2012 and Roadmap Epigenomics, incorporating regulator binding data, expanding regulatory motif disruption annotations, and integrating expression quantitative trait locus (eQTL) variants and their tissue-specific target genes from GTEx, Geuvadis, and other recent studies. We present these updates as HaploReg v4, and illustrate a use case of HaploReg for attention deficit hyperactivity disorder (ADHD)-associated SNPs with putative brain regulatory mechanisms.
+
+AUTHORS:
+
+Lucas D. Ward
+Manolis Kellis
+
+KEYWORDS:
+
+gene expression
+attention-deficit/hyperactivity disorder
+chromatin
+tissue dissection
+genome
+haplotypes
+mining
+single nucleotide polymorphism
+translating
+brain
+genetics
+adult attention deficit hyperactivity disorder
+candidate disease gene
+genome-wide association study
+maps
+quantitative trait loci

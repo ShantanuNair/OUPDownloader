@@ -1,0 +1,35 @@
+TITLE: The EcoCyc database: reflecting new knowledge about Escherichia coli K-12
+ 
+EcoCyc (EcoCyc.org) is a freely accessible, comprehensive database that collects and summarizes experimental data for Escherichia coli K-12, the best-studied bacterial model organism. New experimental discoveries about gene products, their function and regulation, new metabolic pathways, enzymes and cofactors are regularly added to EcoCyc. New SmartTable tools allow users to browse collections of related EcoCyc content. SmartTables can also serve as repositories for user- or curator-generated lists. EcoCyc now supports running and modifying E. coli metabolic models directly on the EcoCyc website.
+
+AUTHORS:
+
+Ingrid M. Keseler
+Amanda Mackie
+Alberto Santos-Zavaleta
+Richard Billington
+César Bonavides-Martínez
+Ron Caspi
+Carol Fulcher
+Socorro Gama-Castro
+Anamika Kothari
+Markus Krummenacker
+Mario Latendresse
+Luis Muñiz-Rascado
+Quang Ong
+Suzanne Paley
+Martin Peralta-Gil
+Pallavi Subhraveti
+David A. Velázquez-Ramírez
+Daniel Weaver
+Julio Collado-Vides
+Ian Paulsen
+Peter D. Karp
+
+KEYWORDS:
+
+genes
+membrane transport proteins
+enzymes
+transcription factor
+escherichia coli

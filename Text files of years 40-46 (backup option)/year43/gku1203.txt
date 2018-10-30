@@ -1,0 +1,39 @@
+TITLE: InParanoid 8: orthology analysis between 273 proteomes, mostly eukaryotic
+ 
+The InParanoid database (http://InParanoid.sbc.su.se) provides a user interface to orthologs inferred by the InParanoid algorithm. As there are now international efforts to curate and standardize complete proteomes, we have switched to using these resources rather than gathering and curating the proteomes ourselves. InParanoid release 8 is based on the 66 reference proteomes that the ‘Quest for Orthologs’ community has agreed on using, plus 207 additional proteomes from the UniProt complete proteomes—in total 273 species. These represent 246 eukaryotes, 20 bacteria and seven archaea. Compared to the previous release, this increases the number of species by 173% and the number of pairwise species comparisons by 650%. In turn, the number of ortholog groups has increased by 423%. We present the contents and usages of InParanoid 8, and a detailed analysis of how the proteome content has changed since the previous release.
+
+AUTHORS:
+
+Erik L.L. Sonnhammer
+Gabriel Östlund
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

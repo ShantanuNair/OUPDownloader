@@ -1,0 +1,24 @@
+TITLE: NPIDB: nucleic acid—protein interaction database
+ 
+The Nucleic acid—Protein Interaction DataBase (http://npidb.belozersky.msu.ru/) contains information derived from structures of DNA–protein and RNA–protein complexes extracted from the Protein Data Bank (3846 complexes in October 2012). It provides a web interface and a set of tools for extracting biologically meaningful characteristics of nucleoprotein complexes. The content of the database is updated weekly. The current version of the Nucleic acid—Protein Interaction DataBase is an upgrade of the version published in 2007. The improvements include a new web interface, new tools for calculation of intermolecular interactions, a classification of SCOP families that contains DNA–binding protein domains and data on conserved water molecules on the DNA–protein interface.
+
+AUTHORS:
+
+Dmitry D. Kirsanov
+Olga N. Zanegina
+Evgeniy A. Aksianov
+Sergei A. Spirin
+Anna S. Karyagina
+Andrei V. Alexeevski
+
+KEYWORDS:
+
+databases
+dna
+dna-binding proteins
+nucleic acids
+nucleoproteins
+rna
+protein data bank
+molecule
+complex

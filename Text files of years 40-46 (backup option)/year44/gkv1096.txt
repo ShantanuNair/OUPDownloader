@@ -1,0 +1,21 @@
+TITLE: OpenTein: a database of digital whole-slide images of stem cell-derived teratomas
+ 
+Human stem cells are promising sources for regenerative therapy. To ensure safety of future therapeutic applications, the differentiation potency of stem cells has to be tested and be widely opened to the public. The potency is generally assessed by teratoma formation comprising differentiated cells from all three germ layers, and the teratomas can be inspected through high-quality digital images. The teratoma assay, however, lacks consistency in transplantation protocols and even in interpretation, which needs community-based efforts for improving the assay quality. Here, we have developed a novel database OpenTein (Open Teratoma Investigation, http://opentein.hgc.jp/) to archive and freely distribute high-resolution whole-slide images and relevant records. OpenTein has been designed as a searchable, zoomable and annotatable web-based repository system. We have deposited 468 images of teratomas derived by our transplantation of human stem cells, and users can freely access and process such digital teratoma images. Approximately, the current version of OpenTein responds within 11.2 min for processing 2.03 gigapixel teratoma images. Our system offers valuable tools and resources in the new era of stem cell biology.
+
+AUTHORS:
+
+Sung-Joon Park
+Yusuke Komiyama
+Hirofumi Suemori
+Akihiro Umezawa
+Kenta Nakai
+
+KEYWORDS:
+
+teratoma
+stem cells
+germ layers
+internet
+safety
+transplantation
+community

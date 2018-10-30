@@ -1,0 +1,26 @@
+TITLE: Rfam 11.0: 10 years of RNA families
+ 
+The Rfam database (available via the website at http://rfam.sanger.ac.uk and through our mirror at http://rfam.janelia.org) is a collection of non-coding RNA families, primarily RNAs with a conserved RNA secondary structure, including both RNA genes and mRNA cis-regulatory elements. Each family is represented by a multiple sequence alignment, predicted secondary structure and covariance model. Here we discuss updates to the database in the latest release, Rfam 11.0, including the introduction of genome-based alignments for large families, the introduction of the Rfam Biomart as well as other user interface improvements. Rfam is available under the Creative Commons Zero license.
+
+AUTHORS:
+
+Sarah W. Burge
+Jennifer Daub
+Ruth Eberhardt
+John Tate
+Lars Barquist
+Eric P. Nawrocki
+Sean R. Eddy
+Paul P. Gardner
+Alex Bateman
+
+KEYWORDS:
+
+genes
+genome
+licensure
+protein structure, secondary
+rna, messenger
+sequence alignment
+user-computer interface
+rna

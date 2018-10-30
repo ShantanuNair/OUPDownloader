@@ -1,0 +1,16 @@
+TITLE: REDIportal: a comprehensive database of A-to-I RNA editing events in humans
+ 
+RNA editing by A-to-I deamination is the prominent co-/post-transcriptional modification in humans. It is carried out by ADAR enzymes and contributes to both transcriptomic and proteomic expansion. RNA editing has pivotal cellular effects and its deregulation has been linked to a variety of human disorders including neurological and neurodegenerative diseases and cancer. Despite its biological relevance, many physiological and functional aspects of RNA editing are yet elusive. Here, we present REDIportal, available online at http://srv00.recas.ba.infn.it/atlas/, the largest and comprehensive collection of RNA editing in humans including more than 4.5 millions of A-to-I events detected in 55 body sites from thousands of RNAseq experiments. REDIportal embeds RADAR database and represents the first editing resource designed to answer functional questions, enabling the inspection and browsing of editing levels in a variety of human samples, tissues and body sites. In contrast with previous RNA editing databases, REDIportal comprises its own browser (JBrowse) that allows users to explore A-to-I changes in their genomic context, empathizing repetitive elements in which RNA editing is prominent.
+
+AUTHORS:
+
+Ernesto Picardi
+Anna Maria D'Erchia
+Claudio Lo Giudice
+Graziano Pesole
+
+KEYWORDS:
+
+genome
+radar
+rna editing

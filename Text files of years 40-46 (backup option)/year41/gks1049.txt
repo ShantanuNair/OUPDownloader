@@ -1,0 +1,23 @@
+TITLE: BRENDA in 2013: integrated reactions, kinetic data, enzyme function data, improved disease classification: new options and contents in BRENDA
+ 
+The BRENDA (BRaunschweig ENzyme DAtabase) enzyme portal (http://www.brenda-enzymes.org) is the main information system of functional biochemical and molecular enzyme data and provides access to seven interconnected databases. BRENDA contains 2.7 million manually annotated data on enzyme occurrence, function, kinetics and molecular properties. Each entry is connected to a reference and the source organism. Enzyme ligands are stored with their structures and can be accessed via their names, synonyms or via a structure search. FRENDA (Full Reference ENzyme DAta) and AMENDA (Automatic Mining of ENzyme DAta) are based on text mining methods and represent a complete survey of PubMed abstracts with information on enzymes in different organisms, tissues or organelles. The supplemental database DRENDA provides more than 910 000 new EC number–disease relations in more than 510 000 references from automatic search and a classification of enzyme–disease-related information. KENDA (Kinetic ENzyme DAta), a new amendment extracts and displays kinetic values from PubMed abstracts. The integration of the EnzymeDetector offers an automatic comparison, evaluation and prediction of enzyme function annotations for prokaryotic genomes. The biochemical reaction database BKM-react contains non-redundant enzyme-catalysed and spontaneous reactions and was developed to facilitate and accelerate the construction of biochemical models.
+
+AUTHORS:
+
+Ida Schomburg
+Antje Chang
+Sandra Placzek
+Carola Söhngen
+Michael Rother
+Maren Lang
+Cornelia Munaretto
+Susanne Ulas
+Michael Stelzer
+Andreas Grote
+Maurice Scheer
+Dietmar Schomburg
+
+KEYWORDS:
+
+enzymes
+kinetics

@@ -1,0 +1,24 @@
+TITLE: MalaCards: an amalgamated human disease compendium with diverse clinical and genetic annotation and structured search
+ 
+The MalaCards human disease database (http://www.malacards.org/) is an integrated compendium of annotated diseases mined from 68 data sources. MalaCards has a web card for each of ∼20 000 disease entries, in six global categories. It portrays a broad array of annotation topics in 15 sections, including Summaries, Symptoms, Anatomical Context, Drugs, Genetic Tests, Variations and Publications. The Aliases and Classifications section reflects an algorithm for disease name integration across often-conflicting sources, providing effective annotation consolidation. A central feature is a balanced Genes section, with scores reflecting the strength of disease-gene associations. This is accompanied by other gene-related disease information such as pathways, mouse phenotypes and GO-terms, stemming from MalaCards’ affiliation with the GeneCards Suite of databases. MalaCards’ capacity to inter-link information from complementary sources, along with its elaborate search function, relational database infrastructure and convenient data dumps, allows it to tackle its rich disease annotation landscape, and facilitates systems analyses and genome sequence interpretation. MalaCards adopts a ‘flat’ disease-card approach, but each card is mapped to popular hierarchical ontologies (e.g. International Classification of Diseases, Human Phenotype Ontology and Unified Medical Language System) and also contains information about multi-level relations among diseases, thereby providing an optimal tool for disease representation and scrutiny.
+
+AUTHORS:
+
+Noa Rappaport
+Michal Twik
+Inbar Plaschkes
+Ron Nudel
+Tsippi Iny Stein
+Jacob Levitt
+Moran Gershoni
+C. Paul Morrey
+Marilyn Safran
+Doron Lancet
+
+KEYWORDS:
+
+phenotype
+genes
+genome
+unified medical language system
+genetics

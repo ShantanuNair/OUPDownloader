@@ -1,0 +1,31 @@
+TITLE: The EBI enzyme portal
+ 
+The availability of comprehensive information about enzymes plays an important role in answering questions relevant to interdisciplinary fields such as biochemistry, enzymology, biofuels, bioengineering and drug discovery. At the EMBL European Bioinformatics Institute, we have developed an enzyme portal (http://www.ebi.ac.uk/enzymeportal) to provide this wealth of information on enzymes from multiple in-house resources addressing particular data classes: protein sequence and structure, reactions, pathways and small molecules. The fact that these data reside in separate databases makes information discovery cumbersome. The main goal of the portal is to simplify this process for end users.
+
+AUTHORS:
+
+Rafael Alcántara
+Joseph Onwubiko
+Hong Cao
+Paula de Matos
+Jennifer A. Cham
+Jules Jacobsen
+Gemma L. Holliday
+Julia D. Fischer
+Syed Asad Rahman
+Bijay Jassal
+Mikael Goujon
+Francis Rowland
+Sameer Velankar
+Rodrigo López
+John P. Overington
+Gerard J. Kleywegt
+Henning Hermjakob
+Claire O’Donovan
+María Jesús Martín
+Janet M. Thornton
+Christoph Steinbeck
+
+KEYWORDS:
+
+enzymes

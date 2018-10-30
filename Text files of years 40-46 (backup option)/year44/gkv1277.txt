@@ -1,0 +1,19 @@
+TITLE: STITCH 5: augmenting protein–chemical interaction networks with tissue and affinity data
+ 
+Interactions between proteins and small molecules are an integral part of biological processes in living organisms. Information on these interactions is dispersed over many databases, texts and prediction methods, which makes it difficult to get a comprehensive overview of the available evidence. To address this, we have developed STITCH (‘Search Tool for Interacting Chemicals’) that integrates these disparate data sources for 430 000 chemicals into a single, easy-to-use resource. In addition to the increased scope of the database, we have implemented a new network view that gives the user the ability to view binding affinities of chemicals in the interaction network. This enables the user to get a quick overview of the potential effects of the chemical on its interaction partners. For each organism, STITCH provides a global network; however, not all proteins have the same pattern of spatial expression. Therefore, only a certain subset of interactions can occur simultaneously. In the new, fifth release of STITCH, we have implemented functionality to filter out the proteins and chemicals not associated with a given tissue. The STITCH database can be downloaded in full, accessed programmatically via an extensive API, or searched via a redesigned web interface at http://stitch.embl.de.
+
+AUTHORS:
+
+Damian Szklarczyk
+Alberto Santos
+Christian von Mering
+Lars Juhl Jensen
+Peer Bork
+Michael Kuhn
+
+KEYWORDS:
+
+chemical interactions
+affinity
+filters
+molecule

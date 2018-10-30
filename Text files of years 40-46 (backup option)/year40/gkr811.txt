@@ -1,0 +1,26 @@
+TITLE: Protein Data Bank Japan (PDBj): maintaining a structural data archive and resource description framework format
+ 
+The Protein Data Bank Japan (PDBj, http://pdbj.org) is a member of the worldwide Protein Data Bank (wwPDB) and accepts and processes the deposited data of experimentally determined macromolecular structures. While maintaining the archive in collaboration with other wwPDB partners, PDBj also provides a wide range of services and tools for analyzing structures and functions of proteins, which are summarized in this article. To enhance the interoperability of the PDB data, we have recently developed PDB/RDF, PDB data in the Resource Description Framework (RDF) format, along with its ontology in the Web Ontology Language (OWL) based on the PDB mmCIF Exchange Dictionary. Being in the standard format for the Semantic Web, the PDB/RDF data provide a means to integrate the PDB with other biological information resources.
+
+AUTHORS:
+
+Akira R. Kinjo
+Hirofumi Suzuki
+Reiko Yamashita
+Yasuyo Ikegawa
+Takahiro Kudou
+Reiko Igarashi
+Yumiko Kengaku
+Hasumi Cho
+Daron M. Standley
+Atsushi Nakagawa
+Haruki Nakamura
+
+KEYWORDS:
+
+dictionaries
+languages
+strigiformes
+semantics
+information resources
+protein data bank

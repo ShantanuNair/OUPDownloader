@@ -1,0 +1,59 @@
+TITLE: AnimalTFDB 2.0: a resource for expression, prediction and functional study of animal transcription factors
+ 
+Transcription factors (TFs) are key regulators for gene expression. Here we updated the animal TF database AnimalTFDB to version 2.0 (http://bioinfo.life.hust.edu.cn/AnimalTFDB/). Using the improved prediction pipeline, we identified 72 336 TF genes, 21 053 transcription co-factor genes and 6502 chromatin remodeling factor genes from 65 species covering main animal lineages. Besides the abundant annotations (basic information, gene model, protein functional domain, gene ontology, pathway, protein interaction, ortholog and paralog, etc.) in the previous version, we made several new features and functions in the updated version. These new features are: (i) gene expression from RNA-Seq for nine model species, (ii) gene phenotype information, (iii) multiple sequence alignment of TF DNA-binding domains, and the weblogo and phylogenetic tree based on the alignment, (iv) a TF prediction server to identify new TFs from input sequences and (v) a BLAST server to search against TFs in AnimalTFDB. A new nice web interface was designed for AnimalTFDB 2.0 allowing users to browse and search all data in the database. We aim to maintain the AnimalTFDB as a solid resource for TF identification and studies of transcription regulation and comparative genomics.
+
+AUTHORS:
+
+Hong-Mei Zhang
+Teng Liu
+Chun-Jie Liu
+Shuangyang Song
+Xiantong Zhang
+Wei Liu
+Haibo Jia
+Yu Xue
+An-Yuan Guo
+
+KEYWORDS:
+
+phenotype
+gene expression
+chromatin
+dna
+genes
+genome
+genomics
+sequence alignment
+trees (plant)
+transcription factor
+rna
+transcriptional control
+basic local alignment search tool
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

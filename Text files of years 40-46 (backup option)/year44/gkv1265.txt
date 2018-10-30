@@ -1,0 +1,15 @@
+TITLE: piRNA cluster database: a web resource for piRNA producing loci
+ 
+Piwi proteins and their guiding small RNAs, termed Piwi-interacting (pi-) RNAs, are essential for silencing of transposons in the germline of animals. A substantial fraction of piRNAs originates from genomic loci termed piRNA clusters and sequences encoded in these piRNA clusters determine putative targets for the Piwi/piRNA system. In the past decade, studies of piRNA transcriptomes in different species revealed additional roles for piRNAs beyond transposon silencing, reflecting the astonishing plasticity of the Piwi/piRNA system along different phylogenetic branches. Moreover, piRNA transcriptomes can change drastically during development and vary across different tissues.
+
+AUTHORS:
+
+David Rosenkranz
+
+KEYWORDS:
+
+genome
+developmental stages
+rna, small
+dna transposons
+datasets

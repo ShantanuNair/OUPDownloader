@@ -1,0 +1,40 @@
+TITLE: Cancer3D: understanding cancer mutations through protein structures
+ 
+The new era of cancer genomics is providing us with extensive knowledge of mutations and other alterations in cancer. The Cancer3D database at http://www.cancer3d.org gives an open and user-friendly way to analyze cancer missense mutations in the context of structures of proteins in which they are found. The database also helps users analyze the distribution patterns of the mutations as well as their relationship to changes in drug activity through two algorithms: e-Driver and e-Drug. These algorithms use knowledge of modular structure of genes and proteins to separately study each region. This approach allows users to find novel candidate driver regions or drug biomarkers that cannot be found when similar analyses are done on the whole-gene level. The Cancer3D database provides access to the results of such analyses based on data from The Cancer Genome Atlas (TCGA) and the Cancer Cell Line Encyclopedia (CCLE). In addition, it displays mutations from over 14 700 proteins mapped to more than 24 300 structures from PDB. This helps users visualize the distribution of mutations and identify novel three-dimensional patterns in their distribution.
+
+AUTHORS:
+
+Eduard Porta-Pardo
+Thomas Hrabe
+Adam Godzik
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

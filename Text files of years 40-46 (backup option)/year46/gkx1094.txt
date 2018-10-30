@@ -1,0 +1,20 @@
+TITLE: GenBank
+ 
+GenBank® (www.ncbi.nlm.nih.gov/genbank/) is a comprehensive database that contains publicly available nucleotide sequences for 400 000 formally described species. These sequences are obtained primarily through submissions from individual laboratories and batch submissions from large-scale sequencing projects, including whole genome shotgun and environmental sampling projects. Most submissions are made using BankIt, the National Center for Biotechnology Information (NCBI) Submission Portal, or the tool tbl2asn. GenBank staff assign accession numbers upon data receipt. Daily data exchange with the European Nucleotide Archive and the DNA Data Bank of Japan ensures worldwide coverage. GenBank is accessible through the NCBI Nucleotide database, which links to related information such as taxonomy, genomes, protein sequences and structures, and biomedical journal literature in PubMed. BLAST provides sequence similarity searches of GenBank and other sequence databases. Complete bimonthly releases and daily updates of the GenBank database are available by FTP. Recent updates include changes to sequence identifiers, submission wizards for 16S and Influenza sequences, and an Identical Protein Groups resource.
+
+AUTHORS:
+
+Dennis A Benson
+Mark Cavanaugh
+Karen Clark
+Ilene Karsch-Mizrachi
+James Ostell
+Kim D Pruitt
+Eric W Sayers
+
+KEYWORDS:
+
+genome
+united states national institutes of health
+national library of medicine (u.s.)
+genbank

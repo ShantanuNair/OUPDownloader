@@ -1,0 +1,61 @@
+TITLE: Content discovery and retrieval services at the European Nucleotide Archive
+ 
+The European Nucleotide Archive (ENA; http://www.ebi.ac.uk/ena) is Europe's primary resource for nucleotide sequence information. With the growing volume and diversity of public sequencing data comes the need for increased sophistication in data organisation, presentation and search services so as to maximise its discoverability and usability. In response to this, ENA has been introducing and improving checklists for use during submission and expanding its search facilities to provide targeted search results. Here, we give a brief update on ENA content and some major developments undertaken in data submission services during 2014. We then describe in more detail the services we offer for data discovery and retrieval.
+
+AUTHORS:
+
+Nicole Silvester
+Blaise Alako
+Clara Amid
+Ana Cerdeño-Tárraga
+Iain Cleland
+Richard Gibson
+Neil Goodgame
+Petra ten Hoopen
+Simon Kay
+Rasko Leinonen
+Weizhong Li
+Xin Liu
+Rodrigo Lopez
+Nima Pakseresht
+Swapna Pallreddy
+Sheila Plaister
+Rajesh Radhakrishnan
+Marc Rossello
+Alexander Senf
+Dmitriy Smirnov
+Ana Luisa Toribio
+Daniel Vaughan
+Vadim Zalunin
+Guy Cochrane
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

@@ -1,0 +1,21 @@
+TITLE: FlyRNAi.org—the database of the Drosophila RNAi screening center: 2012 update
+ 
+FlyRNAi (http://www.flyrnai.org), the database and website of the Drosophila RNAi Screening Center (DRSC) at Harvard Medical School, serves a dual role, tracking both production of reagents for RNA interference (RNAi) screening in Drosophila cells and RNAi screen results. The database and website is used as a platform for community availability of protocols, tools, and other resources useful to researchers planning, conducting, analyzing or interpreting the results of Drosophila RNAi screens. Based on our own experience and user feedback, we have made several changes. Specifically, we have restructured the database to accommodate new types of reagents; added information about new RNAi libraries and other reagents; updated the user interface and website; and added new tools of use to the Drosophila community and others. Overall, the result is a more useful, flexible and comprehensive website and database.
+
+AUTHORS:
+
+Ian T. Flockhart
+Matthew Booker
+Yanhui Hu
+Benjamin McElvany
+Quentin Gilly
+Bernard Mathey-Prevot
+Norbert Perrimon
+Stephanie E. Mohr
+
+KEYWORDS:
+
+drosophila
+libraries
+rna interference
+community

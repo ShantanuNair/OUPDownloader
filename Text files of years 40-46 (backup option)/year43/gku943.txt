@@ -1,0 +1,44 @@
+TITLE: EpilepsyGene: a genetic resource for genes and mutations related to epilepsy
+ 
+Epilepsy is one of the most prevalent chronic neurological disorders, afflicting about 3.5–6.5 per 1000 children and 10.8 per 1000 elderly people. With intensive effort made during the last two decades, numerous genes and mutations have been published to be associated with the disease. An organized resource integrating and annotating the ever-increasing genetic data will be imperative to acquire a global view of the cutting-edge in epilepsy research. Herein, we developed EpilepsyGene (http://61.152.91.49/EpilepsyGene). It contains cumulative to date 499 genes and 3931 variants associated with 331 clinical phenotypes collected from 818 publications. Furthermore, in-depth data mining was performed to gain insights into the understanding of the data, including functional annotation, gene prioritization, functional analysis of prioritized genes and overlap analysis focusing on the comorbidity. An intuitive web interface to search and browse the diversified genetic data was also developed to facilitate access to the data of interest. In general, EpilepsyGene is designed to be a central genetic database to provide the research community substantial convenience to uncover the genetic basis of epilepsy.
+
+AUTHORS:
+
+Xia Ran
+Jinchen Li
+Qianzhi Shao
+Huiqian Chen
+Zhongdong Lin
+Zhong Sheng Sun
+Jinyu Wu
+
+KEYWORDS:
+
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

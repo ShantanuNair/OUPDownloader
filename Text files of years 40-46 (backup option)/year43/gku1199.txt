@@ -1,0 +1,45 @@
+TITLE: ChiTaRS 2.1—an improved database of the chimeric transcripts and RNA-seq data with novel sense–antisense chimeric RNA transcripts
+ 
+Chimeric RNAs that comprise two or more different transcripts have been identified in many cancers and among the Expressed Sequence Tags (ESTs) isolated from different organisms; they might represent functional proteins and produce different disease phenotypes. The ChiTaRS 2.1 database of chimeric transcripts and RNA-Seq data (http://chitars.bioinfo.cnio.es/) is the second version of the ChiTaRS database and includes improvements in content and functionality. Chimeras from eight organisms have been collated including novel sense–antisense (SAS) chimeras resulting from the slippage of the sense and anti-sense intragenic regions. The new database version collects more than 29 000 chimeric transcripts and indicates the expression and tissue specificity for 333 entries confirmed by RNA-seq reads mapping the chimeric junction sites. User interface allows for rapid and easy analysis of evolutionary conservation of fusions, literature references and experimental data supporting fusions in different organisms. More than 1428 cancer breakpoints have been automatically collected from public databases and manually verified to identify their correct cross-references, genomic sequences and junction sites. As a result, the ChiTaRS 2.1 collection of chimeras from eight organisms and human cancer breakpoints extends our understanding of the evolution of chimeric transcripts in eukaryotes as well as their functional role in carcinogenic processes.
+
+AUTHORS:
+
+Milana Frenkel-Morgenstern
+Alessandro Gorohovski
+Dunja Vucenovic
+Lorena Maestre
+Alfonso Valencia
+
+KEYWORDS:
+
+cancer
+chimera organism
+rna
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

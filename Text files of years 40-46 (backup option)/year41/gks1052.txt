@@ -1,0 +1,37 @@
+TITLE: RNApathwaysDB—a database of RNA maturation and decay pathways
+ 
+Many RNA molecules undergo complex maturation, involving e.g. excision from primary transcripts, removal of introns, post-transcriptional modification and polyadenylation. The level of mature, functional RNAs in the cell is controlled not only by the synthesis and maturation but also by degradation, which proceeds via many different routes. The systematization of data about RNA metabolic pathways and enzymes taking part in RNA maturation and degradation is essential for the full understanding of these processes. RNApathwaysDB, available online at http://iimcb.genesilico.pl/rnapathwaysdb, is an online resource about maturation and decay pathways involving RNA as the substrate. The current release presents information about reactions and enzymes that take part in the maturation and degradation of tRNA, rRNA and mRNA, and describes pathways in three model organisms: Escherichia coli, Saccharomyces cerevisiae and Homo sapiens. RNApathwaysDB can be queried with keywords, and sequences of protein enzymes involved in RNA processing can be searched with BLAST. Options for data presentation include pathway graphs and tables with enzymes and literature data. Structures of macromolecular complexes involving RNA and proteins that act on it are presented as ‘potato models’ using DrawBioPath—a new javascript tool.
+
+AUTHORS:
+
+Kaja Milanowska
+Katarzyna Mikolajczak
+Anna Lukasik
+Marcin Skorupski
+Zuzanna Balcer
+Magdalena A. Machnicka
+Martyna Nowacka
+Kristian M. Rother
+Janusz M. Bujnicki
+
+KEYWORDS:
+
+transcription, genetic
+human
+introns
+polyadenylation
+potato
+rna processing, post-transcriptional
+rna, messenger
+ribosomal rna
+transfer rna
+saccharomyces cerevisiae
+enzymes
+rna
+escherichia coli
+graphical displays
+excision
+basic local alignment search tool
+catabolism
+molecule
+complex

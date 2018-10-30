@@ -1,0 +1,49 @@
+TITLE: euL1db: the European database of L1HS retrotransposon insertions in humans
+ 
+Retrotransposons account for almost half of our genome. They are mobile genetics elements—also known as jumping genes—but only the L1HS subfamily of Long Interspersed Nuclear Elements (LINEs) has retained the ability to jump autonomously in modern humans. Their mobilization in germline—but also some somatic tissues—contributes to human genetic diversity and to diseases, such as cancer. Here, we present euL1db, the European database of L1HS retrotransposon insertions in humans (available at http://euL1db.unice.fr). euL1db provides a curated and comprehensive summary of L1HS insertion polymorphisms identified in healthy or pathological human samples and published in peer-reviewed journals. A key feature of euL1db is its sample-wise organization. Hence L1HS insertion polymorphisms are connected to samples, individuals, families and clinical conditions. The current version of euL1db centralizes results obtained in 32 studies. It contains >900 samples, >140 000 sample-wise insertions and almost 9000 distinct merged insertions. euL1db will help understanding the link between L1 retrotransposon insertion polymorphisms and phenotype or disease.
+
+AUTHORS:
+
+Ashfaq A. Mir
+Claude Philippe
+Gaël Cristofari
+
+KEYWORDS:
+
+phenotype
+polymorphism
+cancer
+databases
+genome
+interspersed repetitive sequences
+long interspersed nucleotide elements
+peer review
+genetics
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

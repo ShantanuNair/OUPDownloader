@@ -1,0 +1,48 @@
+TITLE: The human DEPhOsphorylation database DEPOD: a 2015 update
+ 
+Phosphatases are crucial enzymes in health and disease, but the knowledge of their biological roles is still limited. Identifying substrates continues to be a great challenge. To support the research on phosphatase–kinase–substrate networks we present here an update on the human DEPhOsphorylation Database: DEPOD (http://www.depod.org or http://www.koehn.embl.de/depod). DEPOD is a manually curated open access database providing human phosphatases, their protein and non-protein substrates, dephosphorylation sites, pathway involvements and external links to kinases and small molecule modulators. All internal data are fully searchable including a BLAST application. Since the first release, more human phosphatases and substrates, their associated signaling pathways (also from new sources), and interacting proteins for all phosphatases and protein substrates have been added into DEPOD. The user interface has been further optimized; for example, the interactive human phosphatase–substrate network contains now a ‘highlight node’ function for phosphatases, which includes the visualization of neighbors in the network.
+
+AUTHORS:
+
+Guangyou Duan
+Xun Li
+Maja Köhn
+
+KEYWORDS:
+
+phosphoric monoester hydrolases
+phosphotransferases
+user-computer interface
+enzymes
+signal pathway
+signal transduction pathways
+small molecule
+basic local alignment search tool
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression

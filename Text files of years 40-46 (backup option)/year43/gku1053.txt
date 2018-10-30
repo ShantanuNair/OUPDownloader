@@ -1,0 +1,53 @@
+TITLE: AraNet v2: an improved database of co-functional gene networks for the study of Arabidopsis thaliana and 27 other nonmodel plant species
+ 
+Arabidopsis thaliana is a reference plant that has been studied intensively for several decades. Recent advances in high-throughput experimental technology have enabled the generation of an unprecedented amount of data from A. thaliana, which has facilitated data-driven approaches to unravel the genetic organization of plant phenotypes. We previously published a description of a genome-scale functional gene network for A. thaliana, AraNet, which was constructed by integrating multiple co-functional gene networks inferred from diverse data types, and we demonstrated the predictive power of this network for complex phenotypes. More recently, we have observed significant growth in the availability of omics data for A. thaliana as well as improvements in data analysis methods that we anticipate will further enhance the integrated database of co-functional networks. Here, we present an updated co-functional gene network for A. thaliana, AraNet v2 (available at http://www.inetbio.org/aranet), which covers approximately 84% of the coding genome. We demonstrate significant improvements in both genome coverage and accuracy. To enhance the usability of the network, we implemented an AraNet v2 web server, which generates functional predictions for A. thaliana and 27 nonmodel plant species using an orthology-based projection of nonmodel plant genes on the A. thaliana gene network.
+
+AUTHORS:
+
+Tak Lee
+Sunmo Yang
+Eiru Kim
+Younhee Ko
+Sohyun Hwang
+Junha Shin
+Jung Eun Shim
+Hongseok Shim
+Hyojin Kim
+Chanyoung Kim
+Insuk Lee
+
+KEYWORDS:
+
+phenotype
+arabidopsis
+genes
+genome
+plants
+Synthetic Biology and Assembly Cloning
+Mutagenesis
+New Restriction Enzymes
+Nucleic acid amplification
+Nucleic acid modification
+Nucleic acid structure
+Polymorphism/mutation detection
+Protein-nucleic acid interaction
+Protein-protein interaction
+Recombinant DNA expression
+Recombination
+Cell biology
+Repair
+Replication
+RNA characterisation and manipulation
+Computational Methods
+Microarray Technology
+Targeted inhibition of gene function
+Ribosomes and Protein Translation
+Massively Parallel (Deep) Sequencing
+Targeted gene modification
+Chromatin and Epigenetics
+Physical and Biochemical Characterisation of DNA
+DNA-Mediated Cell Transformation and Nucleic Acids Transfer
+Nucleic Acid Enzymology
+Genomics
+Miscellaneous/other
+Transcriptome Mapping - Monitoring Gene Expression
