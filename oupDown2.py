@@ -54,9 +54,10 @@ def getDoi(year,issue,page):
      soup = BeautifulSoup(page, features="html.parser")
      save_data = {}
     # print soup.body
-     is_captcha_on_page = soup.find(attrs={'class': 'abstract'}) is None
-     if is_captcha_on_page:
-       print "ERROR: Captcha showed up!"
+     is_noAbstract = soup.find(attrs={'class': 'abstract'}) is None
+     if is_noAbstract:
+       print "No abstract found so skipping this url link"
+       continue
      abstract = soup.find(attrs={'class': 'abstract'}).p
      title = soup.find(attrs={'class': 'article-title-main'})
      authors = soup.select(".linked-name")
