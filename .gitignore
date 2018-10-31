@@ -94,6 +94,8 @@ celerybeat-schedule
 # Environments
 .env
 .venv
+.idea/
+.vscode/
 env/
 venv/
 ENV/
@@ -133,4 +135,5 @@ dmypy.json
 pyvenv.cfg
 pip-selfcheck.json
 
+.DS_Store
 # End of https://www.gitignore.io/api/python
