@@ -14,7 +14,6 @@ from thread import start_new_thread
 def getDoi(year, issue, pagenum):
     #year = '45'
     #issue = 'D1'
-    # time.sleep(random.randint(2,5))
     pagenum = '1'
     foldername = 'year'+year
     response = requests.post("https://wrapapi.com/use/sjn/testoup/oup/0.0.7", json={
@@ -54,11 +53,13 @@ def getDoi(year, issue, pagenum):
             if os.path.isfile(filename):
               print uniqueIdentifier + " already exists. Skipping."
               continue 
+            
+            time.sleep(random.randint(2,5))
 
             headers = {
                 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
             ua = UserAgent()
-            header = {'User-Agent': str(ua.random)}
+            header = {'User-Agent': str(ua.chrome)}
 
             request = urllib2.Request(url, headers=header)
             page = urllib2.urlopen(request).read()
@@ -66,14 +67,16 @@ def getDoi(year, issue, pagenum):
             soup = BeautifulSoup(page, features="html.parser")
             save_data = {}
             is_noAbstract = soup.find(attrs={'class': 'abstract'}) is None
-            is_captcha_on_page = soup.find("div", {"id": "catptcha"}) is None
+            # is_captcha_on_page = soup.find("div", {"id": "catptcha"}) is not None
+            is_captcha_on_page = soup.find(id="captcha") is not None
+            
 
             if is_noAbstract:
-                #  print soup.body
+                # print soup.body
                 if is_captcha_on_page:
                     print "Catptcha found on page. Skipping this url. url=" + url
                     continue
-                print "No abstract found so skipping this url link. url=" + url
+                print "No abstract found so skipping this url link. url=" + str(is_captcha_on_page)
                 continue
 
             abstract = soup.find(attrs={'class': 'abstract'}).p
@@ -115,13 +118,16 @@ def getDoi(year, issue, pagenum):
 if __name__ == "__main__":
     # # for i in range(43,47):
     # getDoi(str(43), "D1", "1")
-    # getDoi(str(43), "D1", "2")
+    # getDoi(str(43), "D1", "2")g
 
     # for i in range(32,40):
    # getDoi(str(i),"suppl_1","1")
-    for i in range(24, 35):
-        # getDoi(str(i), "1", "1")
-        # getDoi(str(i), "1", "2")
-        start_new_thread(getDoi, (str(i), "1", '1'))
-        start_new_thread(getDoi, (str(i), "1", '2'))
+    # for i in range(24, 31):
+    #     getDoi(str(i), "1", "1")
+    #     getDoi(str(i), "1", "2")
+        # start_new_thread(getDoi, (str(i), "1", '1'))
+        # start_new_thread(getDoi, (str(i), "1", '2'))
+    for i in range(32,40):
+        getDoi(str(i),"suppl_1","1")
+        getDoi(str(i),"suppl_1","2")
 c = raw_input("Type something to quit.")
