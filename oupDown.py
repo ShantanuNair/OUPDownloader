@@ -11,16 +11,16 @@ import random
 from thread import start_new_thread
 
 
-def getDoi(year, issue, page):
+def getDoi(year, issue, pagenum):
     #year = '45'
     #issue = 'D1'
     # time.sleep(random.randint(2,5))
-    page = '1'
+    pagenum = '1'
     foldername = 'year'+year
     response = requests.post("https://wrapapi.com/use/sjn/testoup/oup/0.0.7", json={
         "year": year,
         "issue": issue,
-        "page": page,
+        "page": pagenum,
         "wrapAPIKey": "8X6fUU7zDvhD0I8M7AXGDbj5yK4sT8xX"
     })
     # json_data = json.loads(response.text)
@@ -29,8 +29,8 @@ def getDoi(year, issue, page):
     print jason_data['data']['DOIs'][0]
     DOIs = []
     for doi in jason_data['data']["DOIs"]:
-        print doi.split("\'")[0]
         url = doi.split("\'")[0]
+        print url
         DOIs.append(url)
 
     abstracts = []
@@ -109,6 +109,7 @@ def getDoi(year, issue, page):
             print url + \
                 " NOT PROCESSED! (No Abstract Found) isCaptcha=" + \
                 is_captcha_on_page
+    print "Done processing year " + year + " page " + pagenum
 
 
 if __name__ == "__main__":
