@@ -1,4 +1,5 @@
 
+from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
 import requests
 import urllib2
@@ -7,6 +8,7 @@ import errno
 import json
 import time
 import random
+from thread import start_new_thread
 
 
 def getDoi(year, issue, page):
@@ -47,9 +49,18 @@ def getDoi(year, issue, page):
         # captcha
         # time.sleep(random.randint(2,5))
         try:
-            headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
+            uniqueIdentifier = url[url.rfind('/')+1:]
+            filename = foldername + '/' + uniqueIdentifier + ".json"
+            if os.path.isfile(filename):
+              print uniqueIdentifier + " already exists. Skipping."
+              continue 
 
-            request = urllib2.Request(url, headers=headers)
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
+            ua = UserAgent()
+            header = {'User-Agent': str(ua.random)}
+
+            request = urllib2.Request(url, headers=header)
             page = urllib2.urlopen(request).read()
 
             soup = BeautifulSoup(page, features="html.parser")
@@ -58,13 +69,13 @@ def getDoi(year, issue, page):
             is_captcha_on_page = soup.find("div", {"id": "catptcha"}) is None
 
             if is_noAbstract:
-              #  print soup.body
+                #  print soup.body
                 if is_captcha_on_page:
-                  print "Catptcha found on page. Skipping this url. url=" + url
-                  continue
+                    print "Catptcha found on page. Skipping this url. url=" + url
+                    continue
                 print "No abstract found so skipping this url link. url=" + url
                 continue
-            
+
             abstract = soup.find(attrs={'class': 'abstract'}).p
             title = soup.find(attrs={'class': 'article-title-main'})
             authors = soup.select(".linked-name")
@@ -77,8 +88,7 @@ def getDoi(year, issue, page):
                 keywords = ld_json_data['keywords']
             if('about' in ld_json_data):
                 about = ld_json_data['about']
-            uniqueIdentifier = url[url.rfind('/')+1:]
-            filename = foldername + '/' + uniqueIdentifier + ".json"
+            
             save_data['title'] = title.text.encode('utf-8')
             save_data['abstract'] = abstract.text.encode('utf-8')
             save_data['authors'] = [author.text.encode(
@@ -102,9 +112,15 @@ def getDoi(year, issue, page):
 
 
 if __name__ == "__main__":
-    # for i in range(43,47):
-    getDoi(str(43), "D1", "1")
-    getDoi(str(43), "D1", "2")
+    # # for i in range(43,47):
+    # getDoi(str(43), "D1", "1")
+    # getDoi(str(43), "D1", "2")
 
     # for i in range(32,40):
-   # getDoi(str(i),"suppl_1","1");
+   # getDoi(str(i),"suppl_1","1")
+    for i in range(24, 35):
+        getDoi(str(i), "1", "1")
+        getDoi(str(i), "1", "2")
+        # start_new_thread(getDoi, (str(i), "1", '1'))
+        # start_new_thread(getDoi, (str(i), "1", '2'))
+c = raw_input("Type something to quit.")
