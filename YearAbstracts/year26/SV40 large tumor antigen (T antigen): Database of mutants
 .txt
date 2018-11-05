@@ -1,0 +1,1 @@
+ The SV40 T antigen database ( http://www.pitt.edu/~pipaslab/ ) lists viruses and plasmids expressing mutant forms of large T antigen. Each entry contains information regarding the mutant designation, mutant type, virus strain, nucleotide change, amino acid change and pertinent references. The database is now available as an internet searchable index. 

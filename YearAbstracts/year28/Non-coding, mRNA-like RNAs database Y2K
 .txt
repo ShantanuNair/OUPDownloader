@@ -1,0 +1,1 @@
+In last few years much data has accumulated on various non-translatable RNA transcripts that are synthesised in different cells. They are lacking in protein coding capacity and it seems that they work mainly or exclusively at the RNA level. All known non-coding RNA transcripts are collected in the database: http://www.man.poznan.pl/5SData/ncRNA/index.html 

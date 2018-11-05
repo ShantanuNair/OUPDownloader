@@ -1,0 +1,1 @@
+The uRNADB provides aligned, annotated and phy-logenetically ordered sequences of the uRNAs. At the time of manuscript submission (August 1995) it contained sequences for U1 (78 sequences), U2 (80), U3 (20), U4 (38), U5 (37) and U6 (46). Additional uRNAs of interest will be available by the time you read this.

@@ -1,0 +1,1 @@
+ The PROMISE ( Pro sthetic centres and m etal i ons in protein active s it e s) database aims to gather together comprehensive sequence, structural, functional and bibliographic information on proteins which possess prosthetic centres, with an emphasis on active site structure and function. The database is available on the World Wide Web at http://www.bioinf.leeds.ac.uk/promise/

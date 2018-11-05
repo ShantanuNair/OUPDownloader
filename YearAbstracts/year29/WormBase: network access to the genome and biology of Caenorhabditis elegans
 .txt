@@ -1,0 +1,1 @@
+WormBase (http://www.wormbase.org) is a web-based resource for the Caenorhabditis elegans genome and its biology. It builds upon the existing ACeDB database of the C.elegans genome by providing data curation services, a significantly expanded range of subject areas and a user-friendly front end.

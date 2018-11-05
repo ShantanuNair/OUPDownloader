@@ -1,0 +1,1 @@
+TRANSFAC is a database about eukaryotic transcription regulating DNA sequence elements and the transcription factors binding to and acting through them. This report summarizes the present status of this database and accompanying retrieval tools.

@@ -1,0 +1,1 @@
+A database is described in which over 700 mutations in the human APC gene of tumors (colon cancer predominantly) are compiled from the literature. It includes both molecular informations about the mutations and also clinical data about the patients. A software have been designed in order to analyse all these informations in the database.

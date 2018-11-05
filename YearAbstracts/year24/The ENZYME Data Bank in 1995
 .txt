@@ -1,0 +1,1 @@
+ The ENZYME data bank is a repository of information relative to the nomenclature of enzymes. The current version (October 1995) contains information relevant to 3594 enzymes. It is available from a variety of file and ftp servers as well as through the ExPASy World Wide Web server ( http://expasy.hcuge.ch/ ). 

@@ -1,0 +1,1 @@
+ SWISS-2DPAGE is a database of proteins identified on two-dimensional polyacrylamide gel electrophoresis (2-D PAGE). The current release contains 343 entries of human, yeast ( Saccharomyces cerevisiae ) and Escherichia coli origin , as well as virtual entries for each of the protein sequences in the SWISS-PROT database. 

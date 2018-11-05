@@ -1,0 +1,1 @@
+ Sequences of 3279 sequences of tRNA genes and tRNAs published up to December 1996 are included in the compilation. Alignment of the sequences, which is most compatible with the tRNA phylogeny and known three-dimensional structures of tRNA, is used. Sequences and references are available under http://www.uni-bayreuth.de/departments/biochemie/trna/

@@ -1,0 +1,1 @@
+The Database of Ribosomal Cross-links (DRC) was created in 1997. Here we describe new data incorporated into this database and several new features of the DRC. The DRC is freely available via World Wide Web at http://visitweb.com/database/ or http://www.mpimg-berlin-dahlem.mpg.de/~ag_ribo/ag_brimacombe/drc/

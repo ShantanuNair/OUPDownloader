@@ -1,0 +1,1 @@
+The Signal Recognition Particle Database (SRPDB) provides aligned SRP RNA and SRP protein sequences, annotated and phylogenetically ordered. The current release includes 93 RNAs and 29 proteins representing SRP9, SRP14, SRP19, SRP21, SRP54, SRP68 and SRP72. The SRPDB can be downloaded and is accessible via the World Wide Web.

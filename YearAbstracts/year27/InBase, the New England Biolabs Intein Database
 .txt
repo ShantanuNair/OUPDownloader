@@ -1,0 +1,1 @@
+Inteins are intervening sequences that splice as proteins, not RNA. InBase, the New England Biolabs Intein Database (http://www.neb.com/neb/inteins.html), is a comprehensive on-line database that includes the Intein Registry, along with detailed information about each intein and its host protein, tabulated comparisons and a comprehensive bibliography including papers in press.

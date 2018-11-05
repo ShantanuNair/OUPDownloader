@@ -1,0 +1,1 @@
+The Exon/Intron Database (ExInt) stores information of all GenBank eukaryotic entries containing an annotated intron sequence. Data are available through a retrieval system, as flat-files and as a MySQL dump file. In this report we discuss several implementations added to ExInt, which is accessible at http://intron.bic.nus.edu.sg/exint/newexint/exint.html.

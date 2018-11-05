@@ -1,0 +1,1 @@
+ The Blocks Database contains multiple alignments of conserved regions in protein families. The database can be searched by e-mail and World Wide Web (WWW) servers ( http://blocks.fhcrc.org/help ) to classify protein and nucleotide sequences. 

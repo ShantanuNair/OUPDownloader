@@ -1,0 +1,1 @@
+The ENZYME database is a repository of information related to the nomenclature of enzymes. In recent years it has became an indispensable resource for the development of metabolic databases. The current version contains information on 3705 enzymes. It is available through the ExPASy WWW server (http://www. expasy.ch/enzyme/ ).
