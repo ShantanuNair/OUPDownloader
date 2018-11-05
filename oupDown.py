@@ -59,7 +59,7 @@ def getDoi(year, issue, pagenum):
             headers = {
                 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
             ua = UserAgent()
-            header = {'User-Agent': str(ua.chrome)}
+            header = {'User-Agent': str(ua.safari)}
 
             request = urllib2.Request(url, headers=header)
             page = urllib2.urlopen(request).read()
@@ -106,12 +106,9 @@ def getDoi(year, issue, pagenum):
                 json.dump(save_data, file)
 
         except IOError as e:
-            is_captcha_on_page = soup.find(
-                "input", id="recaptcha-token") is not None
-
             print url + \
                 " NOT PROCESSED! (No Abstract Found) isCaptcha=" + \
-                is_captcha_on_page
+                str(is_captcha_on_page)
     print "Done processing year " + year + " page " + pagenum
 
 
@@ -128,6 +125,9 @@ if __name__ == "__main__":
         # start_new_thread(getDoi, (str(i), "1", '1'))
         # start_new_thread(getDoi, (str(i), "1", '2'))
     for i in range(32,40):
-        getDoi(str(i),"suppl_1","1")
-        getDoi(str(i),"suppl_1","2")
+        # getDoi(str(i),"suppl_1","1")
+        # getDoi(str(i),"suppl_1","2")
+        start_new_thread(getDoi, (str(i), "suppl_1", '1'))
+        start_new_thread(getDoi, (str(i), "suppl_1", '2'))
+        
 c = raw_input("Type something to quit.")
