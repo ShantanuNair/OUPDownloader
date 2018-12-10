@@ -9,7 +9,7 @@ import random
 # Set file names for train and test data
 test_data_dir = '{}'.format(os.sep).join([gensim.__path__[0], 'test', 'test_data'])
 lee_train_file ='abstracts.cor'
-lee_test_file = test_data_dir + os.sep + 'lee.cor'
+lee_test_file = 'test.cor'
 print("corpus: " + lee_train_file)
 def read_corpus(fname, tokens_only=False):
     with smart_open.smart_open(fname, encoding="iso-8859-1") as f:
@@ -48,7 +48,7 @@ for label, index in [('MOST', 0), ('SECOND-MOST', 1), ('MEDIAN', len(sims)//2), 
 doc_id = random.randint(0, len(train_corpus) - 1)
 
 # Compare and print the second-most-similar document
-print('Train Document ({}): «{}»\n'.format(doc_id, ' '.join(train_corpus[doc_id].words)))
+print('Train Document ({}): {}\n'.format(doc_id, ' '.join(train_corpus[doc_id].words))).encode("utf-8")
 sim_id = second_ranks[doc_id]
 print('Similar Document {}: «{}»\n'.format(sim_id, ' '.join(train_corpus[sim_id[0]].words)))
 
