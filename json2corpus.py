@@ -18,8 +18,9 @@ for i in range(24,40):
             with open('year'+str(i)+'/'+filename) as f:
                 data = json.load(f)
                 abstract = data['abstract']
+                title = data['title']
                 # pprint(data)
-                abstracts = abstracts + abstract + '\n'
+                abstracts = abstracts + title.rstrip() + '. ' + abstract + '\n'
 print(abstracts)
 corpus = open('abstracts.cor',mode="w",encoding="utf-8")
 corpus.write(abstracts)

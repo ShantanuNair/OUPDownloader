@@ -3,7 +3,7 @@
 import gensim
 import os
 import collections
-import smart_open
+import smart_open 
 import random
 
 # Set file names for train and test data
@@ -24,7 +24,7 @@ train_corpus = list(read_corpus(lee_train_file))
 test_corpus = list(read_corpus(lee_test_file, tokens_only=True))
 
 
-model = gensim.models.doc2vec.Doc2Vec(vector_size=50, min_count=2, epochs=40)
+model = gensim.models.doc2vec.Doc2Vec(vector_size=20, min_count=0, epochs=100, dbow_words=1)
 model.build_vocab(train_corpus)
 model.infer_vector(['only', 'you', 'can', 'prevent', 'forest', 'fires'])
 
@@ -45,21 +45,26 @@ print(u'SIMILAR/DISSIMILAR DOCS PER MODEL %s:\n' % model)
 for label, index in [('MOST', 0), ('SECOND-MOST', 1), ('MEDIAN', len(sims)//2), ('LEAST', len(sims) - 1)]:
     print(u'%s %s: %s\n' % (label, sims[index], ' '.join(train_corpus[sims[index][0]].words)))
     # Pick a random document from the corpus and infer a vector from the model
-doc_id = random.randint(0, len(train_corpus) - 1)
+for i in range(50):
+    try:
 
-# Compare and print the second-most-similar document
-print('Train Document ({}): {}\n'.format(doc_id, ' '.join(train_corpus[doc_id].words))).encode("utf-8")
-sim_id = second_ranks[doc_id]
-print('Similar Document {}: «{}»\n'.format(sim_id, ' '.join(train_corpus[sim_id[0]].words)))
+        doc_id = random.randint(0, len(train_corpus) - 1)
+
+        # Compare and print the second-most-similar document
+        print('Train Document ({}): {}\n'.format(doc_id, ' '.join(train_corpus[doc_id].words)))
+        sim_id = second_ranks[doc_id]
+        print('Similar Document {}: «{}»\n'.format(sim_id, ' '.join(train_corpus[sim_id[0]].words)))
+    except:
+        continue
 
 
-# Pick a random document from the test corpus and infer a vector from the model
-doc_id = random.randint(0, len(test_corpus) - 1)
-inferred_vector = model.infer_vector(test_corpus[doc_id])
-sims = model.docvecs.most_similar([inferred_vector], topn=len(model.docvecs))
+# # Pick a random document from the test corpus and infer a vector from the model
+# doc_id = random.randint(0, len(test_corpus) - 1)
+# inferred_vector = model.infer_vector(test_corpus[doc_id])
+# sims = model.docvecs.most_similar([inferred_vector], topn=len(model.docvecs))
 
-# Compare and print the most/median/least similar documents from the train corpus
-print('Test Document ({}): «{}»\n'.format(doc_id, ' '.join(test_corpus[doc_id])))
-print(u'SIMILAR/DISSIMILAR DOCS PER MODEL %s:\n' % model)
-for label, index in [('MOST', 0), ('MEDIAN', len(sims)//2), ('LEAST', len(sims) - 1)]:
-    print(u'%s %s: «%s»\n' % (label, sims[index], ' '.join(train_corpus[sims[index][0]].words)))
+# # Compare and print the most/median/least similar documents from the train corpus
+# print('Test Document ({}): «{}»\n'.format(doc_id, ' '.join(test_corpus[doc_id])))
+# print(u'SIMILAR/DISSIMILAR DOCS PER MODEL %s:\n' % model)
+# for label, index in [('MOST', 0), ('MEDIAN', len(sims)//2), ('LEAST', len(sims) - 1)]:
+#     print(u'%s %s: «%s»\n' % (label, sims[index], ' '.join(train_corpus[sims[index][0]].words)))
